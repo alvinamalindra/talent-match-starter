@@ -1,0 +1,2011 @@
+employee_id,fullname,rating,iq,gtq,growth_drive_and_resilience,curiosity_and_experimentation,insight_and_decision_sharpness,quality_delivery_discipline,synergy_and_team_orientation
+DUP1942,Dewi Fadillah Hidayat,5.0,,,5.0,4.0,5.0,5.0,5.0
+DUP2096,Putri Wibowo,3.0,,,3.0,3.0,4.0,2.0,3.0
+DUP2722,Dewi Syahputra,4.0,124.0,18.0,5.0,3.0,4.0,3.0,
+DUP3015,Bayu Kurniawan,3.0,87.0,22.0,3.0,2.0,4.0,3.0,4.0
+DUP3452,Fitri Anugrah Subekti,3.0,90.0,38.0,3.0,3.0,3.0,4.0,3.0
+DUP4177,Adi Ginting,2.0,,,1.0,2.0,2.0,1.0,2.0
+DUP5237,Fajar Fauziah,3.0,121.0,30.0,4.0,3.0,4.0,3.0,3.0
+DUP9015,Umar Maulana,3.0,134.0,41.0,3.0,2.0,3.0,4.0,3.0
+DUP9129,Nabila Dharma Salsabila,,93.0,36.0,4.0,3.0,4.0,5.0,4.0
+DUP9801,Ayu Kusuma Santoso,5.0,131.0,28.0,5.0,5.0,5.0,5.0,5.0
+EMP100000,Rendra Pratama,3.0,94.0,33.0,3.0,3.0,4.0,3.0,3.0
+EMP100001,Wulan Setiawan,3.0,94.0,17.0,2.0,2.0,3.0,2.0,2.0
+EMP100002,Julia Jatmiko Situmorang,4.0,109.0,20.0,3.0,5.0,3.0,5.0,4.0
+EMP100003,Oka Halim,3.0,85.0,39.0,4.0,3.0,3.0,3.0,
+EMP100004,Dwi Pratama,4.0,134.0,21.0,4.0,4.0,3.0,3.0,5.0
+EMP100005,Bayu Zulfikar,3.0,130.0,21.0,2.0,3.0,2.0,3.0,2.0
+EMP100006,Indra Santoso,4.0,139.0,27.0,4.0,3.0,5.0,4.0,3.0
+EMP100007,Rani Mahendra,2.0,99.0,17.0,2.0,2.0,,3.0,1.0
+EMP100008,Gita Permadi,3.0,137.0,23.0,4.0,3.0,3.0,2.0,3.0
+EMP100009,Julia Anggara,,82.0,29.0,2.0,3.0,2.0,3.0,1.0
+EMP100010,Maya Jatmiko Handayani,5.0,84.0,42.0,,5.0,5.0,5.0,4.0
+EMP100011,Fajar Halim,5.0,125.0,31.0,4.0,,0.0,,4.0
+EMP100012,Rendra Tri Purnama,5.0,108.0,43.0,4.0,2.0,4.0,4.0,2.0
+EMP100013,Maya Mahendra,2.0,124.0,33.0,2.0,2.0,2.0,2.0,3.0
+EMP100014,Wahyu Indrawan,3.0,92.0,24.0,3.0,3.0,3.0,3.0,2.0
+EMP100015,Zahra Utama Setiawan,,,,4.0,4.0,3.0,4.0,4.0
+EMP100016,Dinda Pramudita Ginting,2.0,97.0,34.0,1.0,3.0,2.0,3.0,1.0
+EMP100017,Fajar Mahendra,4.0,107.0,31.0,4.0,4.0,,4.0,3.0
+EMP100018,Arif Ginting,2.0,,28.0,2.0,3.0,2.0,2.0,
+EMP100019,Rizki Iqbal Gunawan,3.0,125.0,23.0,2.0,,3.0,3.0,3.0
+EMP100020,Yoga Erlangga Hartanto,4.0,132.0,33.0,,4.0,5.0,4.0,4.0
+EMP100021,Oka Candra Kurniawan,,,,4.0,4.0,4.0,4.0,4.0
+EMP100022,Oka Nugroho,4.0,91.0,35.0,4.0,3.0,5.0,4.0,4.0
+EMP100023,Adit Kurniawan,3.0,139.0,30.0,3.0,4.0,3.0,3.0,2.0
+EMP100024,Rendra Candra Maulida,5.0,134.0,23.0,5.0,5.0,5.0,5.0,4.0
+EMP100025,Rizky Dharma Purnama,,,34.0,3.0,3.0,3.0,4.0,4.0
+EMP100026,Wulan Yudhistira Tamba,5.0,107.0,32.0,5.0,5.0,5.0,4.0,5.0
+EMP100027,Oka Rohman,1.0,97.0,18.0,2.0,1.0,1.0,1.0,1.0
+EMP100028,Nadia Saputra,3.0,107.0,20.0,3.0,,3.0,3.0,3.0
+EMP100029,Satya Adi Hasibuan,,105.0,29.0,3.0,2.0,3.0,4.0,3.0
+EMP100030,Rizky Anugrah Permadi,3.0,110.0,22.0,,3.0,3.0,4.0,3.0
+EMP100031,Julia Nabila Kurniawan,2.0,103.0,35.0,2.0,2.0,2.0,2.0,3.0
+EMP100032,Galih Mahardika Purnama,3.0,,36.0,,3.0,2.0,2.0,3.0
+EMP100033,Ahmad Simanjuntak,2.0,117.0,23.0,2.0,3.0,1.0,1.0,
+EMP100034,Ari Adi Ginting,,116.0,35.0,2.0,3.0,3.0,3.0,3.0
+EMP100035,Oka Tamba,2.0,103.0,28.0,2.0,3.0,,2.0,2.0
+EMP100036,Ayunda Utama Lestari,3.0,120.0,28.0,3.0,2.0,3.0,3.0,3.0
+EMP100037,Nabila Ramadhan,4.0,,,4.0,5.0,4.0,4.0,4.0
+EMP100038,Bella Tri Setiawan,,93.0,36.0,4.0,3.0,4.0,5.0,4.0
+EMP100039,Budi Adi Permadi,5.0,125.0,41.0,5.0,5.0,4.0,5.0,5.0
+EMP100040,Rifqi Putra,2.0,112.0,24.0,2.0,2.0,,1.0,2.0
+EMP100041,Lestari Maulana,5.0,86.0,25.0,5.0,5.0,5.0,,5.0
+EMP100042,Oka Lukman,4.0,139.0,25.0,4.0,4.0,3.0,4.0,4.0
+EMP100043,Nugroho Indrawan,4.0,,,4.0,4.0,5.0,5.0,4.0
+EMP100044,Indra Maulida,4.0,82.0,41.0,4.0,4.0,3.0,4.0,4.0
+EMP100045,Dimas Mahendra,3.0,111.0,23.0,,3.0,3.0,4.0,4.0
+EMP100046,Fitri Lestari,2.0,,,3.0,2.0,2.0,2.0,1.0
+EMP100047,Hadi Pradana,1.0,110.0,22.0,2.0,1.0,1.0,1.0,2.0
+EMP100048,Adit Halim,3.0,125.0,36.0,3.0,3.0,0.0,3.0,3.0
+EMP100049,Rizki Halim Siregar,4.0,133.0,27.0,4.0,5.0,4.0,4.0,4.0
+EMP100050,Joko Ridwan,5.0,131.0,32.0,5.0,5.0,5.0,5.0,5.0
+EMP100051,Ari Mahardika Nugroho,2.0,110.0,36.0,2.0,1.0,3.0,2.0,2.0
+EMP100052,Sari Yudhistira Mahendra,5.0,126.0,36.0,5.0,5.0,5.0,5.0,5.0
+EMP100053,Anisa Pamungkas,4.0,140.0,23.0,5.0,4.0,5.0,3.0,3.0
+EMP100054,Nugroho Maulida,5.0,88.0,36.0,5.0,5.0,5.0,,5.0
+EMP100055,Putri Nugroho,4.0,124.0,26.0,4.0,5.0,4.0,4.0,3.0
+EMP100056,Ayunda Ramadhan,3.0,,,3.0,,3.0,4.0,2.0
+EMP100057,Nurlita Kusuma,3.0,123.0,35.0,2.0,3.0,2.0,3.0,3.0
+EMP100058,Adit Anugrah Halim,4.0,,,,1.0,2.0,1.0,2.0
+EMP100059,Fajar Dharma Subekti,5.0,92.0,13.0,5.0,,4.0,5.0,5.0
+EMP100060,Wulan Maulida,5.0,,,3.0,3.0,2.0,,2.0
+EMP100061,Oktavia Anugrah Setiawan,3.0,,,2.0,,3.0,,6.0
+EMP100062,Valdo Jatmiko Mahendra,3.0,89.0,31.0,3.0,3.0,3.0,4.0,2.0
+EMP100063,Ayu Lestari Pradana,3.0,,,3.0,2.0,2.0,4.0,3.0
+EMP100064,Kurnia Purnama,2.0,96.0,26.0,2.0,2.0,3.0,2.0,3.0
+EMP100065,Rani Saputra,4.0,90.0,34.0,4.0,5.0,,,3.0
+EMP100066,Tania Lestari Setiawan,3.0,84.0,28.0,,3.0,3.0,3.0,3.0
+EMP100067,Indra Zulfikar,3.0,101.0,20.0,3.0,3.0,4.0,3.0,
+EMP100068,Nabila Qolbi Suharto,1.0,,16.0,1.0,1.0,1.0,,1.0
+EMP100069,Anisa Permadi,,93.0,36.0,3.0,2.0,3.0,4.0,
+EMP100070,Kartika Rachman Ramadhan,,137.0,36.0,3.0,2.0,3.0,3.0,4.0
+EMP100071,Rafa Situmorang,3.0,107.0,35.0,3.0,2.0,3.0,4.0,4.0
+EMP100072,Nugroho Hartanto,2.0,87.0,32.0,2.0,2.0,2.0,2.0,2.0
+EMP100073,Dimas Halim Ananda,2.0,104.0,35.0,1.0,2.0,2.0,2.0,2.0
+EMP100074,Ari Utama Putra,3.0,131.0,25.0,4.0,3.0,3.0,4.0,3.0
+EMP100075,Rizki Halim Zulfikar,5.0,,,5.0,5.0,5.0,5.0,5.0
+EMP100076,Rizki Wijaya,4.0,80.0,34.0,,4.0,5.0,4.0,4.0
+EMP100077,Novi Setiawan,2.0,135.0,32.0,3.0,,1.0,2.0,2.0
+EMP100078,Indra Anggara,3.0,84.0,19.0,4.0,3.0,3.0,2.0,3.0
+EMP100079,Novi Hasibuan,3.0,122.0,23.0,4.0,,,4.0,3.0
+EMP100080,Andi Mahardika Handayani,3.0,87.0,36.0,2.0,3.0,4.0,3.0,3.0
+EMP100081,Ari Yulianto,4.0,138.0,23.0,3.0,5.0,3.0,4.0,4.0
+EMP100082,Budi Dharma Lukman,4.0,133.0,27.0,3.0,3.0,3.0,,3.0
+EMP100083,Rizka Erlangga Subekti,,99.0,30.0,4.0,4.0,4.0,,5.0
+EMP100084,Dian Rachman Handayani,4.0,118.0,36.0,5.0,5.0,3.0,4.0,3.0
+EMP100085,Ahmad Rohman,4.0,,26.0,5.0,4.0,4.0,4.0,4.0
+EMP100086,Rani Syahputra,4.0,110.0,36.0,4.0,4.0,3.0,4.0,4.0
+EMP100087,Rizka Ananda,1.0,109.0,25.0,1.0,1.0,1.0,1.0,1.0
+EMP100088,Nadia Saputra Mahendra,2.0,83.0,29.0,2.0,3.0,,2.0,
+EMP100089,Umar Simanjuntak,,,,,4.0,,2.0,3.0
+EMP100090,Maya Pratomo,4.0,,29.0,4.0,3.0,4.0,5.0,4.0
+EMP100091,Oka Candra Firmansyah,4.0,102.0,23.0,4.0,4.0,5.0,,4.0
+EMP100092,Ahmad Indrawan,3.0,,,3.0,,2.0,4.0,4.0
+EMP100093,Nadia Lestari Utami,2.0,93.0,24.0,2.0,1.0,2.0,2.0,
+EMP100094,Nadia Utama Yulianto,4.0,95.0,16.0,3.0,4.0,4.0,4.0,4.0
+EMP100095,Fitri Pamungkas,3.0,,,3.0,2.0,4.0,4.0,3.0
+EMP100096,Rama Dharma Wibowo,2.0,,20.0,2.0,1.0,3.0,3.0,2.0
+EMP100097,Valdo Subekti,3.0,,32.0,,4.0,3.0,3.0,3.0
+EMP100098,Indra Hidayat,3.0,128.0,17.0,,4.0,2.0,4.0,3.0
+EMP100099,Tania Suharto,3.0,,,3.0,3.0,3.0,2.0,2.0
+EMP100100,Intan Rachman Suharto,1.0,,,2.0,1.0,1.0,,
+EMP100101,Yoga Pratomo,4.0,81.0,26.0,4.0,3.0,4.0,4.0,4.0
+EMP100102,Dinda Permadi,,111.0,19.0,2.0,2.0,2.0,2.0,3.0
+EMP100103,Ayu Ginting,5.0,105.0,26.0,5.0,,5.0,5.0,5.0
+EMP100104,Budi Pratama,1.0,102.0,23.0,1.0,1.0,1.0,1.0,1.0
+EMP100105,Maya Yulianto,1.0,,,1.0,2.0,,2.0,1.0
+EMP100106,Valdo Wijaya Wijaya,1.0,102.0,29.0,1.0,2.0,1.0,1.0,1.0
+EMP100107,Dian Fauziah,,104.0,41.0,4.0,3.0,3.0,2.0,4.0
+EMP100108,Dinda Erlangga Handayani,4.0,129.0,27.0,3.0,4.0,4.0,4.0,4.0
+EMP100109,Dinda Wibowo,1.0,91.0,16.0,2.0,1.0,1.0,2.0,1.0
+EMP100110,Citra Hartanto,3.0,97.0,37.0,2.0,2.0,,3.0,3.0
+EMP100111,Rendra Herlambang,2.0,83.0,22.0,3.0,2.0,2.0,,2.0
+EMP100112,Adit Mahardika Pratama,2.0,132.0,25.0,,2.0,2.0,3.0,2.0
+EMP100113,Iman Rachman Rahmawati,,117.0,28.0,4.0,3.0,2.0,3.0,2.0
+EMP100114,Vania Fadillah Fauziah,5.0,,,4.0,4.0,4.0,,5.0
+EMP100115,Satya Yudhistira Lukman,2.0,90.0,23.0,1.0,1.0,1.0,1.0,1.0
+EMP100116,Bayu Ridwan,,,,3.0,4.0,5.0,4.0,
+EMP100117,Prasetyo Gunawan,4.0,86.0,25.0,,4.0,4.0,4.0,4.0
+EMP100118,Julia Pramudita Hartanto,,,32.0,,3.0,3.0,4.0,3.0
+EMP100119,Iman Ginting,4.0,102.0,29.0,4.0,4.0,4.0,5.0,3.0
+EMP100120,Iman Maulida,2.0,127.0,29.0,3.0,,2.0,2.0,2.0
+EMP100121,Bayu Hidayat,3.0,84.0,21.0,3.0,3.0,3.0,,2.0
+EMP100122,Rizki Simanjuntak,1.0,,,1.0,2.0,1.0,1.0,1.0
+EMP100123,Kurnia Jatmiko Permadi,2.0,107.0,27.0,,2.0,3.0,,2.0
+EMP100124,Maya Nabila Salsabila,2.0,,,2.0,2.0,1.0,2.0,3.0
+EMP100125,Nabila Lestari Santoso,4.0,,30.0,4.0,3.0,4.0,4.0,3.0
+EMP100126,Vania Siregar,3.0,120.0,24.0,3.0,3.0,3.0,3.0,3.0
+EMP100127,Lestari Gunawan,3.0,,,3.0,2.0,3.0,4.0,3.0
+EMP100128,Ahmad Siregar,2.0,117.0,38.0,1.0,3.0,2.0,2.0,
+EMP100129,Dian Utama Kusuma,2.0,109.0,28.0,3.0,2.0,1.0,2.0,3.0
+EMP100130,Citra Rahmawati,4.0,84.0,24.0,3.0,4.0,3.0,3.0,
+EMP100131,Ayunda Adi Hartanto,3.0,102.0,24.0,2.0,2.0,3.0,3.0,4.0
+EMP100132,Maya Ramadhan,2.0,118.0,33.0,2.0,2.0,2.0,2.0,2.0
+EMP100133,Rendra Handayani,3.0,104.0,39.0,3.0,2.0,2.0,3.0,3.0
+EMP100134,Rifqi Wijaya,3.0,119.0,22.0,4.0,3.0,3.0,3.0,3.0
+EMP100135,Indra Wijaya Ridwan,4.0,113.0,27.0,4.0,4.0,4.0,4.0,5.0
+EMP100136,Maya Pradana,,131.0,26.0,4.0,,3.0,2.0,
+EMP100137,Rizky Jatmiko Hasibuan,2.0,125.0,16.0,1.0,,2.0,3.0,2.0
+EMP100138,Rani Zulfikar,4.0,,,3.0,5.0,5.0,5.0,4.0
+EMP100139,Nadia Herlambang,3.0,,,3.0,3.0,2.0,3.0,3.0
+EMP100140,Yuni Siregar,4.0,,33.0,5.0,3.0,4.0,4.0,4.0
+EMP100141,Fitri Utami,4.0,124.0,29.0,1.0,1.0,1.0,,2.0
+EMP100142,Indra Putra,4.0,,,,3.0,3.0,4.0,3.0
+EMP100143,Nadia Pramudita Wibowo,1.0,122.0,21.0,,1.0,,0.0,1.0
+EMP100144,Bella Nabila Purnama,2.0,,23.0,1.0,2.0,2.0,2.0,2.0
+EMP100145,Novi Purnama,1.0,107.0,31.0,1.0,,1.0,,2.0
+EMP100146,Maya Wijaya,,120.0,21.0,3.0,,4.0,4.0,4.0
+EMP100147,Hana Ridwan,3.0,,34.0,3.0,4.0,4.0,3.0,2.0
+EMP100148,Galih Zulfikar Hasibuan,1.0,120.0,34.0,,2.0,1.0,1.0,1.0
+EMP100149,Teguh Saputra Hasibuan,4.0,122.0,26.0,3.0,2.0,2.0,2.0,2.0
+EMP100150,Hadi Hasibuan,,125.0,26.0,2.0,3.0,2.0,2.0,4.0
+EMP100151,Wahyu Permadi,2.0,123.0,15.0,2.0,2.0,1.0,2.0,2.0
+EMP100152,Satya Siregar,4.0,93.0,22.0,,5.0,3.0,3.0,3.0
+EMP100153,Arif Herlambang,2.0,,31.0,2.0,2.0,,1.0,2.0
+EMP100154,Kurnia Maulida,2.0,117.0,26.0,2.0,2.0,2.0,1.0,3.0
+EMP100155,Citra Jatmiko Siregar,2.0,,,2.0,3.0,2.0,2.0,1.0
+EMP100156,Yoga Anugrah Lestari,4.0,80.0,29.0,3.0,5.0,,3.0,4.0
+EMP100157,Maya Zulfikar Purnama,2.0,118.0,24.0,2.0,2.0,1.0,2.0,2.0
+EMP100158,Lestari Syahputra,,137.0,23.0,5.0,5.0,5.0,5.0,5.0
+EMP100159,Nabila Mahendra,,,29.0,3.0,2.0,,,
+EMP100160,Nugroho Rachman Salsabila,3.0,133.0,25.0,2.0,3.0,4.0,4.0,4.0
+EMP100161,Wulan Saputra Pratama,1.0,113.0,20.0,1.0,1.0,1.0,1.0,2.0
+EMP100162,Eko Adi Permadi,1.0,138.0,22.0,1.0,2.0,1.0,1.0,1.0
+EMP100163,Oktavia Pramudita Sinaga,3.0,137.0,28.0,1.0,1.0,1.0,1.0,1.0
+EMP100164,Wahyu Iqbal Pratomo,3.0,,34.0,4.0,3.0,4.0,,3.0
+EMP100165,Kurnia Nugroho,4.0,123.0,29.0,4.0,4.0,5.0,4.0,4.0
+EMP100166,Wahyu Yulianto,2.0,,,3.0,2.0,1.0,,1.0
+EMP100167,Eko Zulfikar,3.0,119.0,24.0,4.0,4.0,3.0,4.0,3.0
+EMP100168,Wahyu Rachman Utami,1.0,114.0,34.0,2.0,1.0,1.0,,2.0
+EMP100169,Intan Permadi,,101.0,20.0,2.0,2.0,1.0,1.0,2.0
+EMP100170,Dinda Wijaya Zulfikar,3.0,,,3.0,,4.0,2.0,3.0
+EMP100171,Nadia Yulianto,2.0,136.0,22.0,1.0,1.0,1.0,3.0,2.0
+EMP100172,Dinda Ridwan,4.0,115.0,22.0,,3.0,4.0,4.0,4.0
+EMP100173,Ahmad Wijaya,3.0,,27.0,2.0,3.0,3.0,2.0,3.0
+EMP100174,Ayunda Nabila Ramadhan,,,,4.0,3.0,2.0,,3.0
+EMP100175,Budi Hasibuan,3.0,133.0,25.0,3.0,3.0,3.0,3.0,3.0
+EMP100176,Fajar Firmansyah,3.0,134.0,38.0,2.0,2.0,2.0,2.0,3.0
+EMP100177,Rama Mahardika Wijaya,,86.0,28.0,4.0,5.0,4.0,4.0,4.0
+EMP100178,Nurlita Siregar,4.0,106.0,27.0,3.0,4.0,4.0,5.0,4.0
+EMP100179,Andi Santoso,3.0,,,3.0,4.0,3.0,3.0,3.0
+EMP100180,Evi Kurniawan,3.0,101.0,42.0,4.0,4.0,3.0,3.0,3.0
+EMP100181,Dewi Mahardika Salsabila,3.0,,,4.0,3.0,3.0,,4.0
+EMP100182,Joko Kusuma Maulana,2.0,,,2.0,2.0,2.0,3.0,3.0
+EMP100183,Valdo Herlambang,3.0,,,3.0,2.0,2.0,,3.0
+EMP100184,Rizka Pamungkas,2.0,113.0,26.0,2.0,1.0,3.0,1.0,1.0
+EMP100185,Yuni Anugrah Subekti,1.0,,28.0,0.0,2.0,,1.0,1.0
+EMP100186,Rizki Halim,5.0,128.0,37.0,,4.0,5.0,5.0,5.0
+EMP100187,Ayu Tamba,2.0,88.0,23.0,2.0,1.0,2.0,3.0,2.0
+EMP100188,Novi Pramudita Syahputra,4.0,92.0,26.0,4.0,4.0,3.0,4.0,4.0
+EMP100189,Andi Ganesha Hartanto,2.0,129.0,25.0,3.0,2.0,3.0,,3.0
+EMP100190,Kartika Santoso,4.0,112.0,19.0,3.0,4.0,4.0,3.0,3.0
+EMP100191,Cahyo Wijaya,1.0,138.0,18.0,1.0,1.0,1.0,1.0,1.0
+EMP100192,Yoga Handayani,,111.0,34.0,3.0,4.0,3.0,3.0,
+EMP100193,Kurnia Anugrah Kurniawan,3.0,134.0,30.0,4.0,3.0,,3.0,3.0
+EMP100194,Arif Hasibuan,4.0,109.0,34.0,4.0,4.0,3.0,4.0,4.0
+EMP100195,Fitri Purnama,3.0,124.0,31.0,3.0,,3.0,4.0,4.0
+EMP100196,Kurnia Situmorang,3.0,,,3.0,2.0,3.0,3.0,4.0
+EMP100197,Fitri Santoso,3.0,83.0,27.0,,3.0,3.0,3.0,3.0
+EMP100198,Citra Baskara Suharto,,87.0,20.0,5.0,,4.0,4.0,5.0
+EMP100199,Valdo Zulfikar Halim,4.0,97.0,24.0,4.0,3.0,4.0,4.0,3.0
+EMP100200,Lestari Pratomo,3.0,102.0,25.0,2.0,4.0,3.0,3.0,3.0
+EMP100201,Gita Ganesha Santoso,3.0,101.0,31.0,3.0,2.0,3.0,2.0,4.0
+EMP100202,Rizky Anugrah Suharto,3.0,111.0,21.0,3.0,2.0,,3.0,3.0
+EMP100203,Teguh Kusuma Siregar,3.0,92.0,29.0,3.0,3.0,3.0,4.0,4.0
+EMP100204,Utami Candra Ginting,3.0,,,,4.0,2.0,3.0,2.0
+EMP100205,Vania Adi Nugroho,3.0,139.0,28.0,3.0,3.0,2.0,,3.0
+EMP100206,Sari Pratomo,3.0,115.0,33.0,2.0,4.0,4.0,2.0,
+EMP100207,Lestari Qolbi Setiawan,,91.0,26.0,1.0,1.0,,,1.0
+EMP100208,Hadi Tri Maulida,,89.0,33.0,5.0,5.0,5.0,5.0,5.0
+EMP100209,Nugroho Pamungkas,3.0,126.0,21.0,3.0,4.0,2.0,3.0,2.0
+EMP100210,Zaki Jatmiko Sinaga,3.0,,,4.0,3.0,4.0,3.0,3.0
+EMP100211,Dian Tri Pratomo,3.0,135.0,30.0,4.0,4.0,4.0,4.0,2.0
+EMP100212,Galih Kurniawan,3.0,92.0,31.0,3.0,3.0,3.0,4.0,3.0
+EMP100213,Rizky Permadi,3.0,94.0,32.0,2.0,4.0,3.0,4.0,2.0
+EMP100214,Oktavia Subekti,2.0,,,2.0,2.0,1.0,1.0,1.0
+EMP100215,Valdo Wijaya,2.0,105.0,20.0,3.0,1.0,2.0,3.0,3.0
+EMP100216,Sari Ananda,3.0,111.0,25.0,3.0,3.0,3.0,4.0,3.0
+EMP100217,Luthfi Purnama,1.0,,32.0,2.0,,1.0,2.0,2.0
+EMP100218,Ayu Lukman,3.0,95.0,27.0,3.0,2.0,3.0,,3.0
+EMP100219,Julia Kusuma Santoso,,106.0,39.0,4.0,3.0,4.0,4.0,4.0
+EMP100220,Rizka Adi Setiawan,4.0,84.0,18.0,5.0,5.0,4.0,5.0,4.0
+EMP100221,Dimas Qolbi Maulana,2.0,119.0,33.0,3.0,,2.0,2.0,2.0
+EMP100222,Luthfi Wijaya,1.0,88.0,28.0,1.0,2.0,1.0,,2.0
+EMP100223,Utami Mahardika Rohman,1.0,96.0,23.0,1.0,1.0,1.0,1.0,1.0
+EMP100224,Rafa Maulida,4.0,114.0,22.0,4.0,4.0,4.0,3.0,4.0
+EMP100225,Fajar Purnama,2.0,123.0,31.0,2.0,1.0,2.0,3.0,
+EMP100226,Nabila Simanjuntak,3.0,124.0,30.0,3.0,3.0,3.0,3.0,2.0
+EMP100227,Wulan Suharto,,102.0,24.0,3.0,3.0,3.0,3.0,
+EMP100228,Satya Candra Handayani,2.0,116.0,29.0,2.0,1.0,1.0,1.0,3.0
+EMP100229,Rizki Putra,5.0,103.0,12.0,,5.0,5.0,5.0,5.0
+EMP100230,Eko Indrawan,4.0,90.0,18.0,5.0,4.0,4.0,4.0,4.0
+EMP100231,Satya Halim Hidayat,5.0,139.0,23.0,5.0,4.0,5.0,5.0,4.0
+EMP100232,Zaki Ridwan,4.0,,,5.0,4.0,4.0,3.0,
+EMP100233,Utami Iqbal Gunawan,4.0,125.0,31.0,4.0,4.0,3.0,4.0,3.0
+EMP100234,Galih Jatmiko Maulana,,117.0,31.0,4.0,5.0,4.0,4.0,5.0
+EMP100235,Bayu Maulida,4.0,88.0,24.0,4.0,,4.0,4.0,
+EMP100236,Teguh Santoso,4.0,116.0,31.0,4.0,5.0,4.0,4.0,3.0
+EMP100237,Sari Halim Siregar,,140.0,34.0,4.0,4.0,4.0,4.0,4.0
+EMP100238,Dewi Siregar,3.0,,,2.0,3.0,2.0,4.0,3.0
+EMP100239,Dimas Sinaga,,,,2.0,3.0,4.0,4.0,3.0
+EMP100240,Oktavia Hartanto,2.0,84.0,28.0,2.0,2.0,1.0,3.0,2.0
+EMP100241,Sari Saputra Lukman,4.0,,,4.0,4.0,,3.0,4.0
+EMP100242,Rifqi Pamungkas,3.0,93.0,24.0,3.0,3.0,3.0,4.0,3.0
+EMP100243,Sari Yudhistira Setiawan,4.0,116.0,34.0,3.0,5.0,3.0,5.0,5.0
+EMP100244,Zaki Suharto,3.0,128.0,36.0,3.0,3.0,2.0,4.0,
+EMP100245,Budi Kurniawan,3.0,,,,2.0,3.0,3.0,
+EMP100246,Rizky Subekti,4.0,82.0,24.0,4.0,4.0,3.0,4.0,4.0
+EMP100247,Hadi Ganesha Wijaya,,85.0,21.0,4.0,2.0,2.0,3.0,4.0
+EMP100248,Ahmad Erlangga Siregar,4.0,102.0,34.0,4.0,4.0,3.0,4.0,4.0
+EMP100249,Evi Ridwan,4.0,86.0,29.0,4.0,4.0,3.0,4.0,4.0
+EMP100250,Arif Mahardika Kusuma,2.0,89.0,28.0,2.0,1.0,2.0,,2.0
+EMP100251,Vania Halim Santoso,3.0,121.0,25.0,3.0,2.0,3.0,4.0,3.0
+EMP100252,Wulan Adi Mahendra,3.0,105.0,25.0,4.0,4.0,3.0,3.0,3.0
+EMP100253,Putri Kusuma,,91.0,23.0,2.0,4.0,3.0,3.0,3.0
+EMP100254,Wulan Salsabila,4.0,84.0,13.0,5.0,4.0,4.0,,5.0
+EMP100255,Cahyo Anggara,1.0,121.0,25.0,1.0,1.0,2.0,1.0,2.0
+EMP100256,Maya Dharma Pamungkas,1.0,80.0,38.0,1.0,1.0,1.0,1.0,1.0
+EMP100257,Zahra Aji Zulfikar,,,,1.0,2.0,1.0,2.0,1.0
+EMP100258,Fitri Adi Maulana,4.0,121.0,29.0,5.0,3.0,4.0,5.0,4.0
+EMP100259,Gita Ridwan,4.0,88.0,34.0,5.0,4.0,4.0,4.0,4.0
+EMP100260,Ahmad Pramudita Siregar,2.0,87.0,14.0,2.0,2.0,2.0,2.0,3.0
+EMP100261,Valdo Gunawan,3.0,138.0,18.0,,3.0,2.0,2.0,
+EMP100262,Iman Baskara Saputra,4.0,136.0,19.0,4.0,4.0,4.0,5.0,3.0
+EMP100263,Maya Handayani,,123.0,24.0,4.0,,3.0,4.0,5.0
+EMP100264,Citra Utami,3.0,91.0,19.0,4.0,,3.0,3.0,3.0
+EMP100265,Citra Yulianto,2.0,91.0,29.0,2.0,2.0,2.0,2.0,2.0
+EMP100266,Prasetyo Firmansyah,3.0,98.0,33.0,4.0,2.0,3.0,3.0,2.0
+EMP100267,Nurlita Saputra Sinaga,2.0,,,3.0,,6.0,2.0,2.0
+EMP100268,Nadia Tri Fauziah,4.0,94.0,33.0,,4.0,4.0,4.0,5.0
+EMP100269,Zahra Pramudita Kusuma,4.0,84.0,25.0,4.0,5.0,3.0,3.0,3.0
+EMP100270,Rani Aji Setiawan,,85.0,22.0,1.0,1.0,2.0,3.0,
+EMP100271,Rani Nugroho,3.0,92.0,21.0,4.0,3.0,3.0,,3.0
+EMP100272,Yoga Qolbi Herlambang,,,24.0,3.0,2.0,3.0,3.0,3.0
+EMP100273,Rani Wibowo,5.0,,,5.0,,5.0,4.0,5.0
+EMP100274,Nabila Anugrah Gunawan,3.0,94.0,40.0,4.0,,4.0,3.0,4.0
+EMP100275,Evi Maulana,3.0,125.0,26.0,3.0,4.0,,4.0,3.0
+EMP100276,Maya Fauziah,4.0,,,4.0,4.0,3.0,4.0,3.0
+EMP100277,Nadia Handayani,3.0,119.0,36.0,3.0,2.0,2.0,3.0,2.0
+EMP100278,Tania Qolbi Lukman,2.0,,28.0,3.0,2.0,3.0,1.0,3.0
+EMP100279,Julia Wibowo,1.0,106.0,30.0,1.0,1.0,1.0,1.0,1.0
+EMP100280,Yuni Nabila Handayani,4.0,119.0,13.0,3.0,1.0,2.0,2.0,2.0
+EMP100281,Bella Qolbi Ridwan,4.0,93.0,27.0,4.0,4.0,3.0,4.0,4.0
+EMP100282,Indra Siregar,4.0,126.0,37.0,,4.0,4.0,3.0,4.0
+EMP100283,Wahyu Anggara,,139.0,33.0,3.0,2.0,3.0,2.0,2.0
+EMP100284,Julia Maulana,1.0,98.0,22.0,1.0,1.0,2.0,1.0,1.0
+EMP100285,Adi Mahardika Setiawan,2.0,140.0,27.0,2.0,2.0,2.0,2.0,1.0
+EMP100286,Hana Wijaya Anggara,2.0,96.0,25.0,2.0,3.0,2.0,3.0,2.0
+EMP100287,Bella Mahendra,,104.0,37.0,3.0,3.0,3.0,2.0,3.0
+EMP100288,Budi Rachman Ramadhan,2.0,82.0,21.0,3.0,1.0,2.0,2.0,3.0
+EMP100289,Teguh Hasibuan,4.0,88.0,25.0,5.0,5.0,4.0,4.0,5.0
+EMP100290,Ahmad Mahardika Firmansyah,,85.0,32.0,4.0,3.0,,3.0,4.0
+EMP100291,Cahyo Pratomo,3.0,123.0,26.0,4.0,3.0,3.0,3.0,
+EMP100292,Wahyu Halim Zulfikar,2.0,92.0,25.0,2.0,2.0,2.0,2.0,
+EMP100293,Sari Fadillah Mahendra,3.0,82.0,27.0,,2.0,3.0,3.0,3.0
+EMP100294,Fitri Dharma Hidayat,3.0,124.0,25.0,3.0,2.0,4.0,3.0,
+EMP100295,Hadi Dharma Siregar,3.0,102.0,30.0,2.0,,4.0,3.0,3.0
+EMP100296,Bayu Nugroho,4.0,84.0,24.0,4.0,4.0,4.0,4.0,5.0
+EMP100297,Yoga Salsabila,1.0,135.0,29.0,2.0,2.0,2.0,1.0,2.0
+EMP100298,Yuni Iqbal Saputra,3.0,81.0,29.0,4.0,3.0,3.0,3.0,3.0
+EMP100299,Fajar Rachman Ridwan,,125.0,23.0,3.0,3.0,2.0,3.0,2.0
+EMP100300,Rama Lukman,4.0,126.0,31.0,4.0,4.0,4.0,4.0,5.0
+EMP100301,Rama Zulfikar,2.0,123.0,23.0,2.0,3.0,1.0,2.0,2.0
+EMP100302,Rizky Ginting,3.0,130.0,26.0,4.0,,2.0,,2.0
+EMP100303,Bayu Wijaya Maulida,3.0,94.0,23.0,4.0,3.0,3.0,3.0,3.0
+EMP100304,Valdo Halim,,,,2.0,2.0,3.0,,2.0
+EMP100305,Indra Herlambang,3.0,113.0,25.0,3.0,3.0,3.0,4.0,
+EMP100306,Dinda Kusuma Ananda,3.0,,39.0,4.0,3.0,3.0,2.0,2.0
+EMP100307,Sari Indrawan,3.0,,,3.0,3.0,,2.0,3.0
+EMP100308,Nugroho Subekti,4.0,105.0,24.0,4.0,,3.0,3.0,4.0
+EMP100309,Valdo Ridwan,4.0,120.0,28.0,4.0,4.0,3.0,4.0,4.0
+EMP100310,Rendra Pradana,4.0,91.0,31.0,4.0,,5.0,4.0,4.0
+EMP100311,Maya Pramudita Zulfikar,2.0,102.0,23.0,1.0,2.0,2.0,2.0,1.0
+EMP100312,Maya Lestari,2.0,,,1.0,1.0,2.0,1.0,2.0
+EMP100313,Budi Qolbi Hidayat,5.0,105.0,30.0,5.0,5.0,5.0,5.0,5.0
+EMP100314,Yuni Herlambang,1.0,116.0,22.0,1.0,1.0,1.0,1.0,1.0
+EMP100315,Rama Kusuma,3.0,99.0,28.0,4.0,3.0,3.0,4.0,
+EMP100316,Joko Siregar,3.0,82.0,28.0,,3.0,3.0,3.0,4.0
+EMP100317,Budi Herlambang,3.0,95.0,35.0,2.0,3.0,4.0,4.0,3.0
+EMP100318,Rafa Lestari Fauziah,3.0,,,2.0,2.0,4.0,3.0,4.0
+EMP100319,Valdo Anugrah Ramadhan,5.0,139.0,32.0,5.0,5.0,,5.0,5.0
+EMP100320,Budi Hartanto,1.0,99.0,22.0,1.0,2.0,1.0,,1.0
+EMP100321,Wulan Iqbal Herlambang,3.0,136.0,31.0,3.0,2.0,3.0,4.0,3.0
+EMP100322,Rizka Pramudita Suharto,4.0,85.0,25.0,4.0,4.0,3.0,3.0,4.0
+EMP100323,Umar Indrawan,3.0,92.0,32.0,2.0,3.0,3.0,2.0,4.0
+EMP100324,Intan Halim,,108.0,28.0,3.0,2.0,3.0,,3.0
+EMP100325,Wahyu Kusuma Hartanto,2.0,,35.0,2.0,1.0,1.0,1.0,2.0
+EMP100326,Rizka Qolbi Mahendra,5.0,92.0,36.0,5.0,5.0,4.0,5.0,5.0
+EMP100327,Vania Rachman Utami,,122.0,33.0,5.0,5.0,,5.0,5.0
+EMP100328,Tania Yudhistira Simanjuntak,3.0,130.0,38.0,2.0,3.0,4.0,4.0,
+EMP100329,Galih Iqbal Pamungkas,3.0,92.0,19.0,3.0,2.0,3.0,3.0,
+EMP100330,Kartika Gunawan,4.0,,36.0,4.0,,5.0,4.0,5.0
+EMP100331,Julia Tri Hartanto,5.0,127.0,28.0,4.0,4.0,4.0,4.0,5.0
+EMP100332,Dewi Maulida,3.0,95.0,25.0,,4.0,3.0,4.0,3.0
+EMP100333,Mahendra Putra,5.0,92.0,24.0,4.0,4.0,5.0,5.0,4.0
+EMP100334,Sari Maulana,3.0,,,2.0,4.0,3.0,3.0,4.0
+EMP100335,Mahendra Pramudita Purnama,3.0,119.0,37.0,3.0,3.0,4.0,,4.0
+EMP100336,Evi Pratomo,3.0,117.0,30.0,3.0,4.0,4.0,4.0,3.0
+EMP100337,Anisa Situmorang,,85.0,22.0,2.0,3.0,3.0,3.0,4.0
+EMP100338,Galih Halim,,,,5.0,4.0,4.0,4.0,3.0
+EMP100339,Rafa Pramudita Purnama,3.0,81.0,27.0,3.0,3.0,3.0,3.0,4.0
+EMP100340,Rifqi Ginting,,,,3.0,4.0,3.0,2.0,2.0
+EMP100341,Lestari Handayani,3.0,136.0,22.0,2.0,3.0,3.0,3.0,3.0
+EMP100342,Luthfi Utama Pradana,2.0,88.0,33.0,3.0,,2.0,1.0,2.0
+EMP100343,Adit Tamba,3.0,,28.0,3.0,2.0,4.0,3.0,3.0
+EMP100344,Iman Wijaya Ginting,3.0,,,4.0,3.0,3.0,3.0,3.0
+EMP100345,Arif Jatmiko Wibowo,3.0,139.0,26.0,1.0,1.0,1.0,1.0,1.0
+EMP100346,Ari Ridwan,1.0,94.0,23.0,1.0,1.0,1.0,2.0,
+EMP100347,Rizky Nabila Fauziah,3.0,,,4.0,3.0,4.0,2.0,2.0
+EMP100348,Indra Ananda,,95.0,26.0,3.0,3.0,3.0,4.0,3.0
+EMP100349,Dwi Ridwan,3.0,,,3.0,3.0,,3.0,3.0
+EMP100350,Galih Ganesha Fauziah,,,,3.0,3.0,4.0,3.0,4.0
+EMP100351,Cahyo Jatmiko Wibowo,3.0,139.0,31.0,3.0,4.0,2.0,3.0,2.0
+EMP100352,Gita Wijaya Lestari,3.0,85.0,29.0,3.0,3.0,,3.0,3.0
+EMP100353,Wahyu Kusuma,3.0,89.0,41.0,4.0,3.0,3.0,3.0,3.0
+EMP100354,Wahyu Setiawan,2.0,,,2.0,,3.0,,1.0
+EMP100355,Dimas Erlangga Yulianto,4.0,103.0,26.0,3.0,4.0,3.0,4.0,4.0
+EMP100356,Adi Baskara Subekti,4.0,,,4.0,5.0,4.0,4.0,4.0
+EMP100357,Adit Siregar,4.0,119.0,30.0,3.0,3.0,,4.0,4.0
+EMP100358,Rizki Handayani,4.0,127.0,25.0,5.0,,5.0,3.0,3.0
+EMP100359,Vania Baskara Pratama,2.0,91.0,22.0,3.0,3.0,2.0,3.0,2.0
+EMP100360,Rizka Rachman Wijaya,5.0,110.0,26.0,4.0,5.0,5.0,5.0,4.0
+EMP100361,Eko Baskara Ananda,3.0,83.0,34.0,3.0,2.0,3.0,3.0,3.0
+EMP100362,Adit Ginting,5.0,,29.0,4.0,5.0,5.0,5.0,4.0
+EMP100363,Zahra Salsabila,4.0,128.0,27.0,3.0,5.0,4.0,5.0,4.0
+EMP100364,Utami Kusuma,2.0,97.0,31.0,2.0,2.0,2.0,1.0,3.0
+EMP100365,Maya Syahputra,4.0,111.0,27.0,4.0,3.0,4.0,4.0,5.0
+EMP100366,Zaki Qolbi Tamba,3.0,93.0,22.0,3.0,2.0,3.0,3.0,4.0
+EMP100367,Utami Utama Maulana,6.0,119.0,27.0,3.0,2.0,3.0,4.0,2.0
+EMP100368,Dewi Indrawan,3.0,119.0,21.0,4.0,4.0,3.0,2.0,4.0
+EMP100369,Wahyu Halim,2.0,106.0,26.0,1.0,1.0,1.0,1.0,
+EMP100370,Bayu Tamba,,83.0,25.0,5.0,5.0,5.0,5.0,5.0
+EMP100371,Ahmad Yudhistira Pratama,2.0,137.0,15.0,3.0,2.0,1.0,2.0,2.0
+EMP100372,Andi Baskara Pamungkas,2.0,128.0,28.0,2.0,1.0,2.0,2.0,2.0
+EMP100373,Gita Lestari,3.0,136.0,32.0,3.0,4.0,4.0,4.0,4.0
+EMP100374,Utami Tamba,4.0,,32.0,3.0,4.0,4.0,4.0,4.0
+EMP100375,Intan Setiawan,3.0,100.0,17.0,3.0,3.0,3.0,3.0,
+EMP100376,Evi Iqbal Syahputra,3.0,,,3.0,3.0,,3.0,6.0
+EMP100377,Mahendra Pramudita Sinaga,3.0,94.0,31.0,2.0,4.0,3.0,3.0,2.0
+EMP100378,Hana Halim,3.0,119.0,40.0,4.0,4.0,3.0,,2.0
+EMP100379,Ayu Mahardika Simanjuntak,5.0,,,,,5.0,5.0,5.0
+EMP100380,Evi Maulida,3.0,,,2.0,3.0,4.0,3.0,2.0
+EMP100381,Cahyo Halim Siregar,1.0,107.0,19.0,1.0,1.0,1.0,1.0,2.0
+EMP100382,Utami Erlangga Tamba,3.0,,,4.0,3.0,3.0,3.0,3.0
+EMP100383,Eko Mahendra,,98.0,19.0,1.0,1.0,2.0,1.0,1.0
+EMP100384,Dimas Saputra Utami,3.0,122.0,24.0,3.0,3.0,2.0,4.0,3.0
+EMP100385,Hana Ananda,2.0,113.0,18.0,2.0,1.0,3.0,,2.0
+EMP100386,Tania Santoso,4.0,140.0,34.0,4.0,,3.0,4.0,4.0
+EMP100387,Ari Tri Hartanto,3.0,,27.0,3.0,3.0,2.0,,2.0
+EMP100388,Rani Qolbi Zulfikar,3.0,140.0,27.0,2.0,3.0,3.0,4.0,
+EMP100389,Fajar Pratama,3.0,,43.0,4.0,,3.0,3.0,3.0
+EMP100390,Bayu Tri Simanjuntak,2.0,125.0,31.0,3.0,2.0,2.0,3.0,3.0
+EMP100391,Rizka Adi Anggara,2.0,131.0,38.0,2.0,2.0,3.0,2.0,3.0
+EMP100392,Tania Herlambang,3.0,110.0,18.0,2.0,3.0,3.0,3.0,3.0
+EMP100393,Oktavia Ramadhan,2.0,120.0,28.0,3.0,3.0,2.0,2.0,2.0
+EMP100394,Hadi Jatmiko Kurniawan,1.0,131.0,27.0,1.0,1.0,1.0,2.0,1.0
+EMP100395,Joko Nabila Santoso,1.0,139.0,35.0,1.0,1.0,2.0,1.0,1.0
+EMP100396,Zaki Anugrah Nugroho,3.0,138.0,32.0,3.0,3.0,3.0,3.0,3.0
+EMP100397,Yuni Iqbal Putra,2.0,,16.0,2.0,2.0,2.0,3.0,3.0
+EMP100398,Joko Wijaya Wijaya,3.0,138.0,20.0,2.0,3.0,3.0,3.0,2.0
+EMP100399,Zaki Ramadhan,,128.0,24.0,3.0,2.0,3.0,3.0,4.0
+EMP100400,Luthfi Herlambang,,96.0,23.0,5.0,5.0,4.0,5.0,5.0
+EMP100401,Dwi Wijaya Halim,5.0,,,5.0,4.0,5.0,5.0,
+EMP100402,Fajar Candra Maulida,2.0,83.0,33.0,3.0,1.0,2.0,2.0,2.0
+EMP100403,Prasetyo Lestari,3.0,104.0,32.0,2.0,3.0,3.0,4.0,3.0
+EMP100404,Anisa Tri Anggara,3.0,94.0,21.0,,4.0,3.0,3.0,4.0
+EMP100405,Teguh Erlangga Setiawan,3.0,127.0,34.0,3.0,3.0,3.0,2.0,3.0
+EMP100406,Vania Lestari Subekti,,85.0,25.0,2.0,3.0,99.0,2.0,2.0
+EMP100407,Arif Rachman Suharto,3.0,116.0,19.0,2.0,3.0,3.0,2.0,2.0
+EMP100408,Rafa Anugrah Kusuma,2.0,80.0,26.0,1.0,,2.0,2.0,1.0
+EMP100409,Rani Ginting,4.0,125.0,24.0,4.0,4.0,4.0,4.0,4.0
+EMP100410,Adit Saputra Wijaya,4.0,,28.0,4.0,4.0,3.0,4.0,3.0
+EMP100411,Rani Fauziah,2.0,115.0,30.0,3.0,2.0,2.0,1.0,2.0
+EMP100412,Tania Syahputra,4.0,130.0,36.0,4.0,4.0,,4.0,3.0
+EMP100413,Zahra Utama Pratomo,3.0,86.0,31.0,3.0,3.0,2.0,4.0,4.0
+EMP100414,Citra Hasibuan,1.0,104.0,26.0,1.0,1.0,2.0,2.0,1.0
+EMP100415,Hadi Lukman,3.0,86.0,19.0,3.0,2.0,3.0,,3.0
+EMP100416,Cahyo Ganesha Handayani,3.0,139.0,24.0,3.0,3.0,3.0,3.0,3.0
+EMP100417,Adi Situmorang,3.0,,,3.0,3.0,3.0,3.0,2.0
+EMP100418,Oktavia Ganesha Fauziah,5.0,,,3.0,3.0,4.0,4.0,4.0
+EMP100419,Lestari Hidayat,3.0,,,3.0,3.0,,4.0,3.0
+EMP100420,Vania Hartanto,2.0,80.0,29.0,3.0,3.0,2.0,,2.0
+EMP100421,Adit Anggara,3.0,85.0,22.0,3.0,3.0,3.0,2.0,2.0
+EMP100422,Ari Handayani,1.0,103.0,28.0,1.0,1.0,1.0,1.0,1.0
+EMP100423,Valdo Fauziah,4.0,,,4.0,4.0,5.0,5.0,5.0
+EMP100424,Valdo Ramadhan,3.0,94.0,29.0,,,3.0,2.0,4.0
+EMP100425,Novi Baskara Sinaga,1.0,83.0,28.0,1.0,1.0,2.0,1.0,1.0
+EMP100426,Dimas Pamungkas,5.0,,,4.0,5.0,5.0,5.0,5.0
+EMP100427,Dimas Adi Mahendra,3.0,,32.0,3.0,3.0,3.0,,
+EMP100428,Umar Pamungkas,5.0,,,5.0,5.0,5.0,5.0,
+EMP100429,Gita Candra Situmorang,,132.0,28.0,3.0,2.0,3.0,,3.0
+EMP100430,Valdo Nabila Rohman,1.0,97.0,25.0,1.0,1.0,1.0,1.0,1.0
+EMP100431,Novi Wijaya Putra,4.0,140.0,24.0,,0.0,4.0,4.0,5.0
+EMP100432,Rani Fadillah Rahmawati,3.0,,,3.0,3.0,4.0,2.0,3.0
+EMP100433,Dian Ridwan,2.0,91.0,28.0,,3.0,2.0,1.0,2.0
+EMP100434,Hadi Wibowo,,137.0,33.0,5.0,4.0,4.0,5.0,5.0
+EMP100435,Intan Syahputra,2.0,121.0,21.0,2.0,1.0,3.0,2.0,2.0
+EMP100436,Zahra Wijaya,3.0,97.0,21.0,3.0,3.0,3.0,,3.0
+EMP100437,Indra Hartanto,4.0,,,5.0,4.0,5.0,4.0,4.0
+EMP100438,Bayu Yudhistira Santoso,3.0,90.0,38.0,3.0,3.0,3.0,4.0,3.0
+EMP100439,Intan Tamba,2.0,83.0,30.0,2.0,3.0,1.0,2.0,2.0
+EMP100440,Cahyo Utama Sinaga,4.0,119.0,40.0,4.0,4.0,4.0,4.0,4.0
+EMP100441,Kartika Herlambang,4.0,118.0,34.0,4.0,4.0,4.0,5.0,4.0
+EMP100442,Andi Qolbi Hidayat,2.0,138.0,35.0,2.0,2.0,1.0,2.0,2.0
+EMP100443,Bayu Qolbi Hidayat,3.0,117.0,26.0,3.0,,2.0,3.0,4.0
+EMP100444,Dimas Purnama,4.0,114.0,19.0,4.0,4.0,4.0,5.0,4.0
+EMP100445,Kurnia Wijaya,1.0,97.0,18.0,1.0,2.0,1.0,2.0,1.0
+EMP100446,Rifqi Iqbal Ginting,3.0,112.0,32.0,3.0,2.0,3.0,3.0,2.0
+EMP100447,Rendra Zulfikar Lestari,4.0,81.0,33.0,,4.0,4.0,,3.0
+EMP100448,Gita Jatmiko Santoso,2.0,,,3.0,3.0,2.0,1.0,2.0
+EMP100449,Ari Ramadhan,3.0,109.0,32.0,3.0,3.0,2.0,2.0,3.0
+EMP100450,Indra Lestari,3.0,134.0,28.0,4.0,3.0,4.0,4.0,4.0
+EMP100451,Fitri Qolbi Simanjuntak,3.0,85.0,24.0,2.0,3.0,3.0,3.0,3.0
+EMP100452,Zahra Zulfikar Ramadhan,3.0,118.0,26.0,3.0,3.0,2.0,4.0,3.0
+EMP100453,Yuni Subekti,3.0,112.0,18.0,2.0,4.0,3.0,2.0,3.0
+EMP100454,Nadia Iqbal Maulana,,132.0,20.0,3.0,2.0,3.0,3.0,3.0
+EMP100455,Zaki Siregar,2.0,,,3.0,1.0,2.0,2.0,
+EMP100456,Rama Gunawan,2.0,,,1.0,2.0,2.0,2.0,1.0
+EMP100457,Nurlita Maulana,3.0,117.0,26.0,3.0,4.0,6.0,3.0,3.0
+EMP100458,Fajar Mahardika Handayani,3.0,114.0,23.0,3.0,3.0,3.0,2.0,4.0
+EMP100459,Zahra Syahputra,3.0,85.0,22.0,3.0,4.0,3.0,3.0,3.0
+EMP100460,Joko Sinaga,5.0,89.0,29.0,4.0,5.0,4.0,5.0,5.0
+EMP100461,Novi Suharto,4.0,87.0,35.0,1.0,3.0,2.0,2.0,1.0
+EMP100462,Lestari Anggara,5.0,85.0,23.0,5.0,5.0,5.0,5.0,5.0
+EMP100463,Arif Kurniawan,4.0,123.0,35.0,4.0,3.0,4.0,3.0,3.0
+EMP100464,Anisa Erlangga Lukman,3.0,132.0,38.0,3.0,3.0,,4.0,4.0
+EMP100465,Eko Pamungkas,5.0,119.0,28.0,5.0,5.0,,4.0,5.0
+EMP100466,Gita Nabila Indrawan,5.0,95.0,35.0,5.0,4.0,4.0,4.0,4.0
+EMP100467,Lestari Mahardika Suharto,,115.0,23.0,,2.0,2.0,1.0,2.0
+EMP100468,Dinda Erlangga Indrawan,2.0,,12.0,3.0,1.0,2.0,3.0,
+EMP100469,Sari Suharto,2.0,82.0,36.0,2.0,3.0,2.0,,2.0
+EMP100470,Wulan Saputra Santoso,2.0,,,,3.0,2.0,2.0,2.0
+EMP100471,Indra Zulfikar Rahmawati,3.0,123.0,36.0,3.0,3.0,3.0,4.0,4.0
+EMP100472,Rani Zulfikar Ginting,,,,4.0,,,4.0,4.0
+EMP100473,Zaki Zulfikar Salsabila,4.0,132.0,22.0,5.0,3.0,4.0,3.0,4.0
+EMP100474,Vania Iqbal Fauziah,2.0,103.0,27.0,2.0,2.0,2.0,2.0,2.0
+EMP100475,Rizky Setiawan,5.0,94.0,26.0,4.0,5.0,5.0,5.0,5.0
+EMP100476,Sari Hartanto,,105.0,28.0,5.0,5.0,5.0,5.0,5.0
+EMP100477,Gita Wibowo,4.0,,20.0,4.0,5.0,5.0,3.0,5.0
+EMP100478,Nurlita Kusuma Pratama,,89.0,24.0,2.0,4.0,,2.0,
+EMP100479,Rendra Yudhistira Herlambang,2.0,115.0,25.0,2.0,2.0,2.0,1.0,2.0
+EMP100480,Dimas Maulana,,,,5.0,5.0,,5.0,5.0
+EMP100481,Rama Salsabila,4.0,100.0,29.0,3.0,3.0,4.0,4.0,5.0
+EMP100482,Rani Rachman Setiawan,1.0,120.0,14.0,2.0,2.0,1.0,1.0,1.0
+EMP100483,Intan Nabila Pamungkas,3.0,,,3.0,4.0,2.0,3.0,3.0
+EMP100484,Citra Nabila Handayani,4.0,,,5.0,,5.0,,4.0
+EMP100485,Galih Aji Saputra,5.0,111.0,18.0,5.0,4.0,5.0,5.0,5.0
+EMP100486,Joko Simanjuntak,4.0,110.0,28.0,4.0,5.0,,4.0,4.0
+EMP100487,Joko Lukman,2.0,106.0,25.0,1.0,2.0,2.0,2.0,1.0
+EMP100488,Luthfi Pratama,3.0,126.0,44.0,4.0,3.0,4.0,2.0,3.0
+EMP100489,Vania Adi Setiawan,,124.0,21.0,,3.0,5.0,4.0,4.0
+EMP100490,Cahyo Suharto,2.0,80.0,31.0,3.0,2.0,2.0,2.0,2.0
+EMP100491,Gita Anggara,2.0,89.0,26.0,2.0,,1.0,2.0,2.0
+EMP100492,Ahmad Lestari Handayani,4.0,90.0,31.0,4.0,4.0,,4.0,4.0
+EMP100493,Nurlita Wijaya,2.0,112.0,25.0,2.0,2.0,2.0,2.0,2.0
+EMP100494,Dwi Mahardika Anggara,4.0,95.0,24.0,4.0,4.0,,5.0,4.0
+EMP100495,Gita Ganesha Zulfikar,2.0,81.0,27.0,1.0,2.0,2.0,2.0,2.0
+EMP100496,Intan Wijaya Pratomo,3.0,,,3.0,,,3.0,3.0
+EMP100497,Oka Syahputra,,87.0,31.0,3.0,3.0,4.0,,4.0
+EMP100498,Fitri Situmorang,,80.0,41.0,3.0,3.0,1.0,2.0,2.0
+EMP100499,Adit Herlambang,,,,3.0,3.0,3.0,3.0,4.0
+EMP100500,Yoga Mahardika Gunawan,3.0,117.0,27.0,3.0,3.0,2.0,3.0,3.0
+EMP100501,Rifqi Rachman Santoso,3.0,122.0,25.0,2.0,3.0,3.0,2.0,3.0
+EMP100502,Wahyu Hasibuan,4.0,81.0,13.0,4.0,4.0,4.0,4.0,4.0
+EMP100503,Prasetyo Ganesha Ramadhan,4.0,86.0,40.0,4.0,4.0,3.0,4.0,4.0
+EMP100504,Kartika Halim Ginting,1.0,113.0,23.0,,1.0,1.0,2.0,1.0
+EMP100505,Intan Pramudita Maulida,3.0,98.0,32.0,3.0,2.0,,3.0,
+EMP100506,Cahyo Iqbal Suharto,2.0,102.0,20.0,2.0,2.0,3.0,2.0,3.0
+EMP100507,Dewi Rahmawati,4.0,81.0,32.0,4.0,4.0,4.0,3.0,4.0
+EMP100508,Sari Nabila Halim,4.0,107.0,26.0,4.0,4.0,4.0,,4.0
+EMP100509,Zaki Tri Lestari,4.0,85.0,22.0,3.0,3.0,4.0,3.0,4.0
+EMP100510,Rizky Lestari Situmorang,4.0,82.0,23.0,3.0,4.0,4.0,4.0,4.0
+EMP100511,Nugroho Saputra,3.0,135.0,31.0,3.0,2.0,3.0,3.0,3.0
+EMP100512,Valdo Ginting,5.0,101.0,19.0,5.0,,5.0,5.0,5.0
+EMP100513,Nabila Fadillah Setiawan,4.0,109.0,29.0,3.0,4.0,5.0,5.0,5.0
+EMP100514,Fitri Saputra Yulianto,3.0,91.0,28.0,3.0,4.0,,4.0,2.0
+EMP100515,Cahyo Handayani,,82.0,24.0,2.0,2.0,2.0,2.0,2.0
+EMP100516,Yoga Nugroho,3.0,100.0,14.0,2.0,4.0,3.0,4.0,3.0
+EMP100517,Rendra Wibowo,1.0,,,1.0,1.0,1.0,2.0,1.0
+EMP100518,Hana Erlangga Gunawan,1.0,92.0,31.0,1.0,1.0,2.0,1.0,1.0
+EMP100519,Teguh Indrawan,5.0,131.0,27.0,5.0,5.0,5.0,5.0,4.0
+EMP100520,Rifqi Kusuma Wibowo,4.0,86.0,28.0,4.0,4.0,4.0,4.0,3.0
+EMP100521,Nadia Gunawan,3.0,100.0,34.0,3.0,3.0,3.0,3.0,2.0
+EMP100522,Nabila Yudhistira Salsabila,4.0,,,4.0,4.0,0.0,5.0,4.0
+EMP100523,Indra Adi Hartanto,2.0,134.0,25.0,3.0,2.0,,2.0,3.0
+EMP100524,Hadi Nugroho,5.0,94.0,25.0,5.0,4.0,5.0,5.0,5.0
+EMP100525,Umar Fauziah,3.0,105.0,28.0,2.0,4.0,2.0,4.0,2.0
+EMP100526,Kartika Maulana,4.0,96.0,29.0,4.0,5.0,4.0,4.0,3.0
+EMP100527,Rendra Situmorang,3.0,133.0,35.0,4.0,3.0,3.0,3.0,2.0
+EMP100528,Lestari Suharto,3.0,85.0,37.0,3.0,3.0,4.0,2.0,4.0
+EMP100529,Anisa Lukman,3.0,108.0,24.0,4.0,3.0,3.0,3.0,2.0
+EMP100530,Rizki Lestari Suharto,,,,3.0,5.0,4.0,4.0,4.0
+EMP100531,Bella Erlangga Pratama,4.0,,27.0,3.0,,4.0,4.0,4.0
+EMP100532,Umar Baskara Gunawan,3.0,,25.0,3.0,3.0,3.0,3.0,3.0
+EMP100533,Fajar Ananda,3.0,,,2.0,3.0,4.0,3.0,3.0
+EMP100534,Rama Kurniawan,3.0,103.0,17.0,3.0,3.0,3.0,3.0,4.0
+EMP100535,Wahyu Nabila Saputra,,132.0,27.0,4.0,3.0,4.0,3.0,3.0
+EMP100536,Eko Gunawan,5.0,121.0,19.0,5.0,5.0,5.0,5.0,5.0
+EMP100537,Iman Yulianto,2.0,100.0,25.0,,2.0,,2.0,1.0
+EMP100538,Maya Gunawan,4.0,126.0,33.0,4.0,3.0,4.0,4.0,5.0
+EMP100539,Teguh Dharma Indrawan,4.0,94.0,40.0,4.0,4.0,4.0,4.0,4.0
+EMP100540,Anisa Halim Ramadhan,1.0,106.0,26.0,1.0,1.0,1.0,1.0,1.0
+EMP100541,Dinda Candra Pamungkas,4.0,115.0,22.0,4.0,4.0,4.0,4.0,
+EMP100542,Ahmad Situmorang,3.0,131.0,26.0,3.0,3.0,3.0,3.0,3.0
+EMP100543,Teguh Fadillah Ramadhan,4.0,85.0,41.0,3.0,3.0,5.0,3.0,
+EMP100544,Citra Putra,,,,5.0,4.0,4.0,4.0,3.0
+EMP100545,Adit Firmansyah,3.0,,,3.0,4.0,2.0,3.0,3.0
+EMP100546,Nadia Saputra Kusuma,3.0,136.0,23.0,,2.0,3.0,3.0,3.0
+EMP100547,Nabila Anggara,4.0,134.0,27.0,4.0,4.0,5.0,3.0,4.0
+EMP100548,Fajar Suharto,5.0,,,5.0,,,4.0,5.0
+EMP100549,Lestari Aji Subekti,2.0,,,2.0,2.0,2.0,2.0,2.0
+EMP100550,Hadi Hartanto,5.0,109.0,20.0,,5.0,5.0,5.0,5.0
+EMP100551,Mahendra Aji Permadi,2.0,109.0,35.0,3.0,2.0,3.0,2.0,
+EMP100552,Vania Syahputra,1.0,137.0,27.0,1.0,1.0,1.0,2.0,1.0
+EMP100553,Lestari Kurniawan,3.0,107.0,29.0,3.0,3.0,,4.0,3.0
+EMP100554,Intan Saputra,5.0,,,5.0,5.0,4.0,5.0,5.0
+EMP100555,Rani Anugrah Ridwan,3.0,99.0,25.0,4.0,3.0,4.0,2.0,
+EMP100556,Hadi Rohman,3.0,107.0,30.0,2.0,3.0,3.0,3.0,4.0
+EMP100557,Rizka Subekti,3.0,102.0,28.0,4.0,3.0,3.0,2.0,2.0
+EMP100558,Joko Kurniawan,,,29.0,1.0,1.0,1.0,1.0,
+EMP100559,Ayunda Anggara,,133.0,22.0,5.0,5.0,4.0,4.0,5.0
+EMP100560,Adit Zulfikar Hidayat,,137.0,16.0,4.0,5.0,4.0,,4.0
+EMP100561,Valdo Santoso,4.0,82.0,29.0,3.0,3.0,5.0,4.0,4.0
+EMP100562,Utami Suharto,3.0,89.0,26.0,3.0,2.0,3.0,2.0,4.0
+EMP100563,Dinda Maulida,2.0,105.0,33.0,3.0,3.0,2.0,2.0,2.0
+EMP100564,Maya Candra Lukman,3.0,104.0,16.0,3.0,3.0,3.0,2.0,3.0
+EMP100565,Anisa Pramudita Maulana,2.0,119.0,29.0,3.0,2.0,3.0,1.0,1.0
+EMP100566,Rendra Setiawan,3.0,,,3.0,3.0,3.0,3.0,3.0
+EMP100567,Nurlita Ananda,3.0,87.0,22.0,3.0,2.0,4.0,3.0,4.0
+EMP100568,Hana Dharma Gunawan,4.0,96.0,24.0,,5.0,4.0,4.0,5.0
+EMP100569,Zaki Anggara,5.0,85.0,34.0,2.0,3.0,3.0,3.0,3.0
+EMP100570,Dewi Mahardika Purnama,3.0,,,,3.0,2.0,2.0,3.0
+EMP100571,Yuni Setiawan,5.0,139.0,39.0,5.0,5.0,4.0,5.0,5.0
+EMP100572,Rama Pradana,2.0,135.0,18.0,3.0,2.0,2.0,1.0,2.0
+EMP100573,Arif Pramudita Syahputra,2.0,135.0,22.0,2.0,2.0,2.0,3.0,3.0
+EMP100574,Kartika Putra,,116.0,33.0,5.0,5.0,4.0,5.0,4.0
+EMP100575,Prasetyo Handayani,3.0,108.0,31.0,2.0,2.0,2.0,3.0,3.0
+EMP100576,Andi Wijaya Kusuma,4.0,99.0,37.0,3.0,4.0,,4.0,3.0
+EMP100577,Umar Anugrah Hidayat,2.0,,30.0,3.0,1.0,2.0,2.0,2.0
+EMP100578,Teguh Anggara,4.0,136.0,26.0,,,5.0,4.0,4.0
+EMP100579,Yoga Sinaga,3.0,130.0,29.0,4.0,2.0,2.0,3.0,4.0
+EMP100580,Adi Lukman,1.0,97.0,37.0,2.0,1.0,1.0,1.0,1.0
+EMP100581,Wahyu Dharma Santoso,2.0,104.0,21.0,,,2.0,,2.0
+EMP100582,Wulan Nabila Fauziah,3.0,104.0,34.0,3.0,3.0,3.0,2.0,2.0
+EMP100583,Dinda Zulfikar Herlambang,3.0,115.0,19.0,2.0,3.0,4.0,3.0,3.0
+EMP100584,Satya Ananda,2.0,119.0,33.0,2.0,2.0,2.0,1.0,2.0
+EMP100585,Indra Rohman,1.0,113.0,29.0,1.0,1.0,1.0,1.0,1.0
+EMP100586,Adit Hartanto,4.0,111.0,20.0,4.0,3.0,5.0,4.0,4.0
+EMP100587,Nabila Syahputra,3.0,113.0,25.0,2.0,3.0,2.0,3.0,2.0
+EMP100588,Intan Rohman,,102.0,33.0,4.0,4.0,4.0,4.0,3.0
+EMP100589,Anisa Tri Pamungkas,3.0,,,2.0,,3.0,3.0,2.0
+EMP100590,Putri Rachman Hartanto,1.0,,,1.0,1.0,1.0,2.0,
+EMP100591,Kurnia Ginting,5.0,86.0,28.0,3.0,3.0,2.0,3.0,3.0
+EMP100592,Galih Handayani,,,,2.0,3.0,3.0,3.0,3.0
+EMP100593,Hadi Santoso,3.0,139.0,28.0,2.0,3.0,2.0,3.0,3.0
+EMP100594,Teguh Sinaga,2.0,134.0,41.0,2.0,2.0,2.0,,2.0
+EMP100595,Lestari Saputra,2.0,,,2.0,2.0,2.0,2.0,3.0
+EMP100596,Dimas Aji Hidayat,2.0,,,3.0,1.0,2.0,99.0,
+EMP100597,Fajar Maulana,4.0,97.0,27.0,4.0,5.0,5.0,3.0,4.0
+EMP100598,Adit Aji Tamba,3.0,124.0,24.0,,3.0,3.0,3.0,4.0
+EMP100599,Dimas Kurniawan,1.0,81.0,23.0,1.0,1.0,1.0,2.0,1.0
+EMP100600,Zaki Wijaya,1.0,137.0,18.0,2.0,,1.0,1.0,2.0
+EMP100601,Nurlita Subekti,3.0,123.0,23.0,2.0,3.0,3.0,4.0,2.0
+EMP100602,Rifqi Ananda,1.0,,33.0,1.0,1.0,1.0,1.0,1.0
+EMP100603,Ahmad Handayani,4.0,107.0,22.0,2.0,2.0,3.0,2.0,3.0
+EMP100604,Yoga Lukman,2.0,,,2.0,,2.0,1.0,3.0
+EMP100605,Dwi Anggara,5.0,,,5.0,,5.0,5.0,5.0
+EMP100606,Wulan Candra Saputra,3.0,97.0,28.0,3.0,3.0,2.0,4.0,4.0
+EMP100607,Rifqi Halim,1.0,82.0,26.0,1.0,1.0,1.0,2.0,
+EMP100608,Rani Kurniawan,5.0,,19.0,5.0,5.0,5.0,5.0,5.0
+EMP100609,Oktavia Nabila Ginting,4.0,114.0,26.0,5.0,4.0,4.0,4.0,4.0
+EMP100610,Hana Rohman,3.0,94.0,28.0,2.0,3.0,2.0,4.0,3.0
+EMP100611,Indra Sinaga,4.0,114.0,26.0,4.0,4.0,4.0,4.0,
+EMP100612,Adit Utami,3.0,115.0,12.0,3.0,2.0,3.0,3.0,3.0
+EMP100613,Cahyo Nabila Situmorang,4.0,114.0,20.0,3.0,4.0,4.0,,4.0
+EMP100614,Cahyo Pratama,1.0,133.0,28.0,1.0,1.0,2.0,1.0,1.0
+EMP100615,Ahmad Halim Nugroho,5.0,139.0,29.0,5.0,5.0,5.0,5.0,5.0
+EMP100616,Nadia Ramadhan,,88.0,30.0,4.0,3.0,3.0,3.0,2.0
+EMP100617,Eko Rahmawati,3.0,104.0,29.0,3.0,2.0,3.0,3.0,3.0
+EMP100618,Arif Ramadhan,4.0,140.0,34.0,4.0,,4.0,4.0,4.0
+EMP100619,Adi Candra Firmansyah,2.0,114.0,21.0,3.0,1.0,2.0,3.0,3.0
+EMP100620,Oka Kusuma,3.0,119.0,38.0,4.0,3.0,3.0,3.0,2.0
+EMP100621,Zahra Fauziah,3.0,87.0,23.0,4.0,3.0,3.0,2.0,3.0
+EMP100622,Ahmad Anugrah Anggara,2.0,90.0,24.0,1.0,1.0,1.0,1.0,
+EMP100623,Hadi Simanjuntak,2.0,82.0,32.0,2.0,2.0,2.0,2.0,
+EMP100624,Luthfi Firmansyah,2.0,95.0,33.0,3.0,2.0,,2.0,2.0
+EMP100625,Dwi Utami,2.0,132.0,30.0,2.0,2.0,3.0,1.0,2.0
+EMP100626,Arif Nugroho,1.0,81.0,32.0,1.0,1.0,1.0,2.0,1.0
+EMP100627,Hadi Handayani,3.0,106.0,26.0,3.0,3.0,3.0,3.0,3.0
+EMP100628,Fitri Dharma Siregar,2.0,84.0,31.0,3.0,2.0,3.0,1.0,2.0
+EMP100629,Mahendra Subekti,3.0,124.0,32.0,3.0,2.0,3.0,4.0,3.0
+EMP100630,Maya Candra Maulida,4.0,,,4.0,3.0,4.0,5.0,4.0
+EMP100631,Zahra Dharma Zulfikar,4.0,119.0,26.0,4.0,4.0,5.0,3.0,4.0
+EMP100632,Rani Pramudita Suharto,4.0,,,3.0,3.0,3.0,3.0,4.0
+EMP100633,Dewi Setiawan,4.0,110.0,20.0,4.0,4.0,4.0,4.0,4.0
+EMP100634,Nugroho Pratama,3.0,117.0,28.0,2.0,2.0,3.0,4.0,4.0
+EMP100635,Umar Dharma Fauziah,4.0,133.0,17.0,4.0,4.0,5.0,4.0,4.0
+EMP100636,Rama Aji Wibowo,3.0,80.0,34.0,3.0,4.0,3.0,,3.0
+EMP100637,Rani Adi Simanjuntak,5.0,105.0,22.0,5.0,5.0,5.0,5.0,5.0
+EMP100638,Budi Yudhistira Permadi,4.0,,,,4.0,3.0,4.0,4.0
+EMP100639,Iman Pratama,5.0,138.0,27.0,4.0,5.0,,5.0,5.0
+EMP100640,Dewi Yudhistira Putra,3.0,135.0,23.0,2.0,3.0,2.0,3.0,4.0
+EMP100641,Julia Simanjuntak,3.0,,,3.0,2.0,3.0,2.0,
+EMP100642,Umar Halim Pradana,3.0,106.0,39.0,4.0,3.0,2.0,2.0,3.0
+EMP100643,Dewi Yulianto,4.0,135.0,18.0,4.0,3.0,,3.0,
+EMP100644,Ayunda Hartanto,3.0,98.0,36.0,1.0,2.0,1.0,1.0,1.0
+EMP100645,Yoga Iqbal Santoso,5.0,82.0,37.0,5.0,5.0,,4.0,5.0
+EMP100646,Oktavia Ananda,4.0,126.0,37.0,4.0,,3.0,4.0,4.0
+EMP100647,Vania Ganesha Ananda,,117.0,17.0,2.0,3.0,4.0,3.0,2.0
+EMP100648,Sari Mahardika Firmansyah,4.0,,,3.0,0.0,4.0,,4.0
+EMP100649,Wahyu Dharma Handayani,5.0,99.0,26.0,5.0,5.0,5.0,5.0,5.0
+EMP100650,Rifqi Kurniawan,5.0,,,5.0,5.0,5.0,5.0,4.0
+EMP100651,Novi Pamungkas,3.0,117.0,28.0,,3.0,3.0,4.0,2.0
+EMP100652,Eko Mahardika Lukman,5.0,122.0,22.0,,5.0,4.0,5.0,5.0
+EMP100653,Intan Pratama,,111.0,26.0,4.0,4.0,3.0,3.0,3.0
+EMP100654,Prasetyo Hidayat,4.0,,15.0,4.0,3.0,4.0,3.0,4.0
+EMP100655,Novi Lestari,3.0,,,2.0,3.0,2.0,2.0,4.0
+EMP100656,Joko Herlambang,4.0,96.0,22.0,4.0,5.0,4.0,3.0,4.0
+EMP100657,Rendra Anugrah Maulida,3.0,84.0,27.0,2.0,2.0,4.0,3.0,4.0
+EMP100658,Nurlita Jatmiko Salsabila,1.0,109.0,28.0,1.0,1.0,1.0,1.0,1.0
+EMP100659,Bella Utami,3.0,133.0,33.0,3.0,3.0,3.0,3.0,3.0
+EMP100660,Anisa Putra,1.0,126.0,35.0,1.0,1.0,2.0,2.0,
+EMP100661,Budi Siregar,4.0,103.0,20.0,4.0,,3.0,,4.0
+EMP100662,Utami Pratama,4.0,119.0,33.0,3.0,4.0,4.0,4.0,5.0
+EMP100663,Rifqi Jatmiko Indrawan,5.0,123.0,32.0,5.0,4.0,5.0,5.0,4.0
+EMP100664,Zaki Rachman Putra,3.0,101.0,34.0,3.0,2.0,3.0,2.0,3.0
+EMP100665,Rendra Ridwan,3.0,102.0,30.0,3.0,3.0,4.0,4.0,4.0
+EMP100666,Evi Sinaga,4.0,118.0,24.0,,4.0,4.0,4.0,4.0
+EMP100667,Rifqi Handayani,2.0,93.0,19.0,1.0,3.0,2.0,2.0,2.0
+EMP100668,Luthfi Yudhistira Rohman,,137.0,23.0,2.0,,2.0,2.0,2.0
+EMP100669,Adi Suharto,1.0,96.0,35.0,1.0,1.0,2.0,1.0,1.0
+EMP100670,Rama Tamba,3.0,,,4.0,3.0,3.0,3.0,3.0
+EMP100671,Fajar Baskara Rohman,2.0,111.0,29.0,1.0,1.0,3.0,2.0,1.0
+EMP100672,Rani Ridwan,1.0,114.0,31.0,1.0,1.0,1.0,1.0,1.0
+EMP100673,Citra Siregar,3.0,107.0,22.0,3.0,3.0,3.0,3.0,3.0
+EMP100674,Valdo Handayani,2.0,,26.0,2.0,2.0,2.0,1.0,2.0
+EMP100675,Fajar Permadi,1.0,134.0,25.0,,1.0,,,1.0
+EMP100676,Rifqi Simanjuntak,1.0,81.0,32.0,1.0,2.0,1.0,2.0,2.0
+EMP100677,Rani Halim Saputra,1.0,135.0,32.0,1.0,1.0,1.0,1.0,1.0
+EMP100678,Julia Jatmiko Nugroho,4.0,,,5.0,5.0,4.0,3.0,4.0
+EMP100679,Gita Sinaga,2.0,,31.0,1.0,2.0,2.0,2.0,2.0
+EMP100680,Nugroho Ramadhan,4.0,106.0,28.0,4.0,3.0,,5.0,4.0
+EMP100681,Kurnia Simanjuntak,,96.0,23.0,,5.0,4.0,4.0,
+EMP100682,Tania Zulfikar,2.0,,27.0,3.0,2.0,3.0,1.0,1.0
+EMP100683,Rani Qolbi Nugroho,2.0,128.0,28.0,3.0,3.0,2.0,3.0,2.0
+EMP100684,Dian Rahmawati,5.0,,,4.0,5.0,,5.0,5.0
+EMP100685,Budi Wijaya Wijaya,3.0,,,4.0,2.0,3.0,3.0,3.0
+EMP100686,Satya Utami,2.0,92.0,22.0,3.0,2.0,3.0,1.0,1.0
+EMP100687,Gita Erlangga Herlambang,4.0,92.0,25.0,5.0,4.0,3.0,4.0,4.0
+EMP100688,Adit Iqbal Kurniawan,4.0,131.0,41.0,4.0,4.0,5.0,4.0,4.0
+EMP100689,Evi Zulfikar,3.0,138.0,19.0,4.0,3.0,3.0,3.0,3.0
+EMP100690,Dian Tri Zulfikar,3.0,,24.0,3.0,3.0,3.0,3.0,2.0
+EMP100691,Dian Utama Hasibuan,2.0,,,2.0,3.0,3.0,1.0,3.0
+EMP100692,Lestari Halim Purnama,2.0,136.0,32.0,2.0,2.0,0.0,3.0,3.0
+EMP100693,Hadi Pramudita Zulfikar,3.0,130.0,22.0,,3.0,4.0,,3.0
+EMP100694,Julia Hartanto,3.0,116.0,43.0,3.0,3.0,3.0,2.0,2.0
+EMP100695,Joko Erlangga Subekti,4.0,86.0,26.0,4.0,,5.0,4.0,4.0
+EMP100696,Adi Halim Ananda,2.0,,,,2.0,3.0,3.0,2.0
+EMP100697,Teguh Zulfikar Siregar,1.0,134.0,32.0,1.0,1.0,1.0,1.0,1.0
+EMP100698,Hadi Permadi,3.0,125.0,23.0,3.0,3.0,3.0,4.0,
+EMP100699,Kartika Rachman Suharto,3.0,123.0,32.0,3.0,2.0,2.0,3.0,
+EMP100700,Nugroho Ananda,3.0,94.0,15.0,4.0,3.0,2.0,2.0,4.0
+EMP100701,Rani Fadillah Kusuma,2.0,132.0,23.0,2.0,3.0,3.0,3.0,2.0
+EMP100702,Kurnia Utami,2.0,80.0,27.0,2.0,1.0,3.0,2.0,2.0
+EMP100703,Dian Simanjuntak,3.0,,22.0,3.0,2.0,4.0,2.0,3.0
+EMP100704,Kartika Halim Wijaya,3.0,127.0,27.0,3.0,4.0,3.0,3.0,4.0
+EMP100705,Gita Halim,3.0,115.0,22.0,4.0,3.0,3.0,3.0,2.0
+EMP100706,Eko Jatmiko Mahendra,2.0,107.0,28.0,2.0,2.0,2.0,,
+EMP100707,Adit Fauziah,2.0,105.0,27.0,2.0,3.0,1.0,3.0,
+EMP100708,Dian Hidayat,3.0,92.0,22.0,3.0,2.0,3.0,3.0,3.0
+EMP100709,Citra Pramudita Ginting,1.0,121.0,33.0,1.0,1.0,1.0,,1.0
+EMP100710,Adi Wijaya,,80.0,22.0,2.0,2.0,3.0,2.0,3.0
+EMP100711,Wulan Lestari,4.0,133.0,32.0,3.0,4.0,4.0,3.0,4.0
+EMP100712,Dinda Tamba,3.0,,,2.0,,3.0,4.0,3.0
+EMP100713,Iman Indrawan,5.0,88.0,23.0,5.0,5.0,5.0,4.0,5.0
+EMP100714,Anisa Fadillah Mahendra,3.0,119.0,23.0,4.0,2.0,4.0,3.0,4.0
+EMP100715,Novi Yudhistira Herlambang,3.0,84.0,26.0,3.0,3.0,3.0,3.0,3.0
+EMP100716,Rizka Iqbal Firmansyah,3.0,,,,3.0,,3.0,
+EMP100717,Nabila Utama Ananda,4.0,86.0,41.0,4.0,3.0,4.0,4.0,5.0
+EMP100718,Ayunda Mahardika Utami,,104.0,34.0,3.0,4.0,5.0,4.0,5.0
+EMP100719,Dimas Gunawan,3.0,,,3.0,3.0,2.0,4.0,3.0
+EMP100720,Bayu Lukman,4.0,107.0,28.0,4.0,5.0,5.0,4.0,3.0
+EMP100721,Nadia Rachman Maulana,3.0,,,3.0,3.0,3.0,3.0,3.0
+EMP100722,Nadia Zulfikar,4.0,126.0,29.0,,4.0,4.0,4.0,
+EMP100723,Ayu Aji Permadi,5.0,89.0,34.0,5.0,5.0,,5.0,5.0
+EMP100724,Iman Fadillah Pratama,1.0,117.0,26.0,1.0,1.0,1.0,1.0,2.0
+EMP100725,Evi Baskara Suharto,4.0,,,3.0,3.0,4.0,5.0,5.0
+EMP100726,Fajar Pradana,4.0,105.0,27.0,,5.0,4.0,0.0,3.0
+EMP100727,Sari Utama Hidayat,5.0,110.0,19.0,5.0,5.0,5.0,5.0,5.0
+EMP100728,Rani Pradana,3.0,103.0,17.0,3.0,,2.0,3.0,2.0
+EMP100729,Ayunda Zulfikar,3.0,,29.0,3.0,3.0,3.0,2.0,4.0
+EMP100730,Iman Yudhistira Gunawan,4.0,94.0,24.0,5.0,4.0,3.0,4.0,4.0
+EMP100731,Adi Maulana,3.0,102.0,20.0,3.0,,3.0,,4.0
+EMP100732,Ayunda Setiawan,4.0,121.0,24.0,4.0,4.0,3.0,4.0,4.0
+EMP100733,Utami Purnama,4.0,116.0,26.0,2.0,2.0,2.0,3.0,3.0
+EMP100734,Dimas Utami,1.0,94.0,18.0,1.0,1.0,1.0,1.0,1.0
+EMP100735,Oka Suharto,1.0,136.0,21.0,1.0,1.0,1.0,1.0,1.0
+EMP100736,Oktavia Situmorang,2.0,120.0,26.0,3.0,2.0,2.0,1.0,1.0
+EMP100737,Dwi Mahardika Lukman,4.0,,,5.0,4.0,4.0,3.0,3.0
+EMP100738,Ahmad Halim,2.0,140.0,29.0,3.0,2.0,2.0,1.0,3.0
+EMP100739,Prasetyo Halim Wijaya,5.0,,29.0,3.0,4.0,,3.0,3.0
+EMP100740,Cahyo Herlambang,3.0,135.0,29.0,3.0,3.0,3.0,3.0,4.0
+EMP100741,Zaki Pratomo,,82.0,32.0,3.0,2.0,3.0,,3.0
+EMP100742,Adi Dharma Rohman,4.0,129.0,31.0,5.0,4.0,3.0,,3.0
+EMP100743,Nabila Wijaya,,120.0,33.0,,3.0,5.0,3.0,5.0
+EMP100744,Zaki Situmorang,1.0,109.0,32.0,1.0,2.0,1.0,2.0,2.0
+EMP100745,Mahendra Utama Hartanto,3.0,122.0,26.0,2.0,3.0,2.0,3.0,3.0
+EMP100746,Rizka Mahardika Indrawan,3.0,133.0,23.0,3.0,3.0,4.0,4.0,3.0
+EMP100747,Tania Pratama,2.0,100.0,25.0,2.0,2.0,3.0,2.0,2.0
+EMP100748,Nurlita Utami,3.0,,,,3.0,3.0,3.0,2.0
+EMP100749,Ayunda Indrawan,3.0,100.0,35.0,3.0,2.0,3.0,2.0,3.0
+EMP100750,Joko Qolbi Hasibuan,5.0,98.0,35.0,,5.0,5.0,5.0,5.0
+EMP100751,Hana Indrawan,3.0,122.0,42.0,4.0,3.0,3.0,,2.0
+EMP100752,Intan Salsabila,1.0,81.0,41.0,1.0,1.0,1.0,1.0,2.0
+EMP100753,Luthfi Fadillah Fauziah,1.0,121.0,28.0,1.0,,1.0,1.0,1.0
+EMP100754,Dian Iqbal Permadi,3.0,87.0,22.0,2.0,4.0,,4.0,3.0
+EMP100755,Iman Utami,4.0,97.0,23.0,4.0,4.0,5.0,3.0,4.0
+EMP100756,Ari Herlambang,3.0,114.0,15.0,2.0,4.0,4.0,4.0,4.0
+EMP100757,Prasetyo Rohman,3.0,130.0,29.0,4.0,2.0,,2.0,3.0
+EMP100758,Dwi Adi Maulana,5.0,97.0,19.0,5.0,5.0,5.0,4.0,5.0
+EMP100759,Rendra Nabila Maulida,2.0,128.0,25.0,1.0,3.0,2.0,2.0,2.0
+EMP100760,Cahyo Tri Herlambang,3.0,112.0,29.0,3.0,3.0,4.0,4.0,3.0
+EMP100761,Maya Situmorang,5.0,94.0,27.0,4.0,5.0,5.0,5.0,5.0
+EMP100762,Valdo Kusuma Tamba,2.0,90.0,25.0,3.0,1.0,3.0,2.0,2.0
+EMP100763,Budi Pamungkas,3.0,135.0,34.0,3.0,4.0,2.0,3.0,3.0
+EMP100764,Nugroho Pradana,3.0,110.0,18.0,2.0,2.0,3.0,3.0,3.0
+EMP100765,Utami Hidayat,3.0,100.0,27.0,3.0,,2.0,3.0,3.0
+EMP100766,Zaki Adi Utami,2.0,120.0,36.0,2.0,2.0,2.0,1.0,99.0
+EMP100767,Zahra Hasibuan,3.0,,35.0,4.0,3.0,3.0,3.0,3.0
+EMP100768,Nurlita Fadillah Kusuma,1.0,129.0,33.0,1.0,2.0,2.0,1.0,1.0
+EMP100769,Ari Halim,3.0,80.0,35.0,4.0,2.0,3.0,3.0,
+EMP100770,Arif Qolbi Saputra,2.0,,29.0,,2.0,,2.0,3.0
+EMP100771,Rani Aji Herlambang,4.0,,,,4.0,4.0,4.0,5.0
+EMP100772,Ayunda Subekti,3.0,88.0,29.0,3.0,4.0,3.0,3.0,3.0
+EMP100773,Ayu Hidayat,3.0,130.0,23.0,3.0,3.0,,3.0,4.0
+EMP100774,Maya Sinaga,1.0,83.0,29.0,1.0,1.0,1.0,1.0,1.0
+EMP100775,Kartika Anggara,2.0,104.0,29.0,2.0,2.0,3.0,2.0,2.0
+EMP100776,Yuni Gunawan,3.0,139.0,38.0,4.0,2.0,3.0,3.0,3.0
+EMP100777,Ahmad Fadillah Pratama,1.0,113.0,24.0,1.0,1.0,1.0,1.0,2.0
+EMP100778,Arif Qolbi Suharto,4.0,,25.0,5.0,4.0,0.0,4.0,4.0
+EMP100779,Ari Dharma Utami,,104.0,21.0,1.0,1.0,,1.0,1.0
+EMP100780,Luthfi Pamungkas,4.0,118.0,31.0,4.0,,,4.0,5.0
+EMP100781,Bayu Yulianto,3.0,131.0,26.0,3.0,3.0,,3.0,2.0
+EMP100782,Adit Utama Siregar,3.0,,,3.0,3.0,3.0,3.0,3.0
+EMP100783,Kartika Wijaya Permadi,4.0,128.0,32.0,4.0,5.0,4.0,4.0,4.0
+EMP100784,Rendra Yulianto,1.0,101.0,31.0,1.0,1.0,1.0,1.0,
+EMP100785,Umar Fadillah Handayani,5.0,96.0,34.0,5.0,,5.0,5.0,4.0
+EMP100786,Nadia Baskara Halim,1.0,88.0,22.0,2.0,1.0,1.0,1.0,1.0
+EMP100787,Iman Lestari Tamba,4.0,101.0,41.0,4.0,,,4.0,3.0
+EMP100788,Bayu Kusuma Hidayat,1.0,139.0,31.0,1.0,,1.0,,2.0
+EMP100789,Oka Halim Setiawan,4.0,125.0,31.0,4.0,4.0,3.0,4.0,4.0
+EMP100790,Joko Tri Lestari,1.0,126.0,26.0,1.0,,1.0,1.0,1.0
+EMP100791,Rizki Saputra,2.0,126.0,19.0,2.0,1.0,1.0,,3.0
+EMP100792,Budi Yudhistira Pratama,,117.0,17.0,99.0,,4.0,5.0,5.0
+EMP100793,Zahra Rohman,4.0,133.0,17.0,4.0,4.0,3.0,4.0,3.0
+EMP100794,Wulan Kusuma Mahendra,3.0,,20.0,4.0,3.0,3.0,3.0,3.0
+EMP100795,Nugroho Nugroho,3.0,126.0,27.0,3.0,4.0,3.0,3.0,4.0
+EMP100796,Adi Ridwan,4.0,95.0,31.0,4.0,4.0,4.0,5.0,3.0
+EMP100797,Rani Maulida,3.0,122.0,19.0,3.0,2.0,3.0,3.0,
+EMP100798,Valdo Rachman Wibowo,1.0,132.0,28.0,1.0,1.0,1.0,1.0,1.0
+EMP100799,Fitri Ganesha Yulianto,,128.0,28.0,4.0,4.0,4.0,3.0,4.0
+EMP100800,Intan Wibowo,2.0,86.0,30.0,2.0,2.0,2.0,3.0,2.0
+EMP100801,Umar Ridwan,2.0,110.0,28.0,2.0,1.0,2.0,,3.0
+EMP100802,Dimas Kusuma Indrawan,4.0,112.0,27.0,4.0,5.0,3.0,5.0,4.0
+EMP100803,Maya Kusuma Putra,5.0,136.0,30.0,5.0,5.0,5.0,5.0,5.0
+EMP100804,Luthfi Hidayat,3.0,,,3.0,3.0,3.0,6.0,4.0
+EMP100805,Oktavia Pratama,4.0,126.0,22.0,2.0,3.0,2.0,3.0,2.0
+EMP100806,Dwi Kurniawan,,83.0,24.0,4.0,4.0,4.0,5.0,5.0
+EMP100807,Cahyo Pradana,3.0,,,4.0,3.0,3.0,2.0,3.0
+EMP100808,Mahendra Firmansyah,2.0,107.0,27.0,2.0,2.0,2.0,3.0,2.0
+EMP100809,Dian Nugroho,2.0,95.0,15.0,3.0,2.0,2.0,1.0,2.0
+EMP100810,Mahendra Tri Permadi,3.0,,,3.0,3.0,3.0,2.0,3.0
+EMP100811,Tania Aji Ramadhan,3.0,113.0,36.0,3.0,3.0,4.0,3.0,2.0
+EMP100812,Lestari Herlambang,4.0,110.0,26.0,4.0,5.0,5.0,5.0,3.0
+EMP100813,Vania Baskara Utami,3.0,80.0,25.0,3.0,3.0,3.0,4.0,3.0
+EMP100814,Vania Setiawan,3.0,94.0,38.0,3.0,3.0,,3.0,4.0
+EMP100815,Andi Dharma Saputra,3.0,135.0,26.0,2.0,3.0,2.0,,3.0
+EMP100816,Bella Aji Ginting,2.0,,,1.0,2.0,2.0,,2.0
+EMP100817,Oka Handayani,4.0,140.0,19.0,4.0,5.0,4.0,4.0,4.0
+EMP100818,Fajar Qolbi Rahmawati,4.0,124.0,29.0,4.0,4.0,4.0,4.0,4.0
+EMP100819,Prasetyo Kusuma Putra,4.0,103.0,25.0,4.0,4.0,5.0,4.0,3.0
+EMP100820,Rizky Pratama,4.0,98.0,14.0,4.0,4.0,3.0,4.0,4.0
+EMP100821,Kartika Saputra,4.0,132.0,36.0,4.0,5.0,5.0,3.0,
+EMP100822,Maya Lukman,3.0,95.0,28.0,,2.0,3.0,4.0,4.0
+EMP100823,Hana Aji Hidayat,4.0,123.0,23.0,4.0,3.0,4.0,5.0,5.0
+EMP100824,Intan Suharto,1.0,127.0,30.0,1.0,1.0,2.0,1.0,2.0
+EMP100825,Yuni Handayani,,135.0,34.0,5.0,5.0,99.0,5.0,5.0
+EMP100826,Ayu Rachman Subekti,3.0,125.0,25.0,3.0,3.0,4.0,3.0,3.0
+EMP100827,Oktavia Candra Kurniawan,4.0,118.0,13.0,3.0,3.0,4.0,3.0,4.0
+EMP100828,Umar Hidayat,3.0,92.0,37.0,3.0,3.0,3.0,3.0,3.0
+EMP100829,Bayu Wibowo,4.0,109.0,31.0,4.0,4.0,5.0,4.0,3.0
+EMP100830,Hana Herlambang,5.0,132.0,20.0,4.0,5.0,5.0,5.0,5.0
+EMP100831,Dwi Iqbal Halim,,96.0,35.0,4.0,3.0,3.0,4.0,
+EMP100832,Eko Suharto,3.0,,,3.0,3.0,,4.0,3.0
+EMP100833,Andi Wijaya,4.0,104.0,27.0,99.0,4.0,4.0,3.0,4.0
+EMP100834,Nadia Rachman Pratomo,4.0,107.0,31.0,3.0,3.0,3.0,5.0,4.0
+EMP100835,Nurlita Purnama,2.0,,27.0,2.0,2.0,2.0,2.0,2.0
+EMP100836,Luthfi Simanjuntak,5.0,105.0,15.0,5.0,5.0,5.0,4.0,5.0
+EMP100837,Nadia Ananda,,126.0,28.0,4.0,4.0,4.0,3.0,4.0
+EMP100838,Nurlita Permadi,,135.0,35.0,5.0,5.0,5.0,5.0,5.0
+EMP100839,Yuni Rohman,3.0,125.0,35.0,3.0,2.0,4.0,,3.0
+EMP100840,Sari Halim Ramadhan,1.0,,,1.0,2.0,2.0,1.0,1.0
+EMP100841,Zaki Syahputra,4.0,96.0,25.0,5.0,4.0,4.0,4.0,4.0
+EMP100842,Umar Candra Siregar,4.0,136.0,26.0,3.0,4.0,3.0,4.0,4.0
+EMP100843,Dinda Kurniawan,3.0,122.0,31.0,2.0,3.0,4.0,3.0,3.0
+EMP100844,Rizka Gunawan,4.0,94.0,31.0,3.0,4.0,4.0,3.0,3.0
+EMP100845,Rama Qolbi Maulana,2.0,,,,1.0,2.0,3.0,
+EMP100846,Zaki Rahmawati,1.0,108.0,41.0,1.0,2.0,2.0,2.0,1.0
+EMP100847,Oka Saputra Sinaga,4.0,106.0,21.0,3.0,4.0,4.0,4.0,3.0
+EMP100848,Rifqi Hartanto,3.0,108.0,14.0,3.0,3.0,2.0,4.0,3.0
+EMP100849,Yuni Purnama,,98.0,23.0,2.0,1.0,,1.0,
+EMP100850,Eko Mahardika Suharto,4.0,,,4.0,3.0,4.0,4.0,4.0
+EMP100851,Ari Pratama,3.0,137.0,21.0,3.0,4.0,3.0,3.0,3.0
+EMP100852,Anisa Siregar,2.0,115.0,35.0,2.0,,3.0,1.0,3.0
+EMP100853,Umar Zulfikar,4.0,89.0,29.0,3.0,4.0,4.0,3.0,
+EMP100854,Rama Putra,2.0,126.0,21.0,2.0,2.0,1.0,2.0,2.0
+EMP100855,Satya Tamba,2.0,128.0,16.0,3.0,1.0,2.0,3.0,3.0
+EMP100856,Ahmad Pratama,1.0,94.0,23.0,2.0,1.0,1.0,2.0,1.0
+EMP100857,Ayu Aji Maulida,,136.0,46.0,1.0,1.0,1.0,1.0,
+EMP100858,Maya Fadillah Utami,4.0,135.0,32.0,4.0,4.0,4.0,4.0,4.0
+EMP100859,Vania Indrawan,4.0,,,4.0,,4.0,4.0,
+EMP100860,Bella Anugrah Rohman,4.0,135.0,25.0,4.0,4.0,5.0,4.0,4.0
+EMP100861,Yoga Putra,3.0,92.0,27.0,3.0,3.0,3.0,3.0,3.0
+EMP100862,Ayu Saputra,3.0,106.0,35.0,2.0,3.0,3.0,4.0,4.0
+EMP100863,Zaki Lestari Rohman,4.0,89.0,18.0,,3.0,3.0,4.0,4.0
+EMP100864,Ayu Rohman,3.0,133.0,22.0,2.0,,3.0,4.0,
+EMP100865,Anisa Pramudita Pamungkas,4.0,122.0,25.0,4.0,5.0,4.0,5.0,4.0
+EMP100866,Ayunda Rachman Utami,,132.0,26.0,4.0,2.0,3.0,,3.0
+EMP100867,Umar Suharto,2.0,84.0,28.0,2.0,2.0,3.0,2.0,1.0
+EMP100868,Ayunda Iqbal Situmorang,1.0,117.0,20.0,1.0,1.0,1.0,1.0,1.0
+EMP100869,Budi Wibowo,4.0,130.0,28.0,5.0,4.0,4.0,4.0,4.0
+EMP100870,Dwi Halim Subekti,3.0,97.0,25.0,2.0,3.0,,3.0,2.0
+EMP100871,Rizka Anggara,3.0,116.0,20.0,3.0,,3.0,3.0,3.0
+EMP100872,Citra Maulana,1.0,101.0,32.0,1.0,1.0,2.0,,1.0
+EMP100873,Teguh Wijaya,4.0,,,5.0,3.0,4.0,4.0,4.0
+EMP100874,Putri Fadillah Sinaga,2.0,,,3.0,3.0,3.0,2.0,1.0
+EMP100875,Teguh Zulfikar Rahmawati,4.0,125.0,35.0,4.0,3.0,5.0,4.0,4.0
+EMP100876,Nugroho Lestari,2.0,90.0,21.0,3.0,2.0,,3.0,3.0
+EMP100877,Bella Herlambang,3.0,,,3.0,4.0,2.0,3.0,3.0
+EMP100878,Citra Purnama,3.0,83.0,25.0,3.0,4.0,3.0,4.0,3.0
+EMP100879,Evi Mahendra,2.0,116.0,17.0,2.0,2.0,3.0,3.0,2.0
+EMP100880,Zahra Siregar,4.0,92.0,36.0,4.0,3.0,4.0,4.0,5.0
+EMP100881,Kartika Purnama,5.0,89.0,30.0,4.0,5.0,5.0,5.0,5.0
+EMP100882,Dinda Wijaya,4.0,,29.0,4.0,4.0,3.0,4.0,5.0
+EMP100883,Dian Lestari,2.0,,,2.0,2.0,3.0,2.0,
+EMP100884,Rizki Utama Kurniawan,4.0,124.0,30.0,4.0,4.0,4.0,4.0,4.0
+EMP100885,Gita Yudhistira Mahendra,1.0,100.0,40.0,1.0,1.0,,1.0,1.0
+EMP100886,Galih Utami,3.0,112.0,24.0,2.0,,3.0,,
+EMP100887,Fitri Halim Firmansyah,1.0,,,1.0,1.0,1.0,1.0,1.0
+EMP100888,Anisa Wijaya Ginting,3.0,112.0,40.0,3.0,3.0,2.0,3.0,3.0
+EMP100889,Dwi Baskara Rohman,,102.0,19.0,4.0,3.0,3.0,3.0,
+EMP100890,Valdo Anggara,4.0,126.0,25.0,5.0,4.0,,4.0,3.0
+EMP100891,Rendra Maulida,4.0,94.0,29.0,4.0,4.0,,4.0,
+EMP100892,Joko Jatmiko Maulida,3.0,113.0,26.0,4.0,3.0,3.0,2.0,3.0
+EMP100893,Nabila Maulida,3.0,,27.0,3.0,4.0,4.0,4.0,3.0
+EMP100894,Arif Aji Utami,3.0,137.0,22.0,3.0,,3.0,3.0,3.0
+EMP100895,Wahyu Tri Subekti,3.0,84.0,29.0,2.0,3.0,3.0,3.0,2.0
+EMP100896,Rizka Setiawan,,82.0,24.0,5.0,5.0,5.0,,5.0
+EMP100897,Galih Saputra Siregar,2.0,98.0,26.0,2.0,6.0,3.0,3.0,
+EMP100898,Dewi Permadi,3.0,103.0,31.0,,2.0,3.0,,4.0
+EMP100899,Vania Handayani,3.0,112.0,35.0,2.0,3.0,3.0,4.0,3.0
+EMP100900,Prasetyo Hartanto,3.0,91.0,30.0,3.0,2.0,3.0,3.0,3.0
+EMP100901,Valdo Siregar,3.0,83.0,26.0,2.0,4.0,3.0,,3.0
+EMP100902,Eko Iqbal Mahendra,2.0,129.0,25.0,3.0,3.0,,1.0,
+EMP100903,Budi Ridwan,2.0,115.0,32.0,2.0,3.0,1.0,3.0,3.0
+EMP100904,Julia Zulfikar,1.0,126.0,30.0,1.0,,1.0,,1.0
+EMP100905,Hadi Yudhistira Subekti,3.0,125.0,40.0,2.0,3.0,2.0,3.0,3.0
+EMP100906,Oka Salsabila,,,,2.0,2.0,2.0,2.0,1.0
+EMP100907,Yuni Aji Wijaya,3.0,,,3.0,3.0,3.0,3.0,4.0
+EMP100908,Ahmad Utama Mahendra,3.0,,,3.0,3.0,3.0,3.0,3.0
+EMP100909,Valdo Wijaya Syahputra,5.0,,,5.0,5.0,5.0,5.0,5.0
+EMP100910,Hadi Iqbal Pratama,1.0,111.0,39.0,1.0,1.0,2.0,1.0,1.0
+EMP100911,Prasetyo Halim Syahputra,2.0,87.0,28.0,3.0,1.0,2.0,2.0,2.0
+EMP100912,Mahendra Tamba,3.0,101.0,23.0,2.0,2.0,3.0,4.0,4.0
+EMP100913,Wahyu Ginting,4.0,,29.0,4.0,3.0,3.0,3.0,4.0
+EMP100914,Fitri Firmansyah,3.0,115.0,30.0,3.0,2.0,4.0,3.0,
+EMP100915,Fajar Setiawan,3.0,,26.0,3.0,2.0,3.0,4.0,
+EMP100916,Utami Ginting,1.0,95.0,29.0,1.0,1.0,1.0,1.0,2.0
+EMP100917,Arif Santoso,3.0,85.0,25.0,3.0,4.0,3.0,3.0,4.0
+EMP100918,Yuni Lestari,3.0,137.0,28.0,3.0,3.0,4.0,4.0,3.0
+EMP100919,Vania Kusuma,4.0,140.0,26.0,3.0,3.0,4.0,,4.0
+EMP100920,Rifqi Tamba,2.0,135.0,26.0,1.0,2.0,2.0,2.0,
+EMP100921,Lestari Mahendra,,,,2.0,3.0,2.0,3.0,2.0
+EMP100922,Hana Hasibuan,3.0,121.0,31.0,2.0,2.0,4.0,2.0,3.0
+EMP100923,Arif Qolbi Fauziah,2.0,132.0,18.0,2.0,3.0,1.0,2.0,2.0
+EMP100924,Julia Yudhistira Lukman,5.0,101.0,36.0,4.0,4.0,4.0,5.0,5.0
+EMP100925,Yuni Putra,4.0,134.0,30.0,4.0,4.0,4.0,4.0,4.0
+EMP100926,Intan Candra Rahmawati,5.0,122.0,19.0,5.0,5.0,5.0,5.0,5.0
+EMP100927,Maya Kusuma,3.0,139.0,38.0,3.0,4.0,3.0,4.0,4.0
+EMP100928,Zaki Yudhistira Rohman,4.0,88.0,30.0,3.0,,3.0,4.0,4.0
+EMP100929,Anisa Mahardika Utami,1.0,135.0,23.0,1.0,2.0,1.0,2.0,1.0
+EMP100930,Intan Aji Hartanto,3.0,,,3.0,4.0,4.0,2.0,2.0
+EMP100931,Rani Wijaya,3.0,,,3.0,3.0,3.0,3.0,
+EMP100932,Ahmad Kurniawan,2.0,,19.0,3.0,2.0,2.0,3.0,2.0
+EMP100933,Ahmad Anggara,2.0,101.0,28.0,2.0,1.0,1.0,2.0,1.0
+EMP100934,Rifqi Salsabila,4.0,,,4.0,4.0,3.0,3.0,5.0
+EMP100935,Evi Erlangga Herlambang,4.0,140.0,31.0,3.0,5.0,4.0,4.0,4.0
+EMP100936,Sari Wijaya,1.0,,,1.0,1.0,1.0,2.0,1.0
+EMP100937,Joko Mahardika Ananda,,,,5.0,4.0,3.0,5.0,4.0
+EMP100938,Anisa Hasibuan,,,27.0,4.0,4.0,4.0,5.0,3.0
+EMP100939,Rizka Lukman,2.0,94.0,30.0,2.0,3.0,2.0,3.0,2.0
+EMP100940,Intan Mahendra,2.0,82.0,27.0,2.0,3.0,2.0,2.0,2.0
+EMP100941,Joko Firmansyah,2.0,,,2.0,3.0,2.0,2.0,2.0
+EMP100942,Citra Wijaya Sinaga,3.0,99.0,25.0,3.0,2.0,3.0,4.0,
+EMP100943,Rama Aji Purnama,3.0,107.0,42.0,2.0,3.0,3.0,3.0,3.0
+EMP100944,Adit Utama Wijaya,1.0,126.0,26.0,1.0,1.0,1.0,2.0,1.0
+EMP100945,Tania Dharma Siregar,4.0,111.0,30.0,4.0,5.0,4.0,4.0,3.0
+EMP100946,Andi Tamba,1.0,,,1.0,99.0,1.0,1.0,1.0
+EMP100947,Maya Herlambang,6.0,89.0,33.0,3.0,5.0,4.0,5.0,
+EMP100948,Iman Permadi,2.0,,,2.0,,3.0,3.0,2.0
+EMP100949,Joko Saputra Ramadhan,2.0,139.0,37.0,2.0,1.0,1.0,3.0,2.0
+EMP100950,Budi Rohman,3.0,108.0,40.0,2.0,3.0,3.0,3.0,2.0
+EMP100951,Rama Rachman Wijaya,2.0,140.0,26.0,1.0,1.0,3.0,2.0,2.0
+EMP100952,Yuni Lukman,3.0,80.0,26.0,3.0,4.0,3.0,3.0,3.0
+EMP100953,Hadi Anugrah Yulianto,,,43.0,,3.0,4.0,4.0,4.0
+EMP100954,Ayu Yudhistira Ridwan,3.0,90.0,17.0,4.0,4.0,3.0,3.0,3.0
+EMP100955,Evi Lestari Wibowo,3.0,118.0,32.0,4.0,4.0,3.0,3.0,2.0
+EMP100956,Anisa Suharto,3.0,120.0,16.0,3.0,4.0,3.0,3.0,3.0
+EMP100957,Julia Zulfikar Saputra,4.0,90.0,32.0,4.0,5.0,4.0,3.0,5.0
+EMP100958,Arif Wijaya Pamungkas,5.0,,,5.0,4.0,5.0,5.0,5.0
+EMP100959,Mahendra Fadillah Ananda,3.0,117.0,26.0,3.0,3.0,3.0,3.0,3.0
+EMP100960,Bayu Nabila Maulida,,107.0,42.0,1.0,2.0,3.0,3.0,2.0
+EMP100961,Dinda Siregar,4.0,92.0,30.0,,5.0,4.0,4.0,3.0
+EMP100962,Kartika Wibowo,5.0,135.0,31.0,4.0,5.0,5.0,5.0,4.0
+EMP100963,Ahmad Permadi,5.0,,,3.0,2.0,3.0,4.0,4.0
+EMP100964,Cahyo Ginting,5.0,,,5.0,5.0,4.0,5.0,5.0
+EMP100965,Intan Dharma Suharto,,126.0,28.0,2.0,,2.0,2.0,4.0
+EMP100966,Ayu Wijaya Hasibuan,2.0,140.0,41.0,2.0,3.0,2.0,1.0,2.0
+EMP100967,Joko Lestari,3.0,99.0,38.0,3.0,3.0,3.0,3.0,2.0
+EMP100968,Vania Yudhistira Wibowo,,124.0,32.0,2.0,2.0,3.0,3.0,4.0
+EMP100969,Nugroho Lukman,4.0,117.0,37.0,5.0,,4.0,5.0,
+EMP100970,Zaki Candra Ramadhan,4.0,108.0,32.0,4.0,4.0,4.0,4.0,3.0
+EMP100971,Lestari Ananda,3.0,102.0,38.0,4.0,3.0,4.0,2.0,3.0
+EMP100972,Dian Lukman,5.0,,,2.0,2.0,4.0,4.0,2.0
+EMP100973,Anisa Wijaya,3.0,114.0,28.0,3.0,3.0,2.0,3.0,3.0
+EMP100974,Luthfi Lestari,3.0,,,2.0,2.0,,2.0,3.0
+EMP100975,Dwi Maulida,,,38.0,2.0,,2.0,1.0,3.0
+EMP100976,Budi Suharto,2.0,92.0,20.0,2.0,1.0,,2.0,2.0
+EMP100977,Rifqi Syahputra,,,,3.0,5.0,4.0,3.0,99.0
+EMP100978,Ari Aji Pratama,2.0,134.0,27.0,3.0,2.0,2.0,2.0,1.0
+EMP100979,Anisa Mahardika Pradana,2.0,111.0,25.0,3.0,3.0,,,3.0
+EMP100980,Evi Nabila Siregar,4.0,124.0,30.0,4.0,4.0,,4.0,4.0
+EMP100981,Bayu Anugrah Sinaga,3.0,138.0,28.0,3.0,3.0,3.0,3.0,4.0
+EMP100982,Hana Wijaya,4.0,94.0,35.0,4.0,4.0,5.0,5.0,4.0
+EMP100983,Iman Mahardika Utami,3.0,120.0,26.0,3.0,4.0,3.0,3.0,3.0
+EMP100984,Wulan Zulfikar Lestari,1.0,118.0,24.0,2.0,,1.0,2.0,1.0
+EMP100985,Sari Halim Fauziah,1.0,89.0,29.0,1.0,1.0,1.0,1.0,1.0
+EMP100986,Novi Tamba,3.0,101.0,16.0,,1.0,1.0,1.0,2.0
+EMP100987,Prasetyo Purnama,5.0,,,,5.0,4.0,5.0,5.0
+EMP100988,Prasetyo Zulfikar,5.0,116.0,18.0,5.0,,5.0,5.0,4.0
+EMP100989,Hadi Yudhistira Siregar,4.0,109.0,22.0,4.0,4.0,4.0,4.0,4.0
+EMP100990,Oka Ananda,5.0,,,4.0,4.0,3.0,3.0,4.0
+EMP100991,Lestari Lukman,4.0,,,3.0,5.0,3.0,,4.0
+EMP100992,Kurnia Tamba,,,31.0,3.0,4.0,,4.0,4.0
+EMP100993,Wulan Purnama,4.0,127.0,26.0,3.0,5.0,4.0,5.0,5.0
+EMP100994,Rizka Kusuma Rahmawati,3.0,136.0,34.0,3.0,3.0,3.0,2.0,3.0
+EMP100995,Anisa Ramadhan,,117.0,30.0,3.0,3.0,3.0,2.0,2.0
+EMP100996,Anisa Saputra,4.0,106.0,43.0,5.0,3.0,4.0,4.0,4.0
+EMP100997,Dwi Setiawan,3.0,105.0,27.0,3.0,,4.0,4.0,2.0
+EMP100998,Citra Pratama,4.0,102.0,31.0,5.0,4.0,,4.0,5.0
+EMP100999,Rani Pratama,3.0,136.0,23.0,2.0,3.0,4.0,3.0,3.0
+EMP101000,Eko Maulida,3.0,116.0,34.0,3.0,2.0,3.0,4.0,4.0
+EMP101001,Maya Siregar,4.0,119.0,17.0,3.0,3.0,4.0,4.0,4.0
+EMP101002,Hadi Pratama,2.0,85.0,24.0,3.0,3.0,2.0,1.0,2.0
+EMP101003,Bella Utama Zulfikar,4.0,100.0,29.0,3.0,4.0,4.0,,4.0
+EMP101004,Kurnia Ananda,4.0,83.0,32.0,5.0,4.0,4.0,,4.0
+EMP101005,Eko Ganesha Kurniawan,3.0,115.0,17.0,3.0,4.0,2.0,3.0,3.0
+EMP101006,Yuni Pratama,4.0,132.0,24.0,4.0,5.0,,3.0,3.0
+EMP101007,Prasetyo Subekti,5.0,85.0,33.0,5.0,4.0,4.0,5.0,5.0
+EMP101008,Oka Putra,2.0,138.0,17.0,,3.0,,,2.0
+EMP101009,Lestari Dharma Herlambang,5.0,88.0,15.0,5.0,5.0,5.0,5.0,4.0
+EMP101010,Nabila Santoso,2.0,125.0,35.0,3.0,2.0,2.0,1.0,2.0
+EMP101011,Wahyu Jatmiko Siregar,,134.0,28.0,2.0,3.0,3.0,3.0,4.0
+EMP101012,Prasetyo Ginting,4.0,,,4.0,4.0,4.0,3.0,4.0
+EMP101013,Putri Pratomo,2.0,89.0,32.0,2.0,2.0,3.0,2.0,1.0
+EMP101014,Nurlita Salsabila,4.0,130.0,39.0,5.0,4.0,5.0,3.0,4.0
+EMP101015,Umar Wijaya,,118.0,28.0,3.0,3.0,3.0,3.0,4.0
+EMP101016,Vania Pratomo,4.0,117.0,20.0,4.0,4.0,4.0,3.0,4.0
+EMP101017,Nugroho Lestari Gunawan,3.0,140.0,17.0,3.0,3.0,3.0,3.0,3.0
+EMP101018,Rani Kusuma,3.0,120.0,27.0,4.0,4.0,,4.0,2.0
+EMP101019,Hadi Mahardika Ridwan,,107.0,27.0,4.0,4.0,4.0,5.0,4.0
+EMP101020,Wahyu Hidayat,2.0,93.0,31.0,2.0,1.0,2.0,1.0,3.0
+EMP101021,Rani Fadillah Maulana,4.0,135.0,28.0,4.0,5.0,4.0,5.0,4.0
+EMP101022,Hadi Siregar,4.0,,,3.0,4.0,3.0,3.0,4.0
+EMP101023,Yuni Ginting,4.0,137.0,24.0,4.0,5.0,4.0,4.0,3.0
+EMP101024,Citra Situmorang,2.0,98.0,23.0,3.0,2.0,,2.0,2.0
+EMP101025,Tania Lestari Indrawan,4.0,122.0,24.0,4.0,4.0,4.0,4.0,4.0
+EMP101026,Eko Santoso,3.0,,,1.0,1.0,1.0,1.0,1.0
+EMP101027,Kartika Anugrah Halim,2.0,140.0,30.0,3.0,2.0,2.0,2.0,3.0
+EMP101028,Dwi Sinaga,4.0,130.0,32.0,4.0,4.0,3.0,4.0,5.0
+EMP101029,Ayunda Situmorang,3.0,103.0,30.0,3.0,2.0,3.0,3.0,3.0
+EMP101030,Dimas Ananda,4.0,,,3.0,3.0,4.0,4.0,4.0
+EMP101031,Putri Wijaya,4.0,87.0,32.0,4.0,4.0,3.0,5.0,4.0
+EMP101032,Zaki Utama Pratomo,3.0,96.0,29.0,2.0,,3.0,4.0,4.0
+EMP101033,Citra Saputra,3.0,140.0,32.0,3.0,3.0,3.0,,3.0
+EMP101034,Citra Rohman,3.0,117.0,27.0,3.0,3.0,2.0,4.0,4.0
+EMP101035,Luthfi Zulfikar,,119.0,25.0,4.0,5.0,5.0,4.0,5.0
+EMP101036,Mahendra Santoso,1.0,131.0,22.0,1.0,1.0,2.0,1.0,1.0
+EMP101037,Rani Utama Gunawan,3.0,138.0,22.0,3.0,3.0,,3.0,3.0
+EMP101038,Ayunda Lestari Sinaga,1.0,124.0,32.0,2.0,1.0,1.0,0.0,1.0
+EMP101039,Fajar Pamungkas,3.0,111.0,29.0,2.0,3.0,3.0,2.0,3.0
+EMP101040,Ayunda Hidayat,3.0,,,2.0,0.0,2.0,4.0,
+EMP101041,Hana Dharma Hidayat,,,35.0,5.0,4.0,5.0,4.0,3.0
+EMP101042,Lestari Utami,4.0,,,4.0,4.0,3.0,5.0,
+EMP101043,Joko Rachman Setiawan,4.0,,,4.0,5.0,4.0,4.0,4.0
+EMP101044,Nabila Lestari Sinaga,2.0,94.0,41.0,1.0,3.0,3.0,,2.0
+EMP101045,Putri Mahendra,4.0,139.0,21.0,3.0,4.0,,4.0,4.0
+EMP101046,Rama Wibowo,2.0,119.0,35.0,2.0,3.0,2.0,3.0,2.0
+EMP101047,Lestari Ganesha Fauziah,3.0,89.0,23.0,3.0,3.0,3.0,3.0,3.0
+EMP101048,Rama Nabila Hasibuan,,81.0,30.0,2.0,4.0,3.0,3.0,3.0
+EMP101049,Teguh Subekti,3.0,,,3.0,3.0,3.0,4.0,
+EMP101050,Dimas Saputra Herlambang,4.0,91.0,17.0,4.0,4.0,,4.0,3.0
+EMP101051,Bella Permadi,,111.0,21.0,2.0,3.0,3.0,3.0,3.0
+EMP101052,Nadia Zulfikar Sinaga,2.0,,33.0,2.0,2.0,2.0,,3.0
+EMP101053,Evi Hartanto,,133.0,33.0,4.0,5.0,,,4.0
+EMP101054,Yuni Erlangga Subekti,,118.0,28.0,1.0,1.0,1.0,1.0,1.0
+EMP101055,Yoga Candra Hartanto,5.0,118.0,25.0,,5.0,5.0,5.0,5.0
+EMP101056,Umar Hartanto,2.0,,,2.0,2.0,3.0,1.0,1.0
+EMP101057,Dinda Anggara,2.0,119.0,28.0,3.0,,2.0,2.0,2.0
+EMP101058,Umar Yulianto,1.0,110.0,18.0,1.0,1.0,1.0,1.0,2.0
+EMP101059,Tania Fadillah Firmansyah,4.0,134.0,28.0,,4.0,,4.0,4.0
+EMP101060,Galih Fauziah,3.0,84.0,30.0,4.0,2.0,3.0,,3.0
+EMP101061,Ayu Handayani,2.0,,,3.0,2.0,1.0,3.0,3.0
+EMP101062,Rifqi Jatmiko Wijaya,4.0,,,5.0,5.0,4.0,4.0,
+EMP101063,Rendra Kusuma Siregar,,86.0,31.0,,3.0,3.0,3.0,3.0
+EMP101064,Oktavia Mahendra,1.0,122.0,25.0,,1.0,1.0,1.0,1.0
+EMP101065,Nabila Kusuma Gunawan,5.0,140.0,37.0,4.0,5.0,5.0,5.0,5.0
+EMP101066,Novi Hartanto,2.0,85.0,35.0,3.0,1.0,,2.0,2.0
+EMP101067,Galih Kusuma Ramadhan,2.0,113.0,17.0,2.0,1.0,3.0,1.0,
+EMP101068,Kurnia Erlangga Maulana,3.0,,,,2.0,3.0,4.0,2.0
+EMP101069,Ayu Erlangga Kurniawan,2.0,123.0,20.0,1.0,2.0,2.0,1.0,2.0
+EMP101070,Nugroho Hasibuan,4.0,94.0,35.0,4.0,4.0,3.0,5.0,
+EMP101071,Wulan Pratama,,122.0,22.0,3.0,4.0,2.0,3.0,4.0
+EMP101072,Adi Pramudita Indrawan,2.0,138.0,29.0,2.0,2.0,2.0,2.0,2.0
+EMP101073,Nabila Utami,2.0,,,2.0,3.0,2.0,2.0,2.0
+EMP101074,Nabila Aji Kusuma,,,,1.0,2.0,,2.0,2.0
+EMP101075,Hadi Wijaya Gunawan,3.0,103.0,20.0,4.0,3.0,2.0,2.0,3.0
+EMP101076,Satya Pamungkas,3.0,80.0,31.0,3.0,3.0,3.0,3.0,2.0
+EMP101077,Hana Dharma Maulida,4.0,96.0,21.0,4.0,4.0,4.0,4.0,4.0
+EMP101078,Satya Saputra,4.0,135.0,14.0,4.0,4.0,4.0,4.0,4.0
+EMP101079,Bayu Sinaga,3.0,127.0,27.0,4.0,3.0,2.0,99.0,2.0
+EMP101080,Galih Zulfikar Ramadhan,3.0,128.0,19.0,3.0,4.0,3.0,4.0,3.0
+EMP101081,Putri Nabila Rohman,4.0,124.0,30.0,3.0,4.0,,4.0,3.0
+EMP101082,Rani Permadi,5.0,94.0,26.0,5.0,4.0,,5.0,5.0
+EMP101083,Adit Salsabila,2.0,,,3.0,2.0,2.0,2.0,1.0
+EMP101084,Fitri Hartanto,4.0,139.0,32.0,5.0,5.0,4.0,3.0,4.0
+EMP101085,Rendra Maulana,4.0,94.0,36.0,3.0,3.0,4.0,4.0,4.0
+EMP101086,Nugroho Maulana,3.0,116.0,22.0,4.0,3.0,4.0,3.0,3.0
+EMP101087,Rendra Saputra Gunawan,3.0,81.0,26.0,4.0,,,2.0,3.0
+EMP101088,Rama Jatmiko Gunawan,2.0,114.0,27.0,1.0,2.0,1.0,3.0,2.0
+EMP101089,Nabila Salsabila,4.0,127.0,17.0,4.0,5.0,3.0,3.0,3.0
+EMP101090,Bella Fauziah,3.0,129.0,32.0,3.0,2.0,,2.0,3.0
+EMP101091,Ari Saputra Pamungkas,5.0,117.0,31.0,,,2.0,3.0,4.0
+EMP101092,Rani Gunawan,4.0,104.0,16.0,4.0,4.0,4.0,5.0,4.0
+EMP101093,Joko Iqbal Lestari,3.0,,,3.0,3.0,3.0,2.0,3.0
+EMP101094,Novi Zulfikar Handayani,3.0,120.0,27.0,3.0,3.0,3.0,3.0,3.0
+EMP101095,Nadia Simanjuntak,0.0,106.0,29.0,5.0,5.0,5.0,3.0,4.0
+EMP101096,Rizka Wijaya,4.0,,,4.0,5.0,5.0,5.0,3.0
+EMP101097,Bayu Mahendra,2.0,,,2.0,2.0,1.0,3.0,2.0
+EMP101098,Utami Firmansyah,5.0,94.0,30.0,5.0,5.0,4.0,5.0,4.0
+EMP101099,Nabila Kusuma,,113.0,30.0,3.0,2.0,1.0,2.0,3.0
+EMP101100,Fitri Jatmiko Setiawan,3.0,124.0,33.0,2.0,3.0,3.0,3.0,3.0
+EMP101101,Nugroho Yudhistira Lukman,3.0,,,3.0,3.0,3.0,3.0,
+EMP101102,Novi Sinaga,,97.0,20.0,4.0,5.0,3.0,4.0,5.0
+EMP101103,Wulan Lestari Saputra,5.0,80.0,28.0,5.0,5.0,5.0,5.0,5.0
+EMP101104,Oktavia Lestari,2.0,120.0,30.0,3.0,2.0,3.0,2.0,2.0
+EMP101105,Kartika Saputra Siregar,2.0,,,2.0,2.0,2.0,1.0,1.0
+EMP101106,Sari Siregar,4.0,,,3.0,5.0,3.0,,4.0
+EMP101107,Mahendra Fadillah Pradana,1.0,89.0,30.0,1.0,2.0,1.0,1.0,1.0
+EMP101108,Dewi Pradana,3.0,110.0,22.0,2.0,2.0,3.0,3.0,2.0
+EMP101109,Bella Suharto,4.0,84.0,26.0,2.0,2.0,2.0,2.0,2.0
+EMP101110,Rani Simanjuntak,,85.0,29.0,2.0,3.0,3.0,3.0,
+EMP101111,Bella Firmansyah,4.0,,,99.0,4.0,5.0,5.0,4.0
+EMP101112,Budi Firmansyah,4.0,96.0,40.0,4.0,5.0,4.0,5.0,4.0
+EMP101113,Evi Syahputra,1.0,93.0,35.0,1.0,1.0,1.0,1.0,1.0
+EMP101114,Tania Fauziah,3.0,84.0,30.0,2.0,3.0,3.0,3.0,
+EMP101115,Valdo Putra,2.0,90.0,26.0,1.0,1.0,1.0,1.0,1.0
+EMP101116,Dimas Tri Zulfikar,4.0,,29.0,2.0,1.0,2.0,2.0,2.0
+EMP101117,Rendra Indrawan,2.0,,,2.0,2.0,2.0,1.0,1.0
+EMP101118,Maya Dharma Kurniawan,2.0,81.0,28.0,3.0,2.0,2.0,2.0,1.0
+EMP101119,Utami Lestari,1.0,,,2.0,1.0,1.0,1.0,2.0
+EMP101120,Gita Rahmawati,3.0,97.0,15.0,2.0,3.0,3.0,3.0,3.0
+EMP101121,Gita Hasibuan,2.0,132.0,35.0,2.0,2.0,2.0,2.0,3.0
+EMP101122,Maya Utami,3.0,95.0,19.0,2.0,4.0,4.0,3.0,4.0
+EMP101123,Dian Kurniawan,5.0,87.0,23.0,,3.0,3.0,3.0,3.0
+EMP101124,Cahyo Tri Maulida,4.0,,29.0,4.0,4.0,3.0,4.0,3.0
+EMP101125,Nabila Halim,,115.0,27.0,4.0,3.0,2.0,4.0,3.0
+EMP101126,Ayunda Jatmiko Zulfikar,4.0,80.0,28.0,4.0,5.0,4.0,4.0,4.0
+EMP101127,Valdo Hasibuan,4.0,94.0,35.0,3.0,4.0,,3.0,4.0
+EMP101128,Kartika Setiawan,2.0,82.0,40.0,3.0,1.0,1.0,3.0,2.0
+EMP101129,Rendra Purnama,3.0,101.0,27.0,4.0,3.0,4.0,2.0,3.0
+EMP101130,Rifqi Kusuma,4.0,104.0,36.0,4.0,3.0,3.0,3.0,4.0
+EMP101131,Lestari Candra Nugroho,4.0,108.0,34.0,5.0,4.0,4.0,4.0,4.0
+EMP101132,Umar Pradana,3.0,112.0,32.0,3.0,3.0,3.0,2.0,3.0
+EMP101133,Rendra Subekti,4.0,108.0,33.0,4.0,4.0,4.0,4.0,4.0
+EMP101134,Kurnia Dharma Putra,,109.0,31.0,4.0,3.0,5.0,4.0,
+EMP101135,Adit Rohman,,116.0,37.0,2.0,4.0,4.0,3.0,2.0
+EMP101136,Arif Saputra Halim,4.0,116.0,33.0,4.0,4.0,5.0,3.0,4.0
+EMP101137,Nabila Putra,3.0,,,3.0,3.0,3.0,3.0,3.0
+EMP101138,Rizka Kusuma,4.0,137.0,25.0,5.0,5.0,4.0,4.0,4.0
+EMP101139,Rendra Gunawan,4.0,,,,4.0,4.0,3.0,4.0
+EMP101140,Wahyu Nabila Purnama,2.0,128.0,16.0,2.0,2.0,1.0,2.0,1.0
+EMP101141,Dwi Hartanto,2.0,,26.0,2.0,,,2.0,3.0
+EMP101142,Rani Kusuma Putra,2.0,113.0,22.0,3.0,2.0,3.0,2.0,3.0
+EMP101143,Ayunda Purnama,2.0,127.0,38.0,2.0,1.0,2.0,2.0,2.0
+EMP101144,Rifqi Maulida,,93.0,31.0,2.0,2.0,2.0,,3.0
+EMP101145,Yoga Adi Halim,,90.0,35.0,4.0,4.0,4.0,,3.0
+EMP101146,Ayu Suharto,2.0,,,1.0,2.0,2.0,2.0,3.0
+EMP101147,Anisa Kusuma,4.0,111.0,35.0,4.0,4.0,4.0,4.0,
+EMP101148,Ahmad Hartanto,5.0,137.0,34.0,5.0,5.0,5.0,5.0,5.0
+EMP101149,Utami Zulfikar Siregar,3.0,83.0,20.0,,3.0,2.0,3.0,3.0
+EMP101150,Wahyu Pramudita Indrawan,3.0,118.0,39.0,3.0,2.0,3.0,,4.0
+EMP101151,Dwi Adi Wijaya,4.0,86.0,22.0,3.0,3.0,3.0,4.0,4.0
+EMP101152,Dewi Nabila Hasibuan,3.0,,,4.0,4.0,3.0,3.0,2.0
+EMP101153,Ayunda Siregar,3.0,91.0,34.0,4.0,2.0,3.0,3.0,3.0
+EMP101154,Gita Aji Simanjuntak,5.0,116.0,41.0,,4.0,3.0,3.0,4.0
+EMP101155,Rizki Baskara Permadi,,,,2.0,2.0,2.0,4.0,3.0
+EMP101156,Adi Halim,,,25.0,3.0,1.0,2.0,1.0,3.0
+EMP101157,Galih Iqbal Pradana,,108.0,32.0,3.0,5.0,4.0,4.0,4.0
+EMP101158,Putri Saputra Sinaga,4.0,127.0,30.0,4.0,5.0,4.0,3.0,4.0
+EMP101159,Vania Maulana,5.0,111.0,25.0,3.0,3.0,3.0,3.0,2.0
+EMP101160,Oka Lestari Wijaya,2.0,,,2.0,2.0,,,1.0
+EMP101161,Fajar Ramadhan,3.0,87.0,30.0,3.0,3.0,3.0,3.0,3.0
+EMP101162,Hadi Lestari,1.0,86.0,21.0,1.0,1.0,,1.0,1.0
+EMP101163,Maya Suharto,3.0,99.0,31.0,2.0,3.0,4.0,3.0,3.0
+EMP101164,Nabila Subekti,4.0,104.0,13.0,5.0,4.0,,3.0,4.0
+EMP101165,Kartika Iqbal Gunawan,3.0,83.0,29.0,3.0,4.0,3.0,4.0,3.0
+EMP101166,Utami Qolbi Halim,3.0,106.0,33.0,3.0,2.0,3.0,3.0,3.0
+EMP101167,Rama Utami,5.0,86.0,30.0,5.0,5.0,5.0,5.0,5.0
+EMP101168,Oka Permadi,4.0,134.0,29.0,3.0,4.0,4.0,,4.0
+EMP101169,Anisa Wijaya Maulana,,89.0,31.0,2.0,1.0,2.0,2.0,1.0
+EMP101170,Dewi Jatmiko Indrawan,4.0,127.0,31.0,5.0,,3.0,4.0,4.0
+EMP101171,Maya Baskara Suharto,3.0,,30.0,3.0,3.0,3.0,2.0,4.0
+EMP101172,Arif Purnama,,,,5.0,5.0,,5.0,5.0
+EMP101173,Rizki Dharma Rahmawati,,81.0,20.0,4.0,2.0,3.0,3.0,3.0
+EMP101174,Yoga Saputra Mahendra,3.0,,,3.0,3.0,4.0,2.0,2.0
+EMP101175,Anisa Yulianto,2.0,80.0,40.0,3.0,2.0,1.0,2.0,
+EMP101176,Dimas Tri Pratama,2.0,117.0,25.0,2.0,3.0,2.0,3.0,2.0
+EMP101177,Mahendra Siregar,3.0,,,3.0,3.0,,3.0,2.0
+EMP101178,Galih Rahmawati,2.0,84.0,15.0,2.0,2.0,1.0,3.0,1.0
+EMP101179,Rani Jatmiko Indrawan,4.0,117.0,30.0,4.0,4.0,4.0,4.0,3.0
+EMP101180,Hana Suharto,4.0,,,4.0,5.0,4.0,4.0,5.0
+EMP101181,Putri Ananda,4.0,104.0,20.0,4.0,5.0,4.0,4.0,4.0
+EMP101182,Valdo Zulfikar Santoso,3.0,115.0,29.0,3.0,3.0,4.0,3.0,4.0
+EMP101183,Gita Adi Wibowo,3.0,118.0,36.0,3.0,3.0,3.0,2.0,3.0
+EMP101184,Mahendra Dharma Yulianto,3.0,122.0,37.0,3.0,,3.0,,4.0
+EMP101185,Wahyu Utami,,115.0,31.0,4.0,4.0,3.0,5.0,5.0
+EMP101186,Citra Halim Wijaya,4.0,110.0,20.0,4.0,4.0,4.0,,4.0
+EMP101187,Prasetyo Ananda,2.0,110.0,33.0,2.0,2.0,2.0,2.0,2.0
+EMP101188,Julia Utami,4.0,,,4.0,3.0,4.0,5.0,4.0
+EMP101189,Prasetyo Pradana,2.0,134.0,31.0,,1.0,3.0,1.0,2.0
+EMP101190,Kurnia Dharma Kurniawan,3.0,87.0,35.0,3.0,3.0,2.0,2.0,4.0
+EMP101191,Wulan Nugroho,3.0,140.0,25.0,2.0,3.0,3.0,3.0,2.0
+EMP101192,Galih Aji Permadi,3.0,114.0,26.0,2.0,3.0,2.0,3.0,3.0
+EMP101193,Dwi Utama Handayani,1.0,103.0,31.0,1.0,1.0,1.0,2.0,1.0
+EMP101194,Prasetyo Candra Subekti,3.0,105.0,30.0,3.0,3.0,3.0,2.0,3.0
+EMP101195,Hana Aji Setiawan,4.0,,,5.0,,5.0,4.0,5.0
+EMP101196,Satya Firmansyah,,90.0,37.0,5.0,5.0,5.0,5.0,
+EMP101197,Cahyo Pamungkas,4.0,89.0,25.0,4.0,4.0,3.0,4.0,4.0
+EMP101198,Nadia Pratomo,2.0,82.0,30.0,2.0,2.0,1.0,3.0,1.0
+EMP101199,Umar Rachman Hidayat,3.0,109.0,30.0,3.0,3.0,4.0,4.0,3.0
+EMP101200,Anisa Ridwan,3.0,119.0,35.0,3.0,3.0,3.0,3.0,4.0
+EMP101201,Valdo Sinaga,3.0,120.0,32.0,3.0,,3.0,2.0,3.0
+EMP101202,Valdo Utami,,,,3.0,3.0,3.0,2.0,3.0
+EMP101203,Dwi Lestari,5.0,88.0,30.0,5.0,5.0,5.0,5.0,5.0
+EMP101204,Kartika Nugroho,2.0,,,3.0,1.0,2.0,1.0,2.0
+EMP101205,Nurlita Qolbi Tamba,3.0,,,3.0,3.0,,3.0,3.0
+EMP101206,Utami Siregar,3.0,,,2.0,4.0,3.0,,3.0
+EMP101207,Adi Salsabila,4.0,130.0,33.0,4.0,4.0,,4.0,4.0
+EMP101208,Dimas Siregar,3.0,,27.0,2.0,4.0,3.0,3.0,3.0
+EMP101209,Zaki Indrawan,2.0,127.0,26.0,2.0,3.0,1.0,2.0,2.0
+EMP101210,Luthfi Lestari Rahmawati,4.0,103.0,25.0,5.0,4.0,4.0,,4.0
+EMP101211,Valdo Ananda,2.0,137.0,27.0,2.0,2.0,2.0,2.0,2.0
+EMP101212,Galih Suharto,2.0,136.0,39.0,2.0,1.0,2.0,3.0,
+EMP101213,Bayu Erlangga Hidayat,2.0,110.0,28.0,2.0,2.0,1.0,1.0,3.0
+EMP101214,Intan Ridwan,,107.0,19.0,3.0,4.0,4.0,5.0,4.0
+EMP101215,Ayu Kusuma,3.0,102.0,24.0,3.0,3.0,4.0,3.0,2.0
+EMP101216,Galih Candra Ridwan,1.0,111.0,30.0,2.0,1.0,1.0,,1.0
+EMP101217,Luthfi Lestari Kusuma,1.0,104.0,26.0,,2.0,2.0,,1.0
+EMP101218,Dian Gunawan,2.0,104.0,27.0,2.0,1.0,2.0,3.0,1.0
+EMP101219,Dinda Lestari Setiawan,3.0,139.0,31.0,3.0,3.0,2.0,3.0,3.0
+EMP101220,Hadi Pramudita Saputra,1.0,,22.0,1.0,1.0,1.0,1.0,1.0
+EMP101221,Bayu Adi Handayani,3.0,104.0,31.0,3.0,4.0,3.0,4.0,3.0
+EMP101222,Sari Rahmawati,3.0,100.0,21.0,2.0,3.0,3.0,4.0,3.0
+EMP101223,Dimas Situmorang,4.0,131.0,28.0,3.0,4.0,3.0,5.0,5.0
+EMP101224,Rizka Indrawan,3.0,106.0,25.0,2.0,4.0,3.0,2.0,3.0
+EMP101225,Zahra Hidayat,5.0,97.0,27.0,5.0,4.0,,5.0,4.0
+EMP101226,Yoga Erlangga Mahendra,5.0,121.0,34.0,5.0,5.0,5.0,5.0,5.0
+EMP101227,Fitri Dharma Ramadhan,3.0,,20.0,3.0,4.0,3.0,3.0,3.0
+EMP101228,Satya Qolbi Anggara,3.0,,33.0,3.0,3.0,3.0,3.0,3.0
+EMP101229,Ayu Putra,1.0,125.0,34.0,1.0,1.0,2.0,,1.0
+EMP101230,Luthfi Handayani,3.0,136.0,25.0,3.0,4.0,4.0,3.0,3.0
+EMP101231,Sari Tri Wibowo,3.0,89.0,26.0,,3.0,3.0,,4.0
+EMP101232,Adi Rohman,4.0,94.0,25.0,4.0,3.0,3.0,4.0,4.0
+EMP101233,Kurnia Tri Pratomo,3.0,,,4.0,2.0,3.0,4.0,3.0
+EMP101234,Luthfi Ananda,5.0,125.0,42.0,5.0,,5.0,5.0,
+EMP101235,Cahyo Ganesha Situmorang,,,,2.0,3.0,3.0,3.0,2.0
+EMP101236,Novi Baskara Fauziah,2.0,116.0,36.0,1.0,3.0,3.0,1.0,1.0
+EMP101237,Zahra Ridwan,5.0,85.0,31.0,4.0,4.0,4.0,5.0,4.0
+EMP101238,Rani Yulianto,3.0,,,,4.0,3.0,3.0,3.0
+EMP101239,Bella Qolbi Simanjuntak,3.0,114.0,28.0,3.0,,3.0,3.0,3.0
+EMP101240,Rifqi Nabila Nugroho,,96.0,34.0,1.0,2.0,2.0,3.0,2.0
+EMP101241,Mahendra Wijaya,4.0,83.0,23.0,,5.0,4.0,4.0,4.0
+EMP101242,Sari Saputra Tamba,4.0,139.0,31.0,4.0,4.0,3.0,5.0,4.0
+EMP101243,Nugroho Setiawan,2.0,,,2.0,2.0,2.0,2.0,1.0
+EMP101244,Evi Indrawan,,81.0,31.0,2.0,3.0,3.0,2.0,1.0
+EMP101245,Fitri Salsabila,2.0,,16.0,2.0,3.0,2.0,2.0,2.0
+EMP101246,Joko Pradana,4.0,133.0,36.0,5.0,4.0,4.0,4.0,4.0
+EMP101247,Iman Syahputra,2.0,81.0,32.0,2.0,3.0,2.0,3.0,2.0
+EMP101248,Cahyo Lestari,5.0,115.0,25.0,5.0,4.0,5.0,5.0,5.0
+EMP101249,Nurlita Erlangga Maulida,3.0,125.0,21.0,3.0,,3.0,3.0,3.0
+EMP101250,Iman Wijaya,5.0,116.0,27.0,,4.0,5.0,,5.0
+EMP101251,Adit Pratama,3.0,,21.0,4.0,4.0,4.0,,2.0
+EMP101252,Vania Ginting,,81.0,23.0,3.0,,3.0,2.0,3.0
+EMP101253,Maya Baskara Ananda,4.0,137.0,23.0,3.0,4.0,4.0,3.0,3.0
+EMP101254,Luthfi Qolbi Sinaga,1.0,99.0,28.0,1.0,1.0,,2.0,1.0
+EMP101255,Gita Handayani,4.0,,,4.0,,4.0,4.0,4.0
+EMP101256,Ayu Pratama,5.0,,,5.0,,5.0,4.0,4.0
+EMP101257,Rifqi Erlangga Pradana,2.0,127.0,28.0,2.0,2.0,1.0,2.0,
+EMP101258,Cahyo Utami,4.0,81.0,34.0,4.0,3.0,4.0,,4.0
+EMP101259,Rafa Qolbi Indrawan,3.0,130.0,22.0,,3.0,3.0,3.0,4.0
+EMP101260,Satya Lestari,4.0,,,3.0,3.0,4.0,4.0,3.0
+EMP101261,Bayu Rachman Pratomo,,,28.0,4.0,4.0,3.0,4.0,3.0
+EMP101262,Ari Baskara Yulianto,3.0,,,99.0,3.0,4.0,3.0,2.0
+EMP101263,Intan Purnama,4.0,,,3.0,4.0,4.0,3.0,4.0
+EMP101264,Luthfi Pramudita Simanjuntak,2.0,95.0,22.0,2.0,1.0,1.0,2.0,1.0
+EMP101265,Umar Utami,3.0,,24.0,4.0,3.0,2.0,3.0,
+EMP101266,Joko Zulfikar Ginting,3.0,95.0,31.0,3.0,4.0,3.0,3.0,3.0
+EMP101267,Rani Herlambang,5.0,98.0,27.0,5.0,5.0,4.0,5.0,4.0
+EMP101268,Rani Lestari,4.0,,,4.0,3.0,4.0,3.0,
+EMP101269,Rizky Jatmiko Herlambang,2.0,109.0,21.0,2.0,2.0,2.0,2.0,2.0
+EMP101270,Novi Permadi,3.0,109.0,29.0,3.0,3.0,3.0,,4.0
+EMP101271,Nabila Adi Ananda,2.0,137.0,33.0,2.0,1.0,3.0,1.0,3.0
+EMP101272,Utami Baskara Lukman,4.0,132.0,36.0,5.0,4.0,5.0,4.0,5.0
+EMP101273,Bella Fadillah Fauziah,2.0,,22.0,2.0,2.0,1.0,2.0,2.0
+EMP101274,Maya Nabila Ridwan,4.0,122.0,28.0,5.0,4.0,4.0,4.0,
+EMP101275,Wulan Mahardika Salsabila,3.0,125.0,11.0,3.0,3.0,3.0,2.0,
+EMP101276,Dinda Saputra,4.0,107.0,31.0,,4.0,5.0,5.0,
+EMP101277,Utami Fauziah,2.0,,,2.0,3.0,1.0,2.0,2.0
+EMP101278,Bella Maulana,,107.0,23.0,5.0,4.0,5.0,5.0,
+EMP101279,Fajar Utami,3.0,,,3.0,3.0,3.0,3.0,3.0
+EMP101280,Arif Saputra Handayani,2.0,137.0,35.0,3.0,3.0,2.0,3.0,2.0
+EMP101281,Wahyu Ramadhan,4.0,126.0,30.0,5.0,4.0,4.0,3.0,4.0
+EMP101282,Bella Lestari Herlambang,3.0,,,3.0,4.0,3.0,3.0,2.0
+EMP101283,Ayu Yulianto,,133.0,14.0,4.0,5.0,4.0,5.0,5.0
+EMP101284,Nadia Mahardika Purnama,,100.0,27.0,1.0,1.0,1.0,1.0,1.0
+EMP101285,Prasetyo Yudhistira Lukman,2.0,104.0,13.0,,2.0,2.0,1.0,2.0
+EMP101286,Zaki Adi Permadi,5.0,110.0,29.0,5.0,5.0,5.0,5.0,4.0
+EMP101287,Fajar Putra,3.0,,30.0,3.0,3.0,3.0,4.0,4.0
+EMP101288,Kurnia Zulfikar Maulida,4.0,92.0,35.0,3.0,6.0,5.0,4.0,4.0
+EMP101289,Evi Ramadhan,3.0,136.0,31.0,3.0,2.0,3.0,3.0,2.0
+EMP101290,Dinda Maulana,3.0,80.0,20.0,4.0,3.0,6.0,3.0,3.0
+EMP101291,Prasetyo Dharma Utami,4.0,107.0,24.0,5.0,5.0,4.0,5.0,
+EMP101292,Maya Permadi,4.0,,,5.0,5.0,4.0,4.0,4.0
+EMP101293,Citra Suharto,5.0,120.0,28.0,5.0,5.0,5.0,5.0,4.0
+EMP101294,Nugroho Rahmawati,,105.0,24.0,4.0,5.0,3.0,4.0,
+EMP101295,Hana Dharma Handayani,4.0,86.0,23.0,,,,3.0,5.0
+EMP101296,Umar Tamba,3.0,98.0,16.0,,3.0,4.0,4.0,4.0
+EMP101297,Teguh Siregar,1.0,108.0,29.0,1.0,1.0,1.0,2.0,1.0
+EMP101298,Nurlita Halim,4.0,81.0,31.0,4.0,5.0,4.0,4.0,4.0
+EMP101299,Vania Candra Nugroho,2.0,114.0,22.0,1.0,2.0,1.0,,1.0
+EMP101300,Eko Kurniawan,3.0,110.0,32.0,3.0,4.0,4.0,3.0,4.0
+EMP101301,Fajar Erlangga Maulana,,132.0,28.0,3.0,2.0,3.0,3.0,
+EMP101302,Hana Anugrah Subekti,,123.0,23.0,3.0,3.0,5.0,4.0,4.0
+EMP101303,Kurnia Hartanto,2.0,83.0,33.0,2.0,3.0,2.0,2.0,
+EMP101304,Iman Firmansyah,3.0,,,2.0,3.0,,3.0,3.0
+EMP101305,Gita Wijaya Fauziah,4.0,89.0,40.0,3.0,4.0,4.0,5.0,5.0
+EMP101306,Dwi Zulfikar,3.0,129.0,35.0,3.0,3.0,,3.0,2.0
+EMP101307,Iman Situmorang,3.0,124.0,36.0,3.0,,3.0,3.0,3.0
+EMP101308,Prasetyo Saputra,3.0,89.0,29.0,3.0,4.0,3.0,3.0,3.0
+EMP101309,Rizka Hidayat,4.0,,,4.0,3.0,4.0,4.0,3.0
+EMP101310,Rizka Yudhistira Sinaga,3.0,116.0,25.0,2.0,3.0,4.0,,4.0
+EMP101311,Teguh Wibowo,3.0,,24.0,3.0,,4.0,3.0,2.0
+EMP101312,Budi Syahputra,3.0,100.0,34.0,3.0,3.0,3.0,3.0,2.0
+EMP101313,Indra Mahardika Putra,2.0,,,2.0,2.0,3.0,2.0,1.0
+EMP101314,Umar Wijaya Salsabila,2.0,90.0,32.0,1.0,2.0,1.0,2.0,2.0
+EMP101315,Dwi Wibowo,3.0,,,3.0,2.0,,3.0,3.0
+EMP101316,Nugroho Kusuma Hasibuan,2.0,94.0,36.0,2.0,2.0,2.0,2.0,1.0
+EMP101317,Nadia Qolbi Utami,3.0,140.0,29.0,3.0,4.0,3.0,2.0,2.0
+EMP101318,Nurlita Zulfikar Sinaga,3.0,85.0,26.0,3.0,3.0,3.0,3.0,2.0
+EMP101319,Budi Anugrah Syahputra,3.0,133.0,29.0,3.0,3.0,3.0,3.0,2.0
+EMP101320,Fajar Tamba,5.0,81.0,33.0,5.0,5.0,5.0,5.0,5.0
+EMP101321,Ari Wijaya,,,,3.0,2.0,3.0,4.0,2.0
+EMP101322,Mahendra Sinaga,4.0,125.0,31.0,3.0,4.0,4.0,4.0,
+EMP101323,Rendra Hartanto,3.0,131.0,29.0,2.0,3.0,2.0,3.0,
+EMP101324,Teguh Lestari Saputra,3.0,,22.0,3.0,3.0,3.0,3.0,2.0
+EMP101325,Gita Tri Siregar,3.0,81.0,29.0,3.0,2.0,4.0,,3.0
+EMP101326,Satya Wibowo,1.0,100.0,32.0,1.0,1.0,1.0,1.0,1.0
+EMP101327,Rizka Suharto,4.0,129.0,25.0,4.0,,4.0,3.0,3.0
+EMP101328,Maya Candra Maulana,4.0,98.0,17.0,4.0,5.0,5.0,4.0,5.0
+EMP101329,Galih Kusuma Ridwan,2.0,,,2.0,2.0,1.0,2.0,
+EMP101330,Rizki Nugroho,4.0,105.0,23.0,4.0,3.0,3.0,3.0,4.0
+EMP101331,Zahra Setiawan,4.0,130.0,24.0,4.0,4.0,4.0,5.0,5.0
+EMP101332,Wahyu Sinaga,1.0,87.0,30.0,1.0,1.0,1.0,1.0,1.0
+EMP101333,Oka Gunawan,4.0,89.0,28.0,4.0,4.0,4.0,4.0,3.0
+EMP101334,Yuni Hartanto,4.0,87.0,36.0,4.0,4.0,3.0,,4.0
+EMP101335,Tania Kusuma,4.0,88.0,31.0,3.0,5.0,3.0,4.0,4.0
+EMP101336,Rama Lestari Handayani,2.0,127.0,25.0,1.0,3.0,2.0,2.0,2.0
+EMP101337,Lestari Jatmiko Situmorang,,,40.0,5.0,5.0,4.0,5.0,5.0
+EMP101338,Oktavia Yulianto,3.0,85.0,33.0,3.0,3.0,2.0,2.0,3.0
+EMP101339,Ayu Subekti,1.0,80.0,22.0,2.0,1.0,1.0,2.0,1.0
+EMP101340,Ayunda Permadi,3.0,109.0,26.0,,4.0,4.0,3.0,3.0
+EMP101341,Joko Putra,2.0,109.0,30.0,3.0,1.0,2.0,3.0,1.0
+EMP101342,Arif Pradana,3.0,91.0,34.0,,3.0,2.0,,3.0
+EMP101343,Anisa Anugrah Saputra,5.0,101.0,36.0,5.0,5.0,5.0,4.0,5.0
+EMP101344,Ayunda Anugrah Rahmawati,4.0,89.0,34.0,4.0,5.0,4.0,3.0,4.0
+EMP101345,Nadia Pramudita Gunawan,,120.0,26.0,4.0,4.0,4.0,,4.0
+EMP101346,Luthfi Tri Subekti,3.0,107.0,32.0,3.0,3.0,4.0,3.0,3.0
+EMP101347,Utami Adi Handayani,5.0,85.0,32.0,4.0,5.0,4.0,5.0,4.0
+EMP101348,Rendra Yudhistira Pradana,4.0,,,4.0,4.0,4.0,3.0,5.0
+EMP101349,Novi Kusuma,3.0,132.0,23.0,3.0,4.0,4.0,2.0,4.0
+EMP101350,Bella Dharma Maulida,5.0,81.0,21.0,4.0,5.0,5.0,5.0,4.0
+EMP101351,Dwi Tamba,4.0,94.0,21.0,4.0,4.0,4.0,5.0,5.0
+EMP101352,Dian Sinaga,1.0,120.0,21.0,1.0,1.0,1.0,1.0,1.0
+EMP101353,Prasetyo Halim,4.0,108.0,29.0,4.0,4.0,4.0,5.0,4.0
+EMP101354,Wulan Aji Rohman,3.0,,36.0,,3.0,2.0,3.0,3.0
+EMP101355,Utami Halim,1.0,109.0,21.0,1.0,1.0,1.0,1.0,1.0
+EMP101356,Yuni Ramadhan,4.0,140.0,41.0,4.0,4.0,3.0,4.0,4.0
+EMP101357,Bayu Zulfikar Hasibuan,,97.0,16.0,2.0,4.0,4.0,3.0,4.0
+EMP101358,Kurnia Maulana,4.0,108.0,27.0,,3.0,3.0,5.0,
+EMP101359,Fajar Iqbal Simanjuntak,4.0,95.0,29.0,3.0,4.0,4.0,4.0,4.0
+EMP101360,Fitri Iqbal Lukman,,124.0,18.0,2.0,2.0,3.0,1.0,2.0
+EMP101361,Adi Pratama,1.0,93.0,29.0,1.0,1.0,1.0,,1.0
+EMP101362,Valdo Kusuma,5.0,97.0,22.0,5.0,5.0,4.0,5.0,4.0
+EMP101363,Rafa Gunawan,3.0,133.0,43.0,2.0,3.0,3.0,3.0,3.0
+EMP101364,Rizky Baskara Handayani,3.0,,,3.0,2.0,,4.0,3.0
+EMP101365,Teguh Setiawan,4.0,,16.0,,5.0,5.0,4.0,4.0
+EMP101366,Rani Firmansyah,2.0,117.0,19.0,3.0,3.0,,2.0,3.0
+EMP101367,Ahmad Nugroho,5.0,,43.0,,5.0,5.0,5.0,
+EMP101368,Julia Herlambang,3.0,104.0,32.0,3.0,2.0,3.0,2.0,3.0
+EMP101369,Dimas Yudhistira Pratomo,4.0,90.0,25.0,5.0,5.0,4.0,5.0,4.0
+EMP101370,Iman Rachman Simanjuntak,3.0,128.0,35.0,3.0,2.0,3.0,4.0,
+EMP101371,Anisa Kurniawan,4.0,,29.0,5.0,,4.0,4.0,3.0
+EMP101372,Adit Gunawan,4.0,134.0,17.0,5.0,,4.0,4.0,4.0
+EMP101373,Hana Aji Sinaga,3.0,81.0,35.0,3.0,2.0,3.0,3.0,3.0
+EMP101374,Anisa Qolbi Kurniawan,2.0,118.0,31.0,2.0,2.0,2.0,2.0,2.0
+EMP101375,Lestari Salsabila,4.0,,33.0,4.0,5.0,4.0,5.0,4.0
+EMP101376,Iman Tamba,3.0,128.0,35.0,3.0,3.0,2.0,,2.0
+EMP101377,Dwi Utama Fauziah,2.0,90.0,28.0,2.0,2.0,3.0,2.0,2.0
+EMP101378,Joko Dharma Utami,,137.0,25.0,,4.0,4.0,4.0,3.0
+EMP101379,Oka Pamungkas,5.0,89.0,29.0,5.0,5.0,5.0,5.0,5.0
+EMP101380,Teguh Utama Pratomo,4.0,108.0,28.0,5.0,4.0,4.0,4.0,
+EMP101381,Kurnia Ridwan,4.0,110.0,38.0,,4.0,4.0,,4.0
+EMP101382,Citra Zulfikar Siregar,4.0,112.0,37.0,,4.0,3.0,,4.0
+EMP101383,Rizky Ramadhan,,133.0,30.0,4.0,4.0,3.0,3.0,4.0
+EMP101384,Indra Ginting,3.0,112.0,32.0,3.0,3.0,3.0,3.0,3.0
+EMP101385,Dian Yudhistira Lestari,3.0,,,3.0,3.0,3.0,2.0,3.0
+EMP101386,Rama Maulida,,122.0,12.0,2.0,2.0,2.0,2.0,2.0
+EMP101387,Zahra Wibowo,3.0,112.0,24.0,3.0,2.0,2.0,2.0,3.0
+EMP101388,Ayunda Tri Hidayat,3.0,116.0,20.0,3.0,2.0,3.0,3.0,3.0
+EMP101389,Rizka Erlangga Siregar,2.0,91.0,30.0,1.0,2.0,1.0,0.0,2.0
+EMP101390,Wahyu Pramudita Gunawan,3.0,138.0,26.0,3.0,2.0,3.0,4.0,
+EMP101391,Dewi Fauziah,3.0,,,3.0,3.0,3.0,3.0,2.0
+EMP101392,Yoga Siregar,2.0,121.0,25.0,2.0,2.0,2.0,1.0,2.0
+EMP101393,Evi Jatmiko Halim,4.0,91.0,21.0,4.0,4.0,4.0,4.0,
+EMP101394,Ari Utami,3.0,,,3.0,3.0,4.0,2.0,3.0
+EMP101395,Nabila Saputra Setiawan,4.0,,,3.0,4.0,3.0,5.0,3.0
+EMP101396,Gita Ginting,5.0,105.0,22.0,4.0,5.0,4.0,5.0,5.0
+EMP101397,Gita Wijaya Setiawan,3.0,103.0,13.0,2.0,3.0,2.0,3.0,3.0
+EMP101398,Umar Kusuma,4.0,100.0,33.0,3.0,5.0,5.0,4.0,4.0
+EMP101399,Utami Rohman,3.0,117.0,28.0,3.0,4.0,,3.0,2.0
+EMP101400,Rendra Rachman Wijaya,4.0,106.0,34.0,4.0,3.0,4.0,,3.0
+EMP101401,Evi Situmorang,2.0,138.0,27.0,2.0,1.0,3.0,,1.0
+EMP101402,Wulan Dharma Nugroho,3.0,129.0,37.0,,3.0,2.0,2.0,4.0
+EMP101403,Oktavia Jatmiko Utami,4.0,122.0,31.0,3.0,4.0,4.0,3.0,4.0
+EMP101404,Rizky Salsabila,,104.0,31.0,4.0,4.0,3.0,3.0,3.0
+EMP101405,Putri Purnama,0.0,124.0,18.0,2.0,2.0,1.0,2.0,2.0
+EMP101406,Ahmad Zulfikar Rohman,3.0,117.0,25.0,2.0,4.0,3.0,2.0,3.0
+EMP101407,Zahra Jatmiko Hartanto,3.0,136.0,18.0,3.0,3.0,2.0,3.0,3.0
+EMP101408,Vania Aji Ginting,3.0,102.0,18.0,,3.0,4.0,3.0,2.0
+EMP101409,Rendra Utama Handayani,3.0,103.0,26.0,4.0,4.0,4.0,3.0,2.0
+EMP101410,Andi Ganesha Handayani,3.0,91.0,33.0,3.0,3.0,3.0,3.0,3.0
+EMP101411,Dwi Firmansyah,3.0,,30.0,3.0,3.0,3.0,3.0,3.0
+EMP101412,Mahendra Kurniawan,3.0,,19.0,3.0,3.0,3.0,3.0,3.0
+EMP101413,Nugroho Fadillah Rahmawati,4.0,104.0,29.0,3.0,4.0,4.0,4.0,3.0
+EMP101414,Rafa Lestari,3.0,127.0,19.0,4.0,3.0,2.0,3.0,3.0
+EMP101415,Hadi Adi Anggara,4.0,96.0,21.0,4.0,4.0,,4.0,3.0
+EMP101416,Prasetyo Tri Halim,2.0,,,2.0,1.0,2.0,3.0,2.0
+EMP101417,Arif Halim,2.0,127.0,29.0,2.0,1.0,,2.0,
+EMP101418,Kartika Kurniawan,2.0,105.0,36.0,2.0,3.0,1.0,1.0,2.0
+EMP101419,Bella Siregar,3.0,87.0,36.0,4.0,4.0,3.0,4.0,3.0
+EMP101420,Cahyo Rachman Indrawan,4.0,95.0,30.0,3.0,3.0,3.0,4.0,3.0
+EMP101421,Galih Santoso,4.0,119.0,22.0,2.0,3.0,,1.0,2.0
+EMP101422,Hana Pratomo,2.0,120.0,27.0,2.0,,3.0,1.0,2.0
+EMP101423,Galih Gunawan,3.0,111.0,33.0,,2.0,3.0,3.0,3.0
+EMP101424,Yoga Aji Hidayat,3.0,,32.0,3.0,2.0,4.0,3.0,4.0
+EMP101425,Wahyu Aji Situmorang,2.0,,,2.0,3.0,3.0,2.0,2.0
+EMP101426,Utami Yulianto,3.0,107.0,32.0,3.0,2.0,3.0,4.0,3.0
+EMP101427,Arif Pratama,4.0,,,3.0,,,4.0,
+EMP101428,Umar Wibowo,5.0,,30.0,5.0,5.0,4.0,5.0,99.0
+EMP101429,Yoga Erlangga Hidayat,3.0,80.0,33.0,4.0,3.0,3.0,3.0,3.0
+EMP101430,Iman Fauziah,2.0,139.0,29.0,2.0,3.0,2.0,,2.0
+EMP101431,Valdo Rahmawati,4.0,,,,4.0,3.0,4.0,4.0
+EMP101432,Lestari Hasibuan,3.0,,,4.0,3.0,3.0,3.0,3.0
+EMP101433,Anisa Zulfikar Rohman,4.0,124.0,29.0,2.0,1.0,2.0,1.0,3.0
+EMP101434,Vania Rachman Gunawan,3.0,,,,3.0,,3.0,2.0
+EMP101435,Bayu Anggara,2.0,,,2.0,2.0,2.0,3.0,3.0
+EMP101436,Nabila Hartanto,4.0,80.0,25.0,4.0,3.0,5.0,,5.0
+EMP101437,Kurnia Zulfikar Indrawan,4.0,125.0,35.0,4.0,4.0,5.0,3.0,5.0
+EMP101438,Kurnia Fauziah,2.0,140.0,27.0,3.0,1.0,1.0,2.0,2.0
+EMP101439,Oka Anugrah Hidayat,5.0,123.0,25.0,4.0,2.0,3.0,,3.0
+EMP101440,Ari Lestari Fauziah,4.0,119.0,24.0,4.0,5.0,4.0,3.0,4.0
+EMP101441,Mahendra Pradana,3.0,134.0,26.0,2.0,3.0,2.0,3.0,4.0
+EMP101442,Valdo Saputra Fauziah,3.0,94.0,17.0,4.0,3.0,3.0,3.0,3.0
+EMP101443,Teguh Iqbal Siregar,4.0,92.0,20.0,4.0,4.0,4.0,,99.0
+EMP101444,Rizky Siregar,3.0,86.0,19.0,,3.0,4.0,2.0,3.0
+EMP101445,Ayunda Qolbi Hartanto,3.0,108.0,25.0,2.0,2.0,2.0,3.0,3.0
+EMP101446,Fitri Adi Pratomo,5.0,94.0,18.0,4.0,4.0,5.0,5.0,5.0
+EMP101447,Rendra Pramudita Situmorang,3.0,94.0,31.0,3.0,3.0,3.0,2.0,3.0
+EMP101448,Dewi Herlambang,4.0,,,5.0,5.0,4.0,4.0,
+EMP101449,Bella Hidayat,1.0,117.0,23.0,1.0,1.0,1.0,1.0,1.0
+EMP101450,Fajar Iqbal Permadi,4.0,98.0,29.0,4.0,3.0,4.0,4.0,5.0
+EMP101451,Bayu Kusuma,5.0,125.0,25.0,4.0,5.0,5.0,5.0,5.0
+EMP101452,Dimas Wibowo,2.0,128.0,20.0,3.0,2.0,2.0,2.0,2.0
+EMP101453,Adi Saputra Pratomo,4.0,106.0,27.0,3.0,3.0,5.0,4.0,4.0
+EMP101454,Utami Adi Siregar,3.0,,40.0,3.0,4.0,3.0,4.0,3.0
+EMP101455,Galih Mahardika Wibowo,4.0,83.0,26.0,4.0,3.0,4.0,5.0,4.0
+EMP101456,Nurlita Rachman Ramadhan,4.0,123.0,34.0,5.0,5.0,3.0,4.0,5.0
+EMP101457,Arif Simanjuntak,2.0,125.0,15.0,,2.0,3.0,2.0,1.0
+EMP101458,Oktavia Kusuma Pratama,4.0,104.0,33.0,5.0,4.0,4.0,4.0,5.0
+EMP101459,Hadi Qolbi Ananda,4.0,98.0,30.0,3.0,2.0,1.0,3.0,
+EMP101460,Zahra Fadillah Saputra,5.0,90.0,31.0,5.0,,5.0,5.0,5.0
+EMP101461,Dimas Halim Wijaya,3.0,80.0,33.0,3.0,3.0,3.0,3.0,3.0
+EMP101462,Dwi Pratomo,3.0,137.0,31.0,4.0,3.0,4.0,3.0,2.0
+EMP101463,Budi Mahendra,4.0,88.0,27.0,4.0,4.0,4.0,4.0,4.0
+EMP101464,Arif Utami,1.0,129.0,29.0,1.0,1.0,1.0,1.0,1.0
+EMP101465,Oka Lestari Simanjuntak,3.0,94.0,22.0,3.0,,2.0,3.0,3.0
+EMP101466,Kartika Ramadhan,2.0,,,2.0,2.0,2.0,,1.0
+EMP101467,Bella Aji Siregar,4.0,89.0,23.0,3.0,4.0,5.0,4.0,4.0
+EMP101468,Yuni Nugroho,3.0,140.0,25.0,3.0,2.0,4.0,2.0,
+EMP101469,Rizka Wijaya Kurniawan,4.0,136.0,27.0,,5.0,4.0,3.0,4.0
+EMP101470,Citra Simanjuntak,4.0,82.0,35.0,5.0,4.0,4.0,5.0,5.0
+EMP101471,Rani Hidayat,4.0,,,3.0,3.0,4.0,5.0,4.0
+EMP101472,Mahendra Baskara Purnama,3.0,93.0,24.0,2.0,4.0,2.0,2.0,3.0
+EMP101473,Kurnia Lukman,4.0,106.0,13.0,3.0,4.0,4.0,4.0,5.0
+EMP101474,Hadi Ramadhan,3.0,127.0,28.0,3.0,3.0,3.0,4.0,2.0
+EMP101475,Rifqi Permadi,2.0,127.0,24.0,2.0,1.0,,2.0,1.0
+EMP101476,Mahendra Wijaya Pamungkas,3.0,137.0,32.0,2.0,2.0,3.0,2.0,
+EMP101477,Putri Indrawan,4.0,86.0,24.0,4.0,4.0,4.0,5.0,4.0
+EMP101478,Ayunda Wibowo,1.0,88.0,24.0,1.0,2.0,1.0,1.0,1.0
+EMP101479,Oka Wibowo,,84.0,32.0,5.0,5.0,5.0,5.0,5.0
+EMP101480,Rizki Yudhistira Hartanto,4.0,105.0,22.0,5.0,4.0,4.0,4.0,4.0
+EMP101481,Bella Situmorang,3.0,105.0,35.0,3.0,3.0,2.0,2.0,4.0
+EMP101482,Dimas Suharto,3.0,116.0,20.0,3.0,2.0,2.0,3.0,3.0
+EMP101483,Ayunda Iqbal Fauziah,4.0,133.0,27.0,5.0,4.0,4.0,3.0,3.0
+EMP101484,Oka Qolbi Mahendra,5.0,,,4.0,5.0,5.0,5.0,5.0
+EMP101485,Maya Salsabila,1.0,85.0,20.0,1.0,1.0,1.0,1.0,2.0
+EMP101486,Yoga Utama Utami,1.0,103.0,28.0,1.0,1.0,2.0,1.0,2.0
+EMP101487,Rizka Siregar,4.0,85.0,26.0,5.0,3.0,4.0,3.0,5.0
+EMP101488,Yuni Tri Maulida,2.0,,,1.0,2.0,2.0,2.0,3.0
+EMP101489,Anisa Adi Anggara,4.0,,,4.0,4.0,,3.0,99.0
+EMP101490,Rizki Nabila Utami,2.0,,,2.0,1.0,2.0,3.0,
+EMP101491,Umar Yudhistira Maulida,,110.0,27.0,2.0,1.0,1.0,1.0,1.0
+EMP101492,Bella Salsabila,3.0,,29.0,3.0,2.0,3.0,,2.0
+EMP101493,Rani Utama Nugroho,4.0,90.0,26.0,4.0,4.0,5.0,99.0,4.0
+EMP101494,Rafa Halim Maulida,,88.0,34.0,3.0,,3.0,3.0,
+EMP101495,Gita Yudhistira Maulida,5.0,98.0,22.0,4.0,0.0,4.0,5.0,
+EMP101496,Tania Zulfikar Kurniawan,3.0,85.0,21.0,3.0,3.0,3.0,2.0,4.0
+EMP101497,Bayu Santoso,3.0,117.0,25.0,3.0,3.0,3.0,2.0,3.0
+EMP101498,Luthfi Santoso,3.0,,,3.0,3.0,2.0,2.0,2.0
+EMP101499,Hadi Sinaga,2.0,,,1.0,2.0,2.0,2.0,2.0
+EMP101500,Joko Ganesha Pratomo,2.0,138.0,17.0,2.0,3.0,1.0,2.0,3.0
+EMP101501,Dinda Utama Salsabila,3.0,139.0,20.0,4.0,3.0,3.0,3.0,3.0
+EMP101502,Ayunda Gunawan,3.0,138.0,18.0,2.0,2.0,4.0,2.0,4.0
+EMP101503,Citra Indrawan,2.0,138.0,36.0,1.0,3.0,3.0,2.0,
+EMP101504,Putri Lukman,3.0,96.0,30.0,4.0,,3.0,3.0,4.0
+EMP101505,Vania Jatmiko Kusuma,4.0,,,4.0,4.0,4.0,,4.0
+EMP101506,Putri Dharma Rahmawati,1.0,100.0,27.0,1.0,1.0,1.0,1.0,1.0
+EMP101507,Hadi Herlambang,4.0,,,4.0,4.0,3.0,4.0,4.0
+EMP101508,Iman Zulfikar,5.0,132.0,23.0,5.0,5.0,5.0,5.0,5.0
+EMP101509,Satya Tri Kusuma,,134.0,26.0,3.0,2.0,2.0,2.0,2.0
+EMP101510,Fitri Rachman Gunawan,,128.0,17.0,4.0,3.0,,5.0,4.0
+EMP101511,Indra Rachman Siregar,2.0,,,1.0,2.0,,3.0,2.0
+EMP101512,Vania Permadi,4.0,136.0,27.0,4.0,3.0,4.0,4.0,4.0
+EMP101513,Ayu Gunawan,3.0,,,4.0,4.0,4.0,4.0,2.0
+EMP101514,Julia Pramudita Situmorang,3.0,94.0,27.0,3.0,,3.0,3.0,3.0
+EMP101515,Intan Indrawan,2.0,122.0,37.0,2.0,2.0,2.0,1.0,
+EMP101516,Galih Pradana,2.0,85.0,30.0,2.0,3.0,2.0,,3.0
+EMP101517,Galih Saputra Nugroho,3.0,,,3.0,3.0,3.0,4.0,2.0
+EMP101518,Ayunda Mahendra,1.0,125.0,34.0,1.0,,1.0,1.0,1.0
+EMP101519,Rendra Baskara Pamungkas,3.0,120.0,29.0,3.0,3.0,3.0,3.0,3.0
+EMP101520,Dimas Tamba,4.0,100.0,24.0,4.0,5.0,5.0,5.0,3.0
+EMP101521,Utami Utami,3.0,104.0,36.0,3.0,3.0,2.0,3.0,3.0
+EMP101522,Lestari Permadi,3.0,139.0,19.0,2.0,2.0,4.0,4.0,3.0
+EMP101523,Maya Halim,3.0,123.0,26.0,3.0,2.0,3.0,2.0,
+EMP101524,Putri Jatmiko Salsabila,,,,4.0,3.0,3.0,4.0,5.0
+EMP101525,Rani Aji Indrawan,5.0,99.0,39.0,5.0,,4.0,5.0,4.0
+EMP101526,Ayu Maulida,3.0,,,3.0,3.0,3.0,2.0,
+EMP101527,Eko Nugroho,3.0,99.0,24.0,2.0,4.0,2.0,3.0,4.0
+EMP101528,Wahyu Nabila Anggara,4.0,129.0,24.0,2.0,3.0,2.0,3.0,2.0
+EMP101529,Dian Qolbi Santoso,1.0,84.0,29.0,1.0,1.0,2.0,1.0,2.0
+EMP101530,Bella Ananda,3.0,86.0,22.0,2.0,3.0,2.0,3.0,4.0
+EMP101531,Cahyo Firmansyah,3.0,93.0,29.0,2.0,4.0,2.0,2.0,2.0
+EMP101532,Nurlita Lestari,1.0,134.0,23.0,,1.0,1.0,1.0,1.0
+EMP101533,Fajar Hasibuan,4.0,135.0,23.0,4.0,4.0,4.0,4.0,
+EMP101534,Nadia Kusuma Zulfikar,4.0,114.0,21.0,4.0,3.0,,4.0,3.0
+EMP101535,Dimas Halim,4.0,130.0,32.0,4.0,4.0,3.0,4.0,4.0
+EMP101536,Indra Syahputra,5.0,100.0,23.0,5.0,5.0,,4.0,5.0
+EMP101537,Kartika Candra Firmansyah,4.0,,,4.0,4.0,5.0,4.0,4.0
+EMP101538,Satya Sinaga,4.0,99.0,28.0,5.0,3.0,4.0,4.0,4.0
+EMP101539,Intan Wijaya Ridwan,2.0,85.0,16.0,3.0,2.0,2.0,2.0,1.0
+EMP101540,Oktavia Herlambang,3.0,85.0,19.0,3.0,,,,2.0
+EMP101541,Ayunda Adi Kurniawan,2.0,89.0,24.0,2.0,2.0,3.0,1.0,2.0
+EMP101542,Rama Firmansyah,4.0,114.0,30.0,5.0,4.0,5.0,3.0,4.0
+EMP101543,Iman Rahmawati,3.0,82.0,17.0,,3.0,4.0,3.0,3.0
+EMP101544,Dewi Wibowo,3.0,123.0,37.0,2.0,3.0,3.0,3.0,
+EMP101545,Fajar Santoso,3.0,130.0,25.0,2.0,3.0,2.0,3.0,4.0
+EMP101546,Zahra Candra Salsabila,3.0,88.0,21.0,2.0,3.0,3.0,,3.0
+EMP101547,Iman Maulana,5.0,136.0,29.0,5.0,5.0,5.0,5.0,5.0
+EMP101548,Fitri Saputra Tamba,,103.0,41.0,3.0,5.0,3.0,3.0,4.0
+EMP101549,Cahyo Zulfikar Utami,3.0,88.0,31.0,3.0,3.0,3.0,3.0,3.0
+EMP101550,Ayunda Firmansyah,5.0,,31.0,5.0,5.0,5.0,5.0,5.0
+EMP101551,Hana Saputra Pamungkas,5.0,86.0,34.0,5.0,5.0,5.0,5.0,5.0
+EMP101552,Evi Dharma Pamungkas,4.0,129.0,30.0,3.0,4.0,3.0,3.0,
+EMP101553,Oktavia Rohman,2.0,,,1.0,1.0,2.0,2.0,2.0
+EMP101554,Adit Jatmiko Setiawan,3.0,97.0,28.0,2.0,4.0,3.0,3.0,3.0
+EMP101555,Bayu Nabila Lestari,3.0,116.0,37.0,3.0,3.0,2.0,2.0,3.0
+EMP101556,Satya Pramudita Rahmawati,2.0,100.0,33.0,2.0,3.0,2.0,3.0,
+EMP101557,Rendra Zulfikar Wijaya,1.0,93.0,33.0,2.0,2.0,1.0,1.0,2.0
+EMP101558,Novi Halim Ramadhan,,113.0,29.0,2.0,2.0,3.0,3.0,1.0
+EMP101559,Hana Lestari Wijaya,5.0,86.0,33.0,4.0,4.0,4.0,4.0,5.0
+EMP101560,Gita Maulida,3.0,86.0,22.0,3.0,,2.0,2.0,3.0
+EMP101561,Mahendra Qolbi Pamungkas,,138.0,34.0,3.0,3.0,3.0,3.0,3.0
+EMP101562,Cahyo Lukman,2.0,137.0,27.0,2.0,,2.0,2.0,1.0
+EMP101563,Nugroho Yudhistira Nugroho,,,,1.0,1.0,3.0,3.0,2.0
+EMP101564,Prasetyo Pramudita Purnama,3.0,,29.0,3.0,3.0,3.0,3.0,3.0
+EMP101565,Oka Subekti,3.0,,,2.0,3.0,4.0,4.0,2.0
+EMP101566,Iman Purnama,4.0,139.0,21.0,3.0,4.0,5.0,4.0,3.0
+EMP101567,Putri Santoso,2.0,136.0,25.0,2.0,2.0,,2.0,2.0
+EMP101568,Anisa Setiawan,4.0,108.0,35.0,3.0,3.0,,4.0,
+EMP101569,Cahyo Pramudita Nugroho,3.0,117.0,27.0,3.0,2.0,3.0,3.0,2.0
+EMP101570,Putri Zulfikar Lukman,5.0,98.0,30.0,4.0,5.0,5.0,5.0,5.0
+EMP101571,Nurlita Pratomo,,112.0,36.0,4.0,,4.0,4.0,3.0
+EMP101572,Kartika Mahardika Sinaga,2.0,94.0,27.0,2.0,2.0,3.0,3.0,2.0
+EMP101573,Citra Aji Sinaga,5.0,138.0,17.0,,5.0,,5.0,4.0
+EMP101574,Nurlita Zulfikar Zulfikar,4.0,138.0,37.0,4.0,6.0,4.0,5.0,4.0
+EMP101575,Tania Halim Halim,2.0,,,,2.0,2.0,3.0,3.0
+EMP101576,Putri Rachman Ginting,4.0,139.0,28.0,4.0,4.0,5.0,5.0,4.0
+EMP101577,Rifqi Ganesha Kusuma,4.0,,,4.0,4.0,3.0,5.0,5.0
+EMP101578,Adit Rahmawati,5.0,139.0,35.0,4.0,5.0,5.0,5.0,5.0
+EMP101579,Evi Lukman,,,,4.0,4.0,4.0,,4.0
+EMP101580,Wulan Iqbal Firmansyah,2.0,,,2.0,2.0,2.0,2.0,2.0
+EMP101581,Fitri Handayani,3.0,84.0,29.0,3.0,3.0,3.0,2.0,3.0
+EMP101582,Kartika Nabila Wibowo,,116.0,23.0,4.0,,4.0,4.0,3.0
+EMP101583,Rani Salsabila,4.0,125.0,39.0,,4.0,3.0,4.0,5.0
+EMP101584,Dimas Saputra,,81.0,29.0,5.0,5.0,5.0,5.0,5.0
+EMP101585,Yoga Hasibuan,2.0,98.0,22.0,,1.0,1.0,3.0,2.0
+EMP101586,Kurnia Yulianto,4.0,128.0,20.0,4.0,4.0,4.0,,4.0
+EMP101587,Rizki Dharma Lukman,5.0,138.0,25.0,5.0,5.0,4.0,4.0,4.0
+EMP101588,Joko Jatmiko Handayani,3.0,128.0,26.0,3.0,2.0,3.0,3.0,3.0
+EMP101589,Joko Adi Utami,4.0,121.0,29.0,4.0,4.0,3.0,4.0,4.0
+EMP101590,Citra Nugroho,5.0,105.0,38.0,5.0,5.0,5.0,,
+EMP101591,Andi Situmorang,5.0,117.0,32.0,5.0,5.0,5.0,5.0,4.0
+EMP101592,Luthfi Syahputra,,,,2.0,2.0,4.0,2.0,3.0
+EMP101593,Citra Subekti,2.0,,26.0,2.0,2.0,2.0,2.0,2.0
+EMP101594,Nugroho Rachman Pratomo,4.0,,,5.0,4.0,4.0,5.0,3.0
+EMP101595,Yoga Erlangga Pratomo,4.0,89.0,27.0,4.0,,3.0,,4.0
+EMP101596,Dimas Dharma Subekti,4.0,112.0,24.0,4.0,3.0,4.0,3.0,4.0
+EMP101597,Wahyu Hartanto,3.0,137.0,38.0,3.0,2.0,3.0,3.0,4.0
+EMP101598,Citra Halim,,,,4.0,4.0,4.0,3.0,
+EMP101599,Fitri Aji Permadi,5.0,120.0,24.0,5.0,5.0,5.0,5.0,0.0
+EMP101600,Ari Qolbi Simanjuntak,4.0,106.0,20.0,5.0,4.0,3.0,4.0,3.0
+EMP101601,Ayunda Pratama,4.0,86.0,33.0,4.0,4.0,4.0,4.0,3.0
+EMP101602,Zaki Erlangga Hartanto,,83.0,38.0,2.0,2.0,2.0,1.0,2.0
+EMP101603,Andi Jatmiko Hidayat,5.0,88.0,22.0,5.0,4.0,5.0,5.0,5.0
+EMP101604,Anisa Anugrah Santoso,4.0,117.0,37.0,3.0,3.0,4.0,4.0,4.0
+EMP101605,Ahmad Nabila Wijaya,5.0,117.0,28.0,4.0,3.0,2.0,3.0,2.0
+EMP101606,Nugroho Siregar,2.0,127.0,22.0,2.0,1.0,3.0,2.0,2.0
+EMP101607,Rama Indrawan,3.0,122.0,25.0,3.0,3.0,2.0,3.0,2.0
+EMP101608,Budi Iqbal Pamungkas,3.0,117.0,37.0,2.0,3.0,3.0,2.0,3.0
+EMP101609,Zahra Erlangga Siregar,4.0,85.0,19.0,3.0,2.0,2.0,1.0,2.0
+EMP101610,Kartika Hasibuan,3.0,94.0,28.0,,3.0,4.0,3.0,3.0
+EMP101611,Arif Setiawan,,122.0,25.0,4.0,5.0,5.0,5.0,4.0
+EMP101612,Tania Situmorang,2.0,126.0,27.0,1.0,,3.0,,1.0
+EMP101613,Mahendra Saputra,5.0,116.0,26.0,2.0,4.0,4.0,3.0,2.0
+EMP101614,Rendra Rohman,3.0,,,3.0,2.0,2.0,2.0,4.0
+EMP101615,Gita Pamungkas,3.0,,39.0,3.0,4.0,3.0,3.0,3.0
+EMP101616,Zaki Lestari,2.0,101.0,25.0,2.0,2.0,2.0,2.0,2.0
+EMP101617,Satya Dharma Sinaga,3.0,,,2.0,4.0,3.0,3.0,2.0
+EMP101618,Julia Wijaya Santoso,4.0,131.0,27.0,4.0,3.0,4.0,5.0,5.0
+EMP101619,Fitri Jatmiko Siregar,4.0,84.0,34.0,4.0,4.0,5.0,4.0,
+EMP101620,Galih Salsabila,4.0,106.0,30.0,4.0,5.0,5.0,4.0,3.0
+EMP101621,Citra Lukman,4.0,92.0,24.0,4.0,3.0,3.0,4.0,3.0
+EMP101622,Joko Lestari Nugroho,3.0,83.0,29.0,3.0,,3.0,3.0,2.0
+EMP101623,Mahendra Baskara Handayani,3.0,99.0,26.0,3.0,3.0,3.0,3.0,3.0
+EMP101624,Yoga Fauziah,4.0,124.0,31.0,5.0,4.0,3.0,4.0,4.0
+EMP101625,Rama Siregar,3.0,139.0,35.0,3.0,4.0,3.0,3.0,3.0
+EMP101626,Ahmad Purnama,2.0,118.0,27.0,2.0,2.0,1.0,2.0,3.0
+EMP101627,Zahra Ramadhan,4.0,,27.0,3.0,4.0,3.0,4.0,4.0
+EMP101628,Arif Lestari Hartanto,4.0,82.0,28.0,4.0,4.0,5.0,4.0,4.0
+EMP101629,Wulan Indrawan,2.0,85.0,23.0,,2.0,3.0,3.0,2.0
+EMP101630,Rendra Firmansyah,4.0,86.0,22.0,3.0,4.0,4.0,3.0,4.0
+EMP101631,Ari Halim Suharto,,123.0,27.0,2.0,4.0,4.0,3.0,2.0
+EMP101632,Putri Ginting,5.0,113.0,22.0,,5.0,4.0,5.0,5.0
+EMP101633,Intan Saputra Rohman,4.0,95.0,33.0,4.0,4.0,4.0,5.0,4.0
+EMP101634,Maya Hartanto,3.0,,,3.0,4.0,4.0,4.0,
+EMP101635,Rama Erlangga Ginting,3.0,80.0,25.0,3.0,2.0,2.0,3.0,3.0
+EMP101636,Rizka Aji Putra,1.0,81.0,19.0,2.0,1.0,1.0,,1.0
+EMP101637,Joko Maulana,3.0,,,,3.0,3.0,3.0,3.0
+EMP101638,Prasetyo Rachman Halim,1.0,82.0,21.0,1.0,1.0,1.0,1.0,1.0
+EMP101639,Rani Dharma Sinaga,,119.0,21.0,3.0,3.0,3.0,0.0,3.0
+EMP101640,Rendra Zulfikar,3.0,126.0,29.0,,2.0,3.0,,3.0
+EMP101641,Wahyu Herlambang,3.0,,,3.0,3.0,2.0,4.0,3.0
+EMP101642,Rani Iqbal Tamba,4.0,86.0,32.0,5.0,4.0,,4.0,3.0
+EMP101643,Nurlita Santoso,4.0,,,4.0,5.0,5.0,5.0,4.0
+EMP101644,Hadi Purnama,3.0,107.0,25.0,3.0,3.0,3.0,2.0,4.0
+EMP101645,Bella Tri Wibowo,4.0,90.0,13.0,5.0,4.0,4.0,3.0,4.0
+EMP101646,Rizki Utama Permadi,2.0,91.0,24.0,3.0,3.0,1.0,3.0,3.0
+EMP101647,Nugroho Erlangga Wijaya,3.0,120.0,26.0,,3.0,,3.0,
+EMP101648,Wulan Nabila Pratama,4.0,117.0,14.0,4.0,5.0,3.0,4.0,4.0
+EMP101649,Eko Ginting,1.0,,,1.0,1.0,1.0,1.0,1.0
+EMP101650,Adit Wibowo,4.0,,,4.0,4.0,,4.0,4.0
+EMP101651,Hana Siregar,4.0,,,3.0,4.0,5.0,,4.0
+EMP101652,Ayu Fauziah,3.0,114.0,19.0,3.0,2.0,3.0,4.0,3.0
+EMP101653,Kurnia Lestari Mahendra,2.0,,,,2.0,2.0,1.0,1.0
+EMP101654,Bayu Pramudita Nugroho,,,40.0,3.0,3.0,4.0,3.0,3.0
+EMP101655,Dimas Zulfikar,,,32.0,4.0,4.0,5.0,5.0,5.0
+EMP101656,Vania Erlangga Ridwan,4.0,106.0,24.0,4.0,4.0,5.0,4.0,5.0
+EMP101657,Teguh Syahputra,2.0,124.0,20.0,2.0,2.0,2.0,2.0,3.0
+EMP101658,Yoga Halim Wijaya,1.0,,,1.0,1.0,1.0,1.0,1.0
+EMP101659,Iman Putra,3.0,82.0,17.0,3.0,3.0,3.0,3.0,3.0
+EMP101660,Rizka Yulianto,2.0,129.0,27.0,2.0,1.0,3.0,2.0,2.0
+EMP101661,Adit Yulianto,4.0,80.0,26.0,,4.0,5.0,,4.0
+EMP101662,Oktavia Rachman Wibowo,2.0,124.0,19.0,1.0,3.0,2.0,2.0,3.0
+EMP101663,Ahmad Lukman,3.0,,,2.0,3.0,2.0,3.0,3.0
+EMP101664,Oka Dharma Pamungkas,3.0,91.0,32.0,2.0,2.0,3.0,2.0,3.0
+EMP101665,Satya Salsabila,4.0,96.0,23.0,4.0,4.0,4.0,4.0,4.0
+EMP101666,Zahra Ganesha Hidayat,2.0,128.0,25.0,2.0,2.0,,2.0,1.0
+EMP101667,Dinda Qolbi Siregar,2.0,,,2.0,1.0,2.0,2.0,3.0
+EMP101668,Hana Situmorang,2.0,117.0,24.0,2.0,2.0,3.0,2.0,1.0
+EMP101669,Dimas Rahmawati,3.0,130.0,24.0,3.0,4.0,3.0,2.0,3.0
+EMP101670,Mahendra Erlangga Lukman,3.0,92.0,19.0,2.0,,4.0,3.0,4.0
+EMP101671,Fitri Ramadhan,2.0,126.0,17.0,2.0,2.0,2.0,2.0,2.0
+EMP101672,Iman Hasibuan,3.0,90.0,37.0,3.0,2.0,3.0,2.0,3.0
+EMP101673,Bayu Salsabila,1.0,118.0,21.0,1.0,2.0,2.0,,1.0
+EMP101674,Ahmad Lestari,3.0,,,3.0,3.0,3.0,3.0,4.0
+EMP101675,Mahendra Indrawan,5.0,,27.0,5.0,5.0,5.0,5.0,4.0
+EMP101676,Andi Pamungkas,4.0,125.0,23.0,3.0,4.0,4.0,4.0,5.0
+EMP101677,Sari Baskara Lestari,3.0,,,2.0,3.0,4.0,2.0,2.0
+EMP101678,Arif Indrawan,3.0,125.0,30.0,2.0,4.0,3.0,,3.0
+EMP101679,Dinda Rohman,3.0,,,3.0,2.0,3.0,2.0,4.0
+EMP101680,Zaki Santoso,3.0,,,3.0,4.0,3.0,4.0,4.0
+EMP101681,Oktavia Fadillah Firmansyah,4.0,115.0,24.0,4.0,4.0,99.0,3.0,4.0
+EMP101682,Ayu Adi Putra,3.0,98.0,29.0,,4.0,4.0,3.0,3.0
+EMP101683,Ahmad Firmansyah,4.0,82.0,22.0,4.0,4.0,3.0,99.0,3.0
+EMP101684,Bella Utama Ramadhan,5.0,90.0,27.0,5.0,4.0,5.0,,5.0
+EMP101685,Zahra Saputra,3.0,,,2.0,3.0,3.0,4.0,3.0
+EMP101686,Prasetyo Suharto,5.0,132.0,38.0,5.0,5.0,5.0,5.0,5.0
+EMP101687,Rizka Wijaya Gunawan,3.0,,,,2.0,4.0,2.0,
+EMP101688,Intan Santoso,1.0,121.0,19.0,2.0,1.0,2.0,1.0,1.0
+EMP101689,Rendra Yudhistira Suharto,3.0,93.0,27.0,3.0,2.0,4.0,3.0,3.0
+EMP101690,Utami Gunawan,3.0,95.0,24.0,2.0,4.0,3.0,3.0,4.0
+EMP101691,Nabila Siregar,3.0,,,1.0,1.0,1.0,1.0,1.0
+EMP101692,Cahyo Aji Sinaga,3.0,92.0,32.0,3.0,4.0,,3.0,3.0
+EMP101693,Hadi Kurniawan,4.0,140.0,33.0,3.0,4.0,4.0,5.0,5.0
+EMP101694,Intan Kusuma Wijaya,3.0,104.0,25.0,4.0,3.0,4.0,3.0,2.0
+EMP101695,Rama Nabila Ridwan,1.0,95.0,25.0,1.0,1.0,1.0,1.0,
+EMP101696,Budi Lestari,3.0,110.0,22.0,1.0,,1.0,1.0,1.0
+EMP101697,Nadia Pamungkas,2.0,97.0,38.0,3.0,1.0,2.0,3.0,2.0
+EMP101698,Adit Yudhistira Pratama,1.0,,28.0,1.0,,2.0,1.0,2.0
+EMP101699,Zaki Baskara Rahmawati,4.0,80.0,27.0,4.0,4.0,4.0,4.0,4.0
+EMP101700,Nabila Indrawan,5.0,,41.0,5.0,5.0,5.0,5.0,5.0
+EMP101701,Mahendra Saputra Herlambang,,125.0,27.0,2.0,2.0,2.0,1.0,3.0
+EMP101702,Fitri Mahardika Gunawan,3.0,108.0,34.0,,3.0,3.0,3.0,3.0
+EMP101703,Ayunda Hasibuan,3.0,112.0,22.0,3.0,3.0,3.0,3.0,3.0
+EMP101704,Novi Ramadhan,,103.0,27.0,3.0,4.0,3.0,3.0,3.0
+EMP101705,Lestari Purnama,3.0,83.0,13.0,3.0,3.0,2.0,,3.0
+EMP101706,Lestari Utama Santoso,4.0,,,5.0,5.0,4.0,4.0,4.0
+EMP101707,Hana Maulida,2.0,136.0,32.0,2.0,2.0,3.0,1.0,1.0
+EMP101708,Rani Anugrah Maulana,4.0,106.0,32.0,3.0,,3.0,4.0,4.0
+EMP101709,Dinda Ginting,2.0,140.0,33.0,1.0,2.0,2.0,3.0,
+EMP101710,Arif Anggara,4.0,99.0,25.0,5.0,3.0,4.0,,3.0
+EMP101711,Lestari Saputra Gunawan,,104.0,30.0,1.0,1.0,1.0,1.0,1.0
+EMP101712,Luthfi Nugroho,5.0,138.0,25.0,5.0,5.0,5.0,5.0,5.0
+EMP101713,Nabila Yudhistira Kusuma,4.0,94.0,30.0,4.0,5.0,5.0,4.0,4.0
+EMP101714,Bella Setiawan,4.0,120.0,23.0,4.0,4.0,4.0,4.0,3.0
+EMP101715,Ayunda Rahmawati,4.0,,,5.0,4.0,4.0,4.0,4.0
+EMP101716,Kartika Handayani,4.0,137.0,17.0,4.0,5.0,3.0,4.0,4.0
+EMP101717,Fitri Zulfikar,2.0,139.0,32.0,2.0,,1.0,2.0,3.0
+EMP101718,Intan Kurniawan,5.0,91.0,25.0,4.0,5.0,5.0,5.0,5.0
+EMP101719,Hadi Yudhistira Yulianto,3.0,,32.0,3.0,4.0,3.0,3.0,3.0
+EMP101720,Teguh Dharma Wijaya,4.0,117.0,16.0,4.0,5.0,4.0,5.0,5.0
+EMP101721,Julia Halim Suharto,3.0,113.0,20.0,3.0,3.0,3.0,3.0,4.0
+EMP101722,Dian Indrawan,3.0,92.0,31.0,4.0,4.0,4.0,3.0,3.0
+EMP101723,Satya Rohman,,138.0,27.0,4.0,,5.0,4.0,4.0
+EMP101724,Dwi Tri Subekti,4.0,82.0,12.0,4.0,4.0,4.0,3.0,5.0
+EMP101725,Bayu Ganesha Ananda,2.0,103.0,30.0,2.0,1.0,2.0,2.0,2.0
+EMP101726,Dimas Anggara,4.0,120.0,30.0,5.0,4.0,4.0,4.0,5.0
+EMP101727,Rendra Kusuma Subekti,4.0,,,5.0,4.0,4.0,5.0,4.0
+EMP101728,Hana Ganesha Pradana,,,20.0,3.0,3.0,3.0,3.0,3.0
+EMP101729,Oktavia Wijaya,1.0,116.0,19.0,1.0,1.0,1.0,2.0,1.0
+EMP101730,Indra Salsabila,,115.0,27.0,3.0,3.0,4.0,4.0,3.0
+EMP101731,Fajar Rohman,3.0,123.0,21.0,3.0,,,4.0,2.0
+EMP101732,Oka Siregar,3.0,89.0,20.0,3.0,4.0,3.0,4.0,3.0
+EMP101733,Galih Yudhistira Situmorang,1.0,,,1.0,1.0,1.0,1.0,2.0
+EMP101734,Utami Adi Setiawan,1.0,101.0,25.0,1.0,1.0,1.0,1.0,2.0
+EMP101735,Citra Fadillah Saputra,4.0,,,4.0,3.0,,,
+EMP101736,Novi Lestari Pamungkas,1.0,,29.0,1.0,2.0,1.0,2.0,
+EMP101737,Oktavia Halim Lestari,2.0,88.0,24.0,2.0,2.0,,2.0,2.0
+EMP101738,Anisa Kusuma Hidayat,3.0,,39.0,3.0,3.0,2.0,2.0,3.0
+EMP101739,Wulan Rahmawati,2.0,88.0,34.0,2.0,1.0,2.0,3.0,2.0
+EMP101740,Hadi Setiawan,,128.0,28.0,4.0,4.0,5.0,3.0,4.0
+EMP101741,Satya Indrawan,3.0,,24.0,3.0,3.0,4.0,3.0,4.0
+EMP101742,Arif Ridwan,4.0,132.0,10.0,5.0,4.0,3.0,,4.0
+EMP101743,Iman Setiawan,2.0,93.0,27.0,2.0,3.0,3.0,2.0,2.0
+EMP101744,Putri Saputra Saputra,4.0,115.0,25.0,3.0,4.0,4.0,,4.0
+EMP101745,Utami Pramudita Kurniawan,2.0,118.0,34.0,,2.0,2.0,2.0,2.0
+EMP101746,Rani Tri Kusuma,2.0,118.0,27.0,2.0,3.0,1.0,1.0,2.0
+EMP101747,Bayu Erlangga Permadi,3.0,,33.0,2.0,4.0,3.0,3.0,3.0
+EMP101748,Wulan Rohman,4.0,133.0,34.0,5.0,4.0,4.0,4.0,5.0
+EMP101749,Novi Adi Subekti,1.0,85.0,18.0,1.0,1.0,1.0,1.0,1.0
+EMP101750,Oktavia Ridwan,3.0,,,3.0,,3.0,3.0,3.0
+EMP101751,Ayu Salsabila,3.0,,24.0,4.0,4.0,3.0,3.0,3.0
+EMP101752,Julia Dharma Situmorang,2.0,132.0,34.0,1.0,,1.0,3.0,
+EMP101753,Adi Tamba,3.0,,,3.0,4.0,3.0,4.0,3.0
+EMP101754,Luthfi Mahendra,4.0,114.0,31.0,5.0,3.0,4.0,5.0,3.0
+EMP101755,Rafa Utami,2.0,110.0,26.0,2.0,2.0,1.0,3.0,0.0
+EMP101756,Rendra Hasibuan,,132.0,17.0,2.0,2.0,2.0,1.0,2.0
+EMP101757,Rifqi Mahendra,4.0,89.0,20.0,4.0,5.0,4.0,,4.0
+EMP101758,Indra Kusuma,2.0,106.0,28.0,2.0,1.0,1.0,2.0,
+EMP101759,Gita Mahardika Permadi,4.0,,23.0,5.0,4.0,3.0,,5.0
+EMP101760,Budi Putra,2.0,95.0,25.0,3.0,,3.0,1.0,2.0
+EMP101761,Yoga Hidayat,,111.0,28.0,,3.0,3.0,3.0,3.0
+EMP101762,Fajar Saputra,4.0,129.0,28.0,5.0,5.0,,3.0,3.0
+EMP101763,Dewi Tri Halim,4.0,92.0,25.0,5.0,4.0,5.0,4.0,4.0
+EMP101764,Luthfi Jatmiko Firmansyah,5.0,133.0,34.0,5.0,4.0,5.0,5.0,5.0
+EMP101765,Utami Erlangga Herlambang,,,,3.0,5.0,4.0,3.0,4.0
+EMP101766,Kartika Aji Pradana,3.0,88.0,11.0,3.0,3.0,,3.0,2.0
+EMP101767,Nadia Maulida,3.0,98.0,21.0,2.0,3.0,3.0,3.0,3.0
+EMP101768,Satya Yudhistira Saputra,3.0,87.0,24.0,4.0,3.0,3.0,4.0,2.0
+EMP101769,Ayunda Saputra Rohman,3.0,,,3.0,3.0,4.0,2.0,3.0
+EMP101770,Zaki Qolbi Gunawan,2.0,,,2.0,3.0,2.0,2.0,1.0
+EMP101771,Zahra Dharma Firmansyah,5.0,111.0,23.0,5.0,4.0,5.0,5.0,
+EMP101772,Tania Rachman Lestari,2.0,,,1.0,2.0,2.0,1.0,2.0
+EMP101773,Lestari Lestari Salsabila,3.0,,,4.0,,3.0,3.0,2.0
+EMP101774,Arif Anugrah Putra,1.0,,,1.0,1.0,1.0,2.0,1.0
+EMP101775,Dimas Ginting,3.0,89.0,24.0,3.0,3.0,4.0,3.0,3.0
+EMP101776,Dwi Wijaya,1.0,109.0,36.0,1.0,1.0,1.0,1.0,1.0
+EMP101777,Sari Lukman,2.0,,,1.0,2.0,2.0,1.0,
+EMP101778,Dian Wijaya Setiawan,3.0,96.0,23.0,4.0,3.0,3.0,3.0,2.0
+EMP101779,Rifqi Kusuma Kusuma,3.0,121.0,30.0,4.0,3.0,4.0,3.0,3.0
+EMP101780,Vania Utama Zulfikar,4.0,96.0,30.0,5.0,4.0,3.0,3.0,4.0
+EMP101781,Bella Candra Zulfikar,5.0,127.0,17.0,,5.0,,5.0,5.0
+EMP101782,Prasetyo Mahardika Herlambang,3.0,95.0,28.0,4.0,3.0,3.0,2.0,2.0
+EMP101783,Nurlita Suharto,3.0,132.0,37.0,3.0,3.0,3.0,4.0,3.0
+EMP101784,Dwi Indrawan,3.0,88.0,27.0,2.0,2.0,3.0,4.0,4.0
+EMP101785,Wulan Qolbi Yulianto,1.0,120.0,31.0,1.0,1.0,1.0,1.0,
+EMP101786,Citra Mahardika Halim,4.0,,25.0,,3.0,4.0,4.0,5.0
+EMP101787,Zaki Subekti,5.0,135.0,21.0,5.0,5.0,5.0,5.0,5.0
+EMP101788,Valdo Qolbi Utami,4.0,120.0,31.0,3.0,4.0,4.0,4.0,5.0
+EMP101789,Oktavia Siregar,3.0,127.0,31.0,2.0,3.0,3.0,4.0,3.0
+EMP101790,Valdo Suharto,3.0,,,2.0,3.0,4.0,3.0,3.0
+EMP101791,Luthfi Salsabila,4.0,97.0,25.0,5.0,4.0,4.0,4.0,3.0
+EMP101792,Nadia Kusuma,5.0,140.0,29.0,4.0,5.0,5.0,4.0,5.0
+EMP101793,Umar Nugroho,2.0,130.0,22.0,3.0,2.0,2.0,2.0,3.0
+EMP101794,Nadia Tamba,4.0,138.0,39.0,4.0,5.0,5.0,4.0,5.0
+EMP101795,Ayunda Tamba,4.0,,,5.0,4.0,4.0,4.0,
+EMP101796,Bayu Rahmawati,3.0,105.0,18.0,2.0,3.0,3.0,4.0,3.0
+EMP101797,Rani Ananda,3.0,101.0,19.0,4.0,3.0,2.0,,4.0
+EMP101798,Bayu Situmorang,,139.0,29.0,2.0,2.0,,2.0,2.0
+EMP101799,Rani Ganesha Rohman,4.0,,,5.0,,4.0,4.0,4.0
+EMP101800,Eko Fadillah Halim,2.0,116.0,9.0,1.0,1.0,1.0,2.0,1.0
+EMP101801,Cahyo Wibowo,4.0,,,3.0,4.0,4.0,3.0,5.0
+EMP101802,Tania Wijaya Lukman,5.0,98.0,36.0,5.0,5.0,5.0,5.0,5.0
+EMP101803,Bella Rachman Hidayat,4.0,81.0,30.0,4.0,4.0,,3.0,3.0
+EMP101804,Nurlita Baskara Sinaga,4.0,107.0,23.0,4.0,4.0,4.0,4.0,4.0
+EMP101805,Evi Putra,3.0,122.0,17.0,3.0,4.0,2.0,4.0,3.0
+EMP101806,Indra Iqbal Lukman,4.0,123.0,34.0,4.0,4.0,,5.0,5.0
+EMP101807,Satya Fauziah,3.0,136.0,19.0,3.0,2.0,4.0,,3.0
+EMP101808,Dewi Rachman Simanjuntak,1.0,80.0,21.0,1.0,2.0,1.0,1.0,1.0
+EMP101809,Dinda Suharto,5.0,108.0,24.0,4.0,5.0,4.0,5.0,5.0
+EMP101810,Dwi Tri Hartanto,4.0,132.0,18.0,,3.0,5.0,5.0,4.0
+EMP101811,Adit Yudhistira Putra,4.0,,38.0,4.0,4.0,3.0,4.0,3.0
+EMP101812,Prasetyo Sinaga,4.0,106.0,21.0,3.0,4.0,4.0,4.0,4.0
+EMP101813,Julia Fauziah,3.0,104.0,33.0,3.0,2.0,2.0,3.0,3.0
+EMP101814,Rendra Wijaya Ramadhan,,102.0,20.0,2.0,3.0,3.0,2.0,3.0
+EMP101815,Valdo Setiawan,3.0,135.0,31.0,3.0,3.0,4.0,3.0,4.0
+EMP101816,Rani Anugrah Zulfikar,2.0,89.0,21.0,2.0,2.0,1.0,3.0,
+EMP101817,Luthfi Pramudita Pradana,5.0,132.0,30.0,3.0,3.0,2.0,4.0,2.0
+EMP101818,Oka Anugrah Kusuma,4.0,122.0,26.0,5.0,4.0,4.0,5.0,3.0
+EMP101819,Tania Ananda,4.0,140.0,33.0,3.0,5.0,4.0,4.0,4.0
+EMP101820,Dinda Zulfikar Rahmawati,3.0,113.0,31.0,4.0,3.0,3.0,2.0,2.0
+EMP101821,Umar Halim,2.0,106.0,39.0,2.0,2.0,2.0,1.0,2.0
+EMP101822,Nadia Anugrah Lestari,,93.0,31.0,4.0,,3.0,5.0,
+EMP101823,Prasetyo Jatmiko Rohman,3.0,86.0,36.0,4.0,4.0,2.0,3.0,2.0
+EMP101824,Galih Zulfikar Permadi,,,,5.0,,5.0,5.0,3.0
+EMP101825,Adit Iqbal Santoso,1.0,,,1.0,1.0,1.0,1.0,2.0
+EMP101826,Yuni Situmorang,2.0,91.0,14.0,1.0,2.0,1.0,,2.0
+EMP101827,Fajar Candra Zulfikar,2.0,81.0,28.0,2.0,2.0,1.0,2.0,1.0
+EMP101828,Eko Halim,5.0,,,5.0,5.0,5.0,4.0,5.0
+EMP101829,Umar Ganesha Maulida,4.0,89.0,24.0,4.0,4.0,4.0,4.0,3.0
+EMP101830,Umar Setiawan,3.0,80.0,17.0,2.0,2.0,3.0,3.0,3.0
+EMP101831,Cahyo Wijaya Lukman,2.0,107.0,33.0,1.0,,2.0,1.0,2.0
+EMP101832,Eko Putra,3.0,123.0,25.0,3.0,4.0,4.0,3.0,3.0
+EMP101833,Zaki Lukman,4.0,140.0,27.0,4.0,3.0,4.0,4.0,3.0
+EMP101834,Fitri Subekti,1.0,85.0,31.0,1.0,1.0,1.0,2.0,
+EMP101835,Yoga Kusuma,3.0,121.0,26.0,3.0,3.0,3.0,2.0,4.0
+EMP101836,Luthfi Ramadhan,4.0,106.0,39.0,4.0,4.0,4.0,4.0,4.0
+EMP101837,Zahra Iqbal Pradana,3.0,137.0,29.0,3.0,3.0,3.0,3.0,3.0
+EMP101838,Intan Aji Simanjuntak,4.0,,,4.0,3.0,4.0,4.0,4.0
+EMP101839,Rendra Mahendra,2.0,117.0,31.0,2.0,1.0,3.0,2.0,2.0
+EMP101840,Rizka Erlangga Ananda,2.0,123.0,24.0,2.0,2.0,2.0,3.0,2.0
+EMP101841,Bella Lukman,,113.0,29.0,,3.0,4.0,2.0,3.0
+EMP101842,Luthfi Baskara Saputra,2.0,,,3.0,1.0,2.0,1.0,1.0
+EMP101843,Ayunda Halim,3.0,97.0,33.0,4.0,3.0,3.0,4.0,3.0
+EMP101844,Dimas Wijaya,2.0,,32.0,1.0,1.0,2.0,2.0,2.0
+EMP101845,Ahmad Salsabila,,114.0,18.0,4.0,4.0,4.0,4.0,4.0
+EMP101846,Arif Suharto,4.0,88.0,16.0,5.0,,4.0,4.0,4.0
+EMP101847,Sari Utama Maulida,3.0,,,3.0,4.0,4.0,4.0,3.0
+EMP101848,Yuni Pamungkas,5.0,138.0,39.0,5.0,,5.0,5.0,5.0
+EMP101849,Teguh Tri Pratama,3.0,95.0,39.0,,3.0,4.0,3.0,3.0
+EMP101850,Kartika Saputra Kusuma,3.0,123.0,23.0,3.0,3.0,3.0,2.0,3.0
+EMP101851,Yuni Aji Purnama,2.0,,25.0,2.0,2.0,2.0,2.0,2.0
+EMP101852,Nugroho Dharma Mahendra,1.0,135.0,16.0,1.0,1.0,1.0,1.0,1.0
+EMP101853,Kurnia Suharto,5.0,,,5.0,5.0,5.0,5.0,5.0
+EMP101854,Joko Mahendra,4.0,93.0,19.0,4.0,4.0,4.0,4.0,3.0
+EMP101855,Rizki Pratama,3.0,116.0,20.0,3.0,3.0,3.0,3.0,3.0
+EMP101856,Hadi Jatmiko Subekti,4.0,124.0,18.0,5.0,3.0,4.0,3.0,
+EMP101857,Andi Hartanto,4.0,88.0,17.0,,4.0,4.0,5.0,4.0
+EMP101858,Intan Candra Siregar,5.0,127.0,30.0,5.0,5.0,4.0,5.0,
+EMP101859,Ayunda Lestari Ridwan,2.0,96.0,40.0,1.0,,2.0,3.0,2.0
+EMP101860,Putri Pamungkas,3.0,139.0,25.0,,4.0,2.0,4.0,3.0
+EMP101861,Fajar Saputra Kurniawan,2.0,88.0,23.0,,2.0,2.0,2.0,1.0
+EMP101862,Rendra Sinaga,5.0,109.0,26.0,5.0,5.0,4.0,5.0,5.0
+EMP101863,Wahyu Lestari,1.0,124.0,40.0,1.0,1.0,1.0,1.0,1.0
+EMP101864,Putri Utama Siregar,4.0,106.0,20.0,4.0,4.0,5.0,4.0,
+EMP101865,Anisa Qolbi Setiawan,3.0,103.0,31.0,,,3.0,3.0,3.0
+EMP101866,Julia Tri Wibowo,3.0,99.0,33.0,3.0,3.0,99.0,3.0,2.0
+EMP101867,Rizki Rahmawati,,92.0,19.0,3.0,2.0,3.0,3.0,3.0
+EMP101868,Dinda Hidayat,3.0,100.0,31.0,3.0,3.0,4.0,3.0,2.0
+EMP101869,Mahendra Nugroho,4.0,113.0,28.0,3.0,4.0,5.0,,3.0
+EMP101870,Ayu Wijaya Putra,3.0,,33.0,2.0,3.0,2.0,,4.0
+EMP101871,Zaki Tamba,3.0,98.0,29.0,,4.0,4.0,3.0,3.0
+EMP101872,Ahmad Erlangga Maulida,1.0,87.0,26.0,1.0,,1.0,1.0,2.0
+EMP101873,Ahmad Tamba,,98.0,27.0,2.0,,2.0,,1.0
+EMP101874,Nadia Siregar,4.0,,,4.0,4.0,5.0,4.0,4.0
+EMP101875,Rendra Santoso,3.0,98.0,20.0,3.0,3.0,3.0,3.0,2.0
+EMP101876,Tania Saputra,3.0,95.0,26.0,2.0,,3.0,2.0,4.0
+EMP101877,Iman Suharto,,134.0,33.0,2.0,2.0,,3.0,3.0
+EMP101878,Teguh Herlambang,5.0,85.0,24.0,4.0,5.0,5.0,5.0,5.0
+EMP101879,Rani Handayani,4.0,89.0,35.0,4.0,4.0,4.0,4.0,
+EMP101880,Nadia Nabila Pradana,2.0,115.0,16.0,2.0,1.0,2.0,2.0,1.0
+EMP101881,Dewi Dharma Ramadhan,4.0,117.0,31.0,4.0,5.0,3.0,3.0,4.0
+EMP101882,Vania Rachman Anggara,3.0,133.0,28.0,2.0,3.0,3.0,4.0,
+EMP101883,Rama Baskara Ramadhan,2.0,115.0,26.0,2.0,3.0,2.0,1.0,1.0
+EMP101884,Novi Anugrah Nugroho,3.0,,,2.0,,3.0,4.0,3.0
+EMP101885,Gita Utami,2.0,92.0,42.0,,3.0,,1.0,2.0
+EMP101886,Joko Saputra Salsabila,3.0,,,3.0,2.0,4.0,2.0,3.0
+EMP101887,Bella Nabila Utami,4.0,88.0,28.0,4.0,4.0,4.0,4.0,
+EMP101888,Citra Mahendra,2.0,,,1.0,2.0,2.0,2.0,2.0
+EMP101889,Julia Kusuma,1.0,120.0,24.0,1.0,2.0,1.0,1.0,2.0
+EMP101890,Prasetyo Qolbi Maulida,5.0,,,,4.0,5.0,5.0,4.0
+EMP101891,Budi Nugroho,5.0,86.0,31.0,3.0,3.0,3.0,3.0,3.0
+EMP101892,Evi Pratama,2.0,105.0,32.0,,1.0,1.0,,2.0
+EMP101893,Julia Situmorang,1.0,,,1.0,1.0,1.0,1.0,1.0
+EMP101894,Tania Nugroho,,,36.0,,4.0,4.0,4.0,
+EMP101895,Yuni Saputra Wibowo,4.0,97.0,32.0,4.0,4.0,5.0,4.0,4.0
+EMP101896,Bayu Lestari Subekti,4.0,,,3.0,4.0,5.0,4.0,
+EMP101897,Vania Utama Lestari,2.0,,23.0,3.0,2.0,1.0,3.0,2.0
+EMP101898,Joko Candra Purnama,2.0,,,2.0,1.0,1.0,3.0,2.0
+EMP101899,Hana Aji Maulana,4.0,103.0,15.0,4.0,,4.0,,3.0
+EMP101900,Bella Lestari Simanjuntak,1.0,111.0,33.0,1.0,1.0,1.0,1.0,1.0
+EMP101901,Julia Putra,2.0,94.0,30.0,2.0,2.0,2.0,2.0,2.0
+EMP101902,Citra Anugrah Purnama,2.0,115.0,35.0,2.0,1.0,2.0,,3.0
+EMP101903,Kartika Fadillah Yulianto,4.0,,,,3.0,4.0,3.0,4.0
+EMP101904,Eko Subekti,2.0,,,2.0,,2.0,1.0,1.0
+EMP101905,Wulan Utama Wibowo,4.0,100.0,23.0,4.0,4.0,4.0,4.0,4.0
+EMP101906,Arif Saputra,4.0,,,3.0,3.0,4.0,4.0,5.0
+EMP101907,Fitri Fauziah,4.0,,,4.0,3.0,5.0,4.0,5.0
+EMP101908,Adi Candra Indrawan,4.0,117.0,22.0,5.0,5.0,3.0,4.0,4.0
+EMP101909,Kurnia Kusuma,3.0,104.0,37.0,3.0,2.0,3.0,,3.0
+EMP101910,Fitri Saputra Firmansyah,1.0,,,1.0,2.0,2.0,1.0,1.0
+EMP101911,Lestari Ganesha Zulfikar,4.0,96.0,23.0,4.0,5.0,4.0,4.0,3.0
+EMP101912,Umar Ramadhan,4.0,,,4.0,4.0,4.0,5.0,4.0
+EMP101913,Anisa Baskara Maulida,2.0,91.0,37.0,2.0,1.0,1.0,2.0,1.0
+EMP101914,Wulan Ramadhan,1.0,,29.0,1.0,2.0,1.0,1.0,
+EMP101915,Dewi Candra Lukman,4.0,116.0,16.0,4.0,5.0,4.0,5.0,
+EMP101916,Adit Zulfikar Siregar,3.0,139.0,28.0,3.0,2.0,,2.0,4.0
+EMP101917,Bella Ginting,2.0,100.0,22.0,2.0,1.0,2.0,2.0,2.0
+EMP101918,Nabila Yudhistira Pradana,4.0,110.0,31.0,5.0,,4.0,4.0,4.0
+EMP101919,Wulan Rachman Ginting,2.0,137.0,40.0,2.0,2.0,,,2.0
+EMP101920,Nurlita Sinaga,,107.0,26.0,,3.0,3.0,3.0,
+EMP101921,Dian Adi Tamba,1.0,128.0,25.0,2.0,1.0,1.0,2.0,1.0
+EMP101922,Bayu Mahardika Handayani,2.0,96.0,27.0,3.0,3.0,2.0,2.0,0.0
+EMP101923,Vania Fadillah Mahendra,4.0,123.0,20.0,4.0,,4.0,3.0,4.0
+EMP101924,Dian Anggara,4.0,130.0,29.0,4.0,4.0,5.0,4.0,6.0
+EMP101925,Rizka Iqbal Nugroho,3.0,89.0,37.0,3.0,2.0,,3.0,3.0
+EMP101926,Zahra Maulida,3.0,84.0,21.0,4.0,3.0,,3.0,3.0
+EMP101927,Eko Ganesha Handayani,4.0,,24.0,4.0,4.0,4.0,5.0,4.0
+EMP101928,Mahendra Pratomo,1.0,99.0,24.0,2.0,1.0,1.0,1.0,1.0
+EMP101929,Ayunda Pratomo,3.0,89.0,27.0,4.0,2.0,3.0,2.0,
+EMP101930,Budi Ramadhan,3.0,,,4.0,4.0,3.0,2.0,3.0
+EMP101931,Ayu Sinaga,5.0,,28.0,3.0,3.0,3.0,2.0,3.0
+EMP101932,Wahyu Saputra Fauziah,3.0,,,2.0,2.0,4.0,3.0,3.0
+EMP101933,Dwi Lestari Lestari,3.0,136.0,26.0,3.0,4.0,3.0,4.0,3.0
+EMP101934,Yoga Halim Syahputra,4.0,118.0,25.0,3.0,5.0,4.0,4.0,4.0
+EMP101935,Hadi Maulida,4.0,84.0,17.0,4.0,4.0,5.0,,3.0
+EMP101936,Dwi Syahputra,4.0,100.0,29.0,3.0,4.0,4.0,5.0,4.0
+EMP101937,Joko Anugrah Suharto,3.0,99.0,30.0,3.0,2.0,2.0,2.0,3.0
+EMP101938,Oka Halim Purnama,4.0,81.0,34.0,4.0,3.0,5.0,5.0,5.0
+EMP101939,Rafa Syahputra,,86.0,23.0,2.0,2.0,1.0,,
+EMP101940,Rani Sinaga,2.0,,,3.0,2.0,,2.0,2.0
+EMP101941,Hana Halim Wijaya,3.0,103.0,32.0,3.0,3.0,,,3.0
+EMP101942,Evi Rachman Pamungkas,2.0,125.0,30.0,2.0,2.0,2.0,2.0,3.0
+EMP101943,Rama Rachman Ginting,3.0,,,3.0,3.0,2.0,3.0,3.0
+EMP101944,Dewi Utami,,99.0,30.0,3.0,3.0,3.0,3.0,3.0
+EMP101945,Mahendra Wibowo,3.0,128.0,29.0,6.0,3.0,3.0,3.0,3.0
+EMP101946,Putri Maulida,3.0,,,3.0,3.0,,3.0,3.0
+EMP101947,Gita Lukman,1.0,122.0,22.0,1.0,1.0,1.0,1.0,1.0
+EMP101948,Utami Lestari Indrawan,3.0,108.0,26.0,3.0,3.0,2.0,3.0,
+EMP101949,Nugroho Dharma Indrawan,3.0,86.0,27.0,2.0,3.0,3.0,3.0,2.0
+EMP101950,Teguh Rachman Salsabila,4.0,84.0,31.0,4.0,3.0,5.0,4.0,4.0
+EMP101951,Putri Firmansyah,,125.0,22.0,5.0,4.0,4.0,4.0,4.0
+EMP101952,Bayu Setiawan,3.0,116.0,17.0,4.0,4.0,3.0,3.0,3.0
+EMP101953,Wulan Wijaya Ginting,2.0,128.0,33.0,2.0,2.0,2.0,3.0,2.0
+EMP101954,Rizki Indrawan,3.0,108.0,25.0,3.0,3.0,3.0,3.0,4.0
+EMP101955,Budi Salsabila,3.0,113.0,27.0,4.0,3.0,3.0,3.0,
+EMP101956,Julia Ridwan,3.0,121.0,21.0,4.0,4.0,4.0,4.0,3.0
+EMP101957,Hadi Jatmiko Zulfikar,4.0,139.0,16.0,,4.0,3.0,3.0,4.0
+EMP101958,Hadi Utama Hidayat,2.0,,24.0,2.0,2.0,2.0,2.0,2.0
+EMP101959,Anisa Qolbi Fauziah,,101.0,24.0,3.0,4.0,4.0,4.0,4.0
+EMP101960,Kurnia Sinaga,,82.0,19.0,4.0,4.0,4.0,4.0,4.0
+EMP101961,Indra Kusuma Purnama,4.0,95.0,25.0,5.0,3.0,4.0,4.0,4.0
+EMP101962,Rani Yudhistira Anggara,2.0,99.0,30.0,2.0,,,2.0,1.0
+EMP101963,Zahra Mahendra,5.0,105.0,31.0,5.0,5.0,5.0,5.0,5.0
+EMP101964,Joko Handayani,2.0,118.0,27.0,2.0,2.0,2.0,2.0,1.0
+EMP101965,Dimas Candra Ramadhan,,113.0,17.0,3.0,3.0,2.0,2.0,1.0
+EMP101966,Dewi Wijaya,2.0,115.0,38.0,3.0,3.0,2.0,3.0,2.0
+EMP101967,Tania Halim Zulfikar,1.0,,,1.0,1.0,1.0,1.0,2.0
+EMP101968,Lestari Siregar,1.0,98.0,26.0,1.0,1.0,,1.0,1.0
+EMP101969,Budi Aji Simanjuntak,,,,1.0,1.0,1.0,1.0,1.0
+EMP101970,Rizky Hidayat,5.0,90.0,21.0,2.0,2.0,4.0,4.0,4.0
+EMP101971,Utami Hasibuan,4.0,97.0,26.0,3.0,3.0,4.0,5.0,4.0
+EMP101972,Evi Wijaya,2.0,120.0,20.0,3.0,2.0,,2.0,2.0
+EMP101973,Putri Siregar,5.0,109.0,30.0,4.0,5.0,5.0,4.0,5.0
+EMP101974,Yoga Dharma Salsabila,5.0,,,,5.0,5.0,5.0,5.0
+EMP101975,Fajar Nugroho,4.0,106.0,30.0,4.0,,4.0,5.0,4.0
+EMP101976,Prasetyo Utami,3.0,,,3.0,,3.0,,3.0
+EMP101977,Teguh Zulfikar,4.0,135.0,25.0,4.0,3.0,5.0,,3.0
+EMP101978,Yuni Erlangga Pratama,2.0,139.0,35.0,2.0,2.0,2.0,1.0,2.0
+EMP101979,Prasetyo Pramudita Saputra,4.0,98.0,39.0,3.0,4.0,4.0,4.0,5.0
+EMP101980,Valdo Ganesha Handayani,,139.0,19.0,3.0,3.0,4.0,3.0,4.0
+EMP101981,Novi Aji Suharto,4.0,,,3.0,4.0,3.0,4.0,3.0
+EMP101982,Joko Santoso,3.0,108.0,35.0,4.0,3.0,2.0,,3.0
+EMP101983,Dinda Qolbi Fauziah,,119.0,27.0,4.0,4.0,4.0,4.0,4.0
+EMP101984,Putri Utami,3.0,125.0,27.0,3.0,3.0,3.0,3.0,2.0
+EMP101985,Dwi Kusuma,2.0,98.0,16.0,2.0,1.0,,3.0,3.0
+EMP101986,Wahyu Pratomo,5.0,131.0,28.0,5.0,5.0,5.0,5.0,5.0
+EMP101987,Ahmad Herlambang,3.0,119.0,32.0,3.0,4.0,3.0,4.0,3.0
+EMP101988,Wulan Tri Pratama,3.0,109.0,41.0,4.0,3.0,3.0,3.0,2.0
+EMP101989,Gita Tri Gunawan,3.0,91.0,18.0,,3.0,,,3.0
+EMP101990,Adi Subekti,2.0,,,2.0,1.0,2.0,2.0,3.0
+EMP101991,Dian Erlangga Yulianto,4.0,132.0,25.0,3.0,4.0,4.0,4.0,4.0
+EMP101992,Maya Anugrah Hasibuan,,110.0,30.0,1.0,2.0,3.0,2.0,2.0
+EMP101993,Rani Utama Simanjuntak,3.0,135.0,45.0,4.0,3.0,3.0,4.0,3.0
+EMP101994,Rani Indrawan,2.0,90.0,20.0,3.0,,1.0,1.0,2.0
+EMP101995,Utami Kusuma Hidayat,3.0,134.0,41.0,3.0,2.0,3.0,4.0,3.0
+EMP101996,Adit Maulana,3.0,,24.0,3.0,2.0,4.0,3.0,3.0
+EMP101997,Satya Halim Putra,3.0,,,,2.0,3.0,3.0,4.0
+EMP101998,Kurnia Subekti,2.0,,19.0,2.0,,2.0,2.0,2.0
+EMP101999,Adit Mahendra,4.0,90.0,25.0,4.0,5.0,4.0,4.0,4.0

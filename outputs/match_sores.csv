@@ -1,0 +1,4 @@
+employee_id,fullname,final_match_rate,tgv_cognitive,tgv_leadership_teamwork
+E001,Alice,92.5,90.0,95.0
+E002,Bob,81.0,78.0,84.0
+E003,Celine,67.2,65.0,69.0
