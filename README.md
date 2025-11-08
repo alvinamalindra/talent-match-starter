@@ -43,5 +43,5 @@ This includes data preparation, setting up Supabase, writing SQL, building the d
 
 ## Key Takeaways  
 - You can learn new frameworks much faster when there’s a deadline.  
-- Simplicity always wins — data means little if people can’t interpret it.  
+- Simplicity always wins data means little if people can’t interpret it.  
 - And sometimes, the best projects happen in airports with bad Wi-Fi and a stubborn laptop battery.
